@@ -1,14 +1,6 @@
 TWIN PEAKS
 #1.003
 
-by
-Harley Peyton
-
-FIRST DRAFT: September 26, 1989
-REVISIONS: October 3, 1989
-
-Converted to PDF by Andre for PDFSCREENPLAYS.NET
-
 ACT ONE
 FADE IN:
 EXT. GREAT NORTHERN HOTEL - DAY
@@ -2361,7 +2353,6 @@ I hope she'll understand...
 HOLD ON them for a beat. Jacoby's sad tears in the dark.
 FADE OUT:
 
-56.
 
 THE END
 
