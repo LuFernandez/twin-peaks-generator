@@ -1,8 +1,4 @@
-TWIN PEAKS
-Episode #2.003
-
-
-ACT ONE
+ACT ONE
 FADE IN:
 1.
 
@@ -26,7 +22,7 @@ COOPER
 Hold her down, Harry. Albert, get your microscope.
 Albert opens his case, takes out a FIELD MICROSCOPE. Cooper takes out a pair of
 tweezers, lifts Ronette's left hand. Her ring finger is bruised and bloodied under the nail.
-COOPER (CONTINUED)
+COOPER 
 (firmly)
 Hold on, Ronette. Hold on.
 Cooper goes in with the tweezers. She screams.
@@ -38,15 +34,15 @@ ALBERT'S MICROSCOPE: A SMALL LETTER
 A piece of paper with the letter "B" on it.
 COOPER
 He's been here.
-(CONTINUED)
 
-2.003
+
+
 3.
 
-Revised 8-1-90, CHERRY
+
 2.
 
-CONTINUED:
+
 TRUMAN
 We had a 24 hour guard.
 COOPER
@@ -91,12 +87,12 @@ You're wearing a different dress than yesterday. A better
 color for you.
 (extending, a hand)
 I've forgotten my manners. I'm Harold Smith.
-(CONTINUED)
 
-3.
+
+3.
 4.
 
-CONTINUED:
+
 DONNA
 I guess you know who I am.
 Smith nods, swings the door open wider. Donna walks into his apartment.
@@ -131,12 +127,12 @@ SMITH
 She said you would ask a lot of questions.
 A Chesire cat smile. Donna decides to slow down.
 
-(CONTINUED)
 
-4.
+
+4.
 5.
 
-CONTINUED:
+
 DONNA
 You don't seem much like a shut in.
 SMITH
@@ -173,12 +169,12 @@ quickly, goes to the bookshelf, tugs on the piece of paper. It won't budge. She 
 between the shelf and the wall, moves closer to take a look, then turns abruptly as the heavy
 door opens behind her and Smith re-enters, carrying, a beautiful orchid plant. He conceals
 any concern about her movements.
-(CONTINUED)
 
-5.
+
+5.
 5.
 
-CONTINUED:(2)
+(2)
 SMITH
 This is a hybrid; a lady-slipper.
 DONNA
@@ -217,11 +213,11 @@ SHERIFF'S STATION - DAY
 Establish.
 CUT TO:
 
-2.003
+
 
 7.
 
-Revised 7-27-90, GREEN
+
 6.
 
 INT. CONFERENCE ROOM - DAY
@@ -256,15 +252,15 @@ No, I gave him my ring.
 Albert deadpans, opens his briefcase on the table and goes to work.
 ALBERT
 Confining my conclusions to the planet Earth ...
-(CONTINUED)
 
-2.003
+
+
 7.
 
-Revised 8-1-90, CHERRY
+
 7.
 
-CONTINUED:
+
 Albert takes out THREE SMALL PACKETS OF COCAINE.
 ALBERT
 The cocaine you found in James Hurley's gas tank is a
@@ -301,17 +297,17 @@ TRUMAN
 Anything we should be working on?
 ALBERT
 Practice walking without dragging your knuckles on the
-(more)
-(CONTINUED)
 
-2.003
+
+
+
 7.
 
-Revised 8-3-90, GOLDENROD
+
 8.
 
-CONTINUED:(2)
-ALBERT (CONTINUED)
+(2)
+ALBERT 
 floor.
 He moves to leave, but Truman blocks his path.
 TRUMAN
@@ -351,17 +347,17 @@ JAMES
 Yes sir.
 COOPER
 You're a Bookhouse Boy. You have an obligation to obey
-(more)
-(CONTINUED)
 
-2.003
+
+
+
 9.
 
-Revised 8-1-90, CHERRY
+
 9.
 
-CONTINUED:
-COOPER (CONTINUED)
+
+COOPER 
 the law. And you have people around you to turn to when
 you're in trouble; that's an obligation, too. Stop trying
 to figure it all out by yourself. Find somebody to talk
@@ -396,16 +392,16 @@ Hello, Dick.
 TREMAYNE
 (sees the game)
 Lucy, I have always considered you a woman of letters.
-(CONTINUED)
 
-2.003
+
+
 
 9.
 
-Revised 7-31-90, YELLOW
+
 9A.
 
-CONTINUED:(2)
+(2)
 Tremayne enjoys his own wit, lights up. Hawk looks at Lucy's letters. Makes a suggestion.
 HAWK
 "Prohibited."
@@ -424,10 +420,10 @@ TREMAYNE
 Did I do something to anger him? Not that native
 people don't have enough reason to be angry per se -
 
-2.003
 
-Revised 8-1-90, CHERRY
-10.
+
+
+
 
 LUCY
 (cold and neutral)
@@ -440,7 +436,7 @@ Lucy, is Agent Cooper here?
 LUCY
 Conference room.
 CUT TO:
-10. INT. CONFERENCE ROOM - DAY
+ INT. CONFERENCE ROOM - DAY
 Truman and Cooper are back on the giant. Hawk listens.
 TRUMAN
 So how tall was he exactly? Did his head hit the ceiling?
@@ -459,8 +455,8 @@ This man. I know him.
 COOPER
 How?
 
-11.
-10. CONTINUED:
+
+ 
 
 LELAND
 When I was a boy my Grandfather had a summer house
@@ -493,10 +489,10 @@ That's our man.
 FADE OUT:
 END ACT ONE
 
-12.
+
 ACT TWO
 FADE IN:
-11. INT. GREAT NORTHERN LOBBY - DAY
+ INT. GREAT NORTHERN LOBBY - DAY
 Cooper walks thru the busy lobby heading towards Ben Horn's office. The ASIAN MAN
 watches Cooper move thru the Lobby. As Cooper gets closer the man slowly pulls a
 newspaper up to cover his face.
@@ -528,14 +524,14 @@ COOPER
 She didn't say. She referenced seeing me in a tuxedo. I
 Was wearing a tux here at the hotel the night I was shot.
 
-(CONTINUED)
 
-2.003
 
-Revised 7-27-90, GREEN
-13.
 
-11. CONTINUED:
+
+
+
+
+ 
 BEN
 Mr. Cooper, as I told you, Audrey's gone missing
 before on a semi-regular basis COOPER
@@ -568,12 +564,12 @@ Horne moves on. Cooper exits, biting his tongue in self-reproachment. The Asian 
 down his newspaper and follows Cooper out of the hotel.
 CUT TO:
 
-2.003
 
-Revised 8-3-90, GOLDENROD
-14.
 
-12. INT. ROOM AT ONE-EYED JACKS - DAY
+
+
+
+ INT. ROOM AT ONE-EYED JACKS - DAY
 A 52 PICK-UP wraps a rubber tube around the arm of AUDREY HORNE who is gagged and
 tied into a chair. EMORY BATTIS operates a video camera focused on Audrey. A black
 sheet hangs behind so that it is impossible to tell where she is. BLACKIE O'REILLY tests a
@@ -604,20 +600,20 @@ have all the help we need.
 He nods. She disposes of the syringe. On the tv Audrey's eyes roll back into her head as the
 heroin takes over.
 
-2.003
 
-Revised 7-27-90, GREEN
-15.
 
-BLACKIE (CONTINUED)
+
+
+
+BLACKIE 
 Look at her. Riding the white tiger. In a few days she
 won't want to come down. Just like her father did to
 me.
 CUT TO:
-13. EXT. DOUBLE R DINER - DAY
+ EXT. DOUBLE R DINER - DAY
 Establish.
 CUT TO:
-14. INT. DOUBLE R DINER - DAY
+ INT. DOUBLE R DINER - DAY
 Tremayne wolfes down his meatloaf. Lucy nibbles.
 TREMAYNE
 - of course, most of the time I keep my department
@@ -631,14 +627,14 @@ a request for a vulcanized macintosh , for instance, is it
 heading "r" for raingear or "w" for waterproof? My
 familiarity with inventory has me leaning towards "r" -
 
-(CONTINUED)
 
-2.003
 
-Revised 7-27-90, GREEN
-16.
 
-14. CONTINUED:
+
+
+
+
+ 
 
 Richard happily digs into his meatloaf.
 TREMAYNE
@@ -668,17 +664,17 @@ at the Space Needle in Seattle. And even though you
 took me to Family Night at the Pancake Plantation
 instead, I still couldn't help but think it would mean
 something special, when in fact the only thing special we
-(more)
-(CONTINUED)
 
-2.003
 
-Revised 7-27-90, GREEN
-17.
 
-14. CONTINUED:(2)
+
+
+
+
+
+ (2)
 LUCY
-(continued)
+
 did that night was drink two bottles of champagne and
 end up on a display bed in Horne's home furnishings. I
 admit it was daring and that made it exciting, still I
@@ -701,7 +697,7 @@ I am pregnant, Richard. Pregnant.
 TREMAYNE
 Preggers?
 CUT TO:
-15. INT. DINER BOOTH - DAY
+ INT. DINER BOOTH - DAY
 James enters the diner and slides into a booth where MADDY FERGUSON waits. She looks
 different; a more attractive dress, and her hair seems softer with more of a sheen.
 JAMES
@@ -712,10 +708,10 @@ Funny, I hardly remember putting, it on.
 JAMES
 It looks good on you. It looks, I don't know ... right.
 
-2.003
 
-Revised 7-27-90, GREEN
-18.
+
+
+
 
 She blushes. Looks away.
 MADDY
@@ -750,14 +746,14 @@ can trust is you.
 Donna enters the diner. Notices James and Maddy holding hands. Moves to them. They see
 her and let go.
 
-(CONTINUED)
 
-2.003
 
-Revised 7-27-90, GREEN
-19.
 
-15. CONTINUED:(2)
+
+
+
+
+ (2)
 JAMES
 Donna, where've you been? You're late.
 DONNA
@@ -784,19 +780,12 @@ Why don't you sit here and hold hands and try and figure
 it out?
 Donna leaves quickly. James and Maddy look at each other.
 CUT TO:
-16. INT. CONFERENCE ROOM - DAY
+ INT. CONFERENCE ROOM - DAY
 PHILLIP MICHAEL GERARD, the one armed man, is trying to sell shoes to Truman.
 Sitting on the table is a stack of posters of the Iong haired man. Gerard holds
 
-(more)
-(CONTINUED)
 
-2.003
 
-Revised 7-24-90, PINK
-20.
-
-16. CONTINUED:
 GERARD
 Now these babies are perfect for heavy field work, and
 extremely versatile. Durable with a steel reinforced toe.
@@ -833,12 +822,12 @@ Let me give you a hand.
 Truman helps him to the door.
 CUT TO:
 
-2.003
 
-Revised 8-3-90, GOLDENROD
-21.
 
-17. INT. RECEPTION AREA - DAY
+
+
+
+ INT. RECEPTION AREA - DAY
 Shelly waits at the reception area. Truman notices Shelly as he shows Gerard to the
 bathroom.
 TRUMAN
@@ -853,7 +842,7 @@ COOPER
 Shelly, come on in.
 Cooper and Shelly enter the sheriff's office.
 CUT TO:
-18. INT. SHERIFF'S OFFICE - DAY
+ INT. SHERIFF'S OFFICE - DAY
 Truman enters a moment later.
 TRUMAN
 Thanks for coming down, Shelly SHELLY
@@ -871,14 +860,14 @@ make?
 TRUMAN
 Shelly, we know Leo started the fire and we know you
 were there
-(CONTINUED)
 
-2.003
 
-Revised 8-3-90, GOLDENROD
-22.
 
-18. CONTINUED:
+
+
+
+
+ 
 SHELLY
 I'm not going to say anything against him ... I love him.
 COOPER
@@ -913,12 +902,12 @@ What two people.
 They look at each other.
 CUT TO:
 
-2.003
 
-Revised 7-19-90, BLUE
-23.
 
-19. INT. SHERIFF'S STATION BATHROOM - DAY
+
+
+
+ INT. SHERIFF'S STATION BATHROOM - DAY
 Phil Gerard stands in front of the mirror, violently agitated. Hands shaking, he takes a
 SYRINGE out of an embroidered antique MEDICINE CASE. Trying to hurry an injection,
 he drops the syringe. Scrambling for it he accidently kicks it under a stall.
@@ -935,14 +924,14 @@ I'm after you now.
 FADE OUT:
 END ACT TWO
 
-2.003
 
-Revised 8-3-90, GOLDENROD
-24.
+
+
+
 
 ACT THREE
 FADE IN:
-20. INT. ONE-EYED JACKS BEDROOM - DAY
+ INT. ONE-EYED JACKS BEDROOM - DAY
 JEAN RENAULT, tall, lean, hard, sits next to AUDREY HORN, who lies barely awake in
 bed. Blackie's younger, tougher sister NANCY O'REILLY sits nearby, holding a covered
 tray.
@@ -957,7 +946,7 @@ Here, I brought you something.
 Let me do this for you. Open wide.
 Jean places the candy on Audrey's tongue. He slowly swirls it around the inside of her
 mouth.
-JEAN (CONTINUED)
+JEAN 
 English caramels. Sugar's what you need.
 Audrey sucks hungrily on his finger. He pulls the candy out of her mouth.
 AUDREY
@@ -974,12 +963,12 @@ He injects her off-camera. She moans, then starts to nod off. Jean and Nancy exc
 lascivious look.
 CUT TO:
 
-2.003
 
-Revised 8-3-90, GOLDENROD
-25.
 
-21. INT. BLACKIE'S OFFICE - DAY
+
+
+
+ INT. BLACKIE'S OFFICE - DAY
 Blackie and Battis watch a TAPE on one the security screens on her desk; Blackie points out
 Cooper on the tape, in his tux, gambling at One Eyed Jack's.
 BLACKIE
@@ -1015,7 +1004,7 @@ He presses Battis' nose up against the screen next to Cooper's image.
 BATTIS
 Cooper.
 
-26.
+
 JEAN
 And all you have to do is give him to me.
 BATTIS
@@ -1053,24 +1042,24 @@ She stays. You get the cash. I get Cooper. Everybody's
 happy. Of course, we can't let the girl live now, can we?
 CUT TO:
 
-2.003
 
-22. OMITTED
 
-Revised 7-31-90, YELLOW
-27.
+ OMITTED
 
-2.003
 
-Revised 7-31-90, YELLOW
-28.
 
-23. INT. TRUMAN'S OFFICE - DAY - 23.
+
+
+
+
+
+
+ INT. TRUMAN'S OFFICE - DAY -
 Truman talks on the phone looking out the window.
 TRUMAN
 Thanks, Pete. I appreciate the call.
 He hangs up. Then looks up to see Cooper in the door way.
-TRUMAN (CONTINUED)
+TRUMAN 
 Josie called Pete. She'll be back tomorrow afternoon.
 COOPER
 Let's get her down here.
@@ -1084,10 +1073,10 @@ TRUMAN
 Sometimes that's easier said than done.
 Pause.
 
-2.003
 
-Revised 7-27-90, GREEN
-29.
+
+
+
 
 COOPER
 Talk to her. Bring her in.
@@ -1123,21 +1112,21 @@ The one-armed man was here?
 TRUMAN
 That's what I just said.
 
-(CONTINUED)
 
-2.003
 
-Revised 7-27-90, GREEN
-30.
 
-23. CONTINUED:(2)
+
+
+
+
+ (2)
 COOPER
 In my dream, the one-armed man knew Bob.
 TRUMAN
 So?
 Cooper quickly leaves the room. Truman and Hawk look at each other and follow.
 CUT TO:
-24. INT. BATHROOM - DAY
+ INT. BATHROOM - DAY
 Cooper bursts through the door, looks around, opens each of the stalls. Hawk and Truman
 enter behind him.
 TRUMAN
@@ -1148,7 +1137,7 @@ COOPER
 We've got to find the one-armed man. It's the giant's
 third clue. "Without chemicals, he points."
 CUT TO:
-25. EXT. JAMES HURLEY'S HOME - DAY
+ EXT. JAMES HURLEY'S HOME - DAY
 A housetrailer on a lonely lot with a couple of aluminum lean-to's off the house. The shades
 on the window are drawn. James, wheels his Harley into one of the lean-to's. A late model
 car pulls up with man driving. COLLEEN HURLEY gets out of the passenger side. She is
@@ -1162,7 +1151,7 @@ My fair haired boy?
 JAMES
 I was at school. It's a school day.
 
-25. CONTINUED:
+ 
 COLLEEN
 God bless the public indoctrination system. Keeps the
 kids off the streets, keeps the streets safe for the street
@@ -1198,16 +1187,16 @@ JAMES
 You don't know anything.
 COLLEEN
 I know girl trouble when I see it. Some little logtown
-(more)
-(CONTINUED)
 
-2.003
 
-Revised 7-27-90, GREEN
-32.
 
-25. CONTINUED:(2)
-COLLEEN (continued)
+
+
+
+
+
+ (2)
+COLLEEN 
 siren's cut you up. I recognize the wound patterns.
 JAMES
 You sure can spot it, Ma.
@@ -1226,7 +1215,7 @@ She was both.
 COLLEEN
 Ah, but that's the secret, Jimmy boy, They all are.
 CUT TO:
-26. INT. HOSPITAL - DAY
+ INT. HOSPITAL - DAY
 Under DOC HAYWARD'S supervision a MALE ORDERLY and another MAN wearing a
 shirt that reads "Twin Peaks Security Co." finish putting metal restraints around NADINE
 HURLEY'S wrists, as ED HURLEY stands by.
@@ -1240,16 +1229,16 @@ How is that possible?
 HAYWARD
 I ran a blood test; she's pumping out adrenaline like a
 wildcat well, never seen anything like it.
-(more)
-(CONTINUED)
 
-2.003
 
-Revised 7-27-90, GREEN
-33.
 
-26. CONTINUED:
-HAYWARD (continued)
+
+
+
+
+
+ 
+HAYWARD 
 You being here might calm her down. Talk to her.
 Maybe sing. Does she have a favorite song?
 ED
@@ -1271,15 +1260,15 @@ chorus, Nadine begins to squeeze his hand. Hard. Ed tries to pull away with no l
 bravely continues to sing.
 Nadine is now practically breaking his hand. Ed keeps singing thru the pain.
 
-(more)
-(CONTINUED)
 
-2.003
 
-Revised 7-19-90, BLUE
-34.
 
-26. CONTINUED:(2)
+
+
+
+
+
+ (2)
 Nadine lets go of his hand and snaps the metal meshes that hold her hands. They explode off
 her wrists. Ed staggers back. Nadine's hands begin to clap in rhythm.
 ED
@@ -1306,14 +1295,14 @@ Nadine beams. Ed states at her.
 FADE OUT:
 END ACT THREE
 
-2.003
 
-Revised 7-27-90, GREEN
-35.
+
+
+
 
 ACT FOUR
 FADE IN:
-27. INT. JACOBY'S HOSPITAL ROOM
+ INT. JACOBY'S HOSPITAL ROOM
 Truman and Cooper enter. A beautiful young HAWAIIAN WOMAN kneels beside DR.
 JACOBY. Cooper and Truman watch her for a moment. She nods to Truman and Cooper.
 TRUMAN
@@ -1339,15 +1328,15 @@ JACOBY
 Sheriff, could you hold that just beyond the bed.
 He relaxes, focusing on the stone that Truman is holding
 
-(CONTINUED)
 
-2.003
 
-Revised 7-19-90, BLUE
-36.
 
-27. CONTINUED:
-JACOBY (CONTINUED)
+
+
+
+
+ 
+JACOBY 
 Okay, Agent Cooper. I'm ready.
 COOPER
 (reading)
@@ -1357,7 +1346,7 @@ pristine white sandtraps and a lily filled pond yawn out
 towards the emerald fairway. A warm whisper of a
 breeze moves the flowers on the water ever so slightly.
 Jacoby's eyes slowly close.
-COOPER (CONTINUED)
+COOPER 
 The hole seems to slowly drift away across the green
 towards the pond, carried by the summer wind. The
 green grows larger and larger ... the green engulfs you,
@@ -1383,14 +1372,14 @@ JACOBY
 Right.
 COOPER
 Do you smell anything? Burned engine oil?
-(CONTINUED)
 
-2.003
 
-Revised 7-19-90, BLUE
-37.
 
-27. CONTINUED:(2)
+
+
+
+
+ (2)
 JACOBY
 No. I smell engine oil in the park.
 COOPER
@@ -1426,19 +1415,19 @@ barking. A bell is ringing. It won't stop. Jacques stops
 moving. I look up to see who's holding the pillow.
 Pause.
 
-2.003
 
-Revised 7-19-90, BLUE
-38.
 
-28. OMITTED
+
+
+
+ OMITTED
 COOPER
 Who is it? Do you see who it is?
 JACOBY
 (surprise)
 I know him.
 CUT TO:
-29. EXT. THE CEMETERY - NIGHT
+ EXT. THE CEMETERY - NIGHT
 Open on LAURA PALMER'S GRAVE. Behind it, Donna approaches slowly until she arrives
 in front of the gravestone. She sets down Harold Smith's orchid.
 DONNA
@@ -1478,19 +1467,19 @@ It's like they didn't bury you deep enough.
 I can't help you anymore. I love you but I can't. It's
 not fair. Okay? Deal?
 She listens. Quietly.
-(CONTINUED)
 
-2.003
 
-Revised 7-27-90, GREEN
-39.
 
-29. CONTINUED:
-DONNA (CONTINUED)
+
+
+
+
+ 
+DONNA 
 I love you but it's not fair.
 She walks slowly away. Close on the orchid, stirred by a breeze.
 CUT TO:
-30. INT. PALMER'S HOUSE - NIGHT
+ INT. PALMER'S HOUSE - NIGHT
 Maddy sits in the living room folding laundry. Maddy looks up and sees James standing in
 the door way. Looking for help.
 MADDY
@@ -1514,15 +1503,15 @@ JAMES
 Hold me.
 She does. Hugging with tenderness. We hear faint sound of voices off
 
-(more)
-(CONTINUED)
 
-2.003
 
-Revised 7-27-90, GREEN
-40.
 
-30. CONTINUED:
+
+
+
+
+
+ 
 Donna enters, sees Maddy and James pulling apart from their embrace.
 MADDY
 Donna?
@@ -1533,14 +1522,14 @@ table clean of pictures, curios and a lamp. James pushes his way past a stunned 
 JAMES
 DONNA!
 CUT TO:
-31. EXT. STREET - NIGHT
+ EXT. STREET - NIGHT
 James runs down the street after her car as it pulls away.
 JAMES
 Donna! Donna!
 He stops, kneels in the street, puts his hands over his eyes and cries out. He angrily wipes
 away his tears.
 CUT TO:
-32. INT. PALMER HOUSE - NIGHT
+ INT. PALMER HOUSE - NIGHT
 Leland listens to a bewildered Maddy.
 MADDY
 All I did was come to a funeral. It's like I fell into a
@@ -1549,17 +1538,17 @@ nothing like her.
 LELAND
 It's so hard
 She folds into his arms.
-LELAND (CONTINUED)
+LELAND 
 I know, I know.
 
-(CONTINUED)
 
-2.003
 
-Revised 7-19-90, BLUE
-41.
 
-32. CONTINUED:
+
+
+
+
+ 
 MADDY
 All I know is Laura was my cousin and I loved her and
 she died and I don't know anything else.
@@ -1585,7 +1574,7 @@ Leland, we ...
 You're under arrest for the murder of Jacques Renault.
 Pause.
 CUT TO:
-33. INT. HAROLD SMITH'S APARTMENT - NIGHT
+ INT. HAROLD SMITH'S APARTMENT - NIGHT
 Smith answers a frantic knocking to find a tearful Donna outside.
 DONNA
 I'm sorry, I didn't know where else to go.
@@ -1596,14 +1585,14 @@ God, I don't even know if I want to talk about it, I feel
 so stupid.
 SMITH
 Sit down. Slow down.
-(CONTINUED)
 
-2.003
 
-Revised 7-27-90, GREEN
-42.
 
-33. CONTINUED:
+
+
+
+
+ 
 DONNA
 I keep telling myself that James is confused, but how
 long am I supposed to tell myself that?
@@ -1630,7 +1619,7 @@ Smith moves to the other room [to get some whine. Donna sits up.] On the writing
 the window Donna notices [is] another orchid. She walks over to admire it. Next to the plant
 is an open book [and a second book in which Smith has been writing].
 INTERCUT:
-34. INSERT: SMITH'S DESK
+ INSERT: SMITH'S DESK
 Donna flips thru the book. It is filled with feminine hand writing. She flips forward to the
 first page and we read ...
 ... this is the diary of Laura Palmer ...
@@ -1638,4 +1627,4 @@ FADE TO BLACK:
 
 END ACT FOUR
 
-
+

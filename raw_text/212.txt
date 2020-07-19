@@ -1,9 +1,6 @@
-TWIN PEAKS #019
-(Episode 2.012)
-
 ACT ONE
 FADE IN:
-1.
+
 
 INT. BEN HORNE'S OFFICE, GREAT NORTHERN - DAY
 BOBBY BRIGGS, pumped for action, marches in the door wearing Leo's suit. BEN HORNE
@@ -41,14 +38,14 @@ question that comes to your mind?
 Pardon?
 
 BOBBY
-(CONTINUED)
 
-#2.012.1
-1.
 
-2.
 
-CONTINUED:
+
+
+
+
+
 BEN
 The first thing you ask is "What's on the top floor?"
 "Who's up in that penthouse, and why?" That's what I'm
@@ -73,11 +70,11 @@ Congratulations. A 100% raise.
 
 CUT TO:
 
-2.
+
 
 INT. CORRIDOR OUTSIDE BEN'S OFFICE - DAY
 
-3.
+
 
 Bobby exits into the corridor. He is stopped by a SCREAM behind him that starts far away
 and moves towards him. A drop dead blonde, LANA BUDDING MILFORD, draped in her
@@ -95,14 +92,14 @@ COOPER
 I'm looking for a little piece of paradise. Upon finding
 it, I'll consider any option.
 
-(CONTINUED)
 
-#2.012.1
-3.
 
-3.
 
-CONTINUED:
+
+
+
+
+
 LITTLEHORSE
 This just came on the market; it's a Victorian, 1890's. I
 can also recommend the old Longacre house.
@@ -134,7 +131,7 @@ I read Thoreau myself, Mr. Cooper. I have to warn you,
 this isn't exactly Walden Pond.
 COOPER
 When can I see it?
-4.
+
 
 INT. SHERIFF TRUMAN'S OFFICE - DAY
 
@@ -143,12 +140,12 @@ CUT TO:
 COLONEL CALVIN REILLY, black, sixty, made of brick sits across from Truman.
 REILLY
 Sheriff, what do you know about Major Briggs work?
-(CONTINUED)
 
-#2.012.1
-4.
 
-CONTINUED:
+
+
+
+
 TRUMAN
 Well, I guess all I know is he's doing something top
 secret.
@@ -192,16 +189,16 @@ TRUMAN
 Look, Colonel, Garland Briggs is a good friend of mine
 and this has us more than a little spooked. I really wish
 you'd just level with us.
-(CONTINUED)
 
-4.
 
-#2.012.1
-4.
 
-5.
 
-CONTINUED:(2)
+
+
+
+
+
+(2)
 REILLY
 Can you clarify that?
 COOPER
@@ -234,7 +231,7 @@ carrying a full pack. I'll tell you this: his disappearance
 has implications that go so far beyond national security
 the cold war seems like a case of the sniffles.
 
-5.
+
 
 INT. RECEPTION AREA - DAY
 
@@ -243,15 +240,15 @@ CUT TO:
 ANDY BRENNAN, LUCY and JUDY SWAIN, from the HAPPY HELPING HAND
 organization chat on the sofa near the reception area. SWAIN references large file folders in
 front of her.
-(CONTINUED)
 
-#2.012.1
-5.
 
-Revised 11-6-90, GREEN
-6.
 
-CONTINUED:
+
+
+
+
+
+
 
 RICHARD TREMAYNE hurries in to join them.
 TREMAYNE
@@ -265,15 +262,15 @@ I'm Little Nicky's case manager.
 TREMAYNE
 Charmed, I'm sure.
 
-(CONTINUED)
 
-#2.012.1
-5.
 
-Revised 11-6-90, GREEN
-7.
 
-CONTINUED:(2)
+
+
+
+
+
+(2)
 SWAIN
 As I was about to tell your friends, the number one thing
 to know about Nicky is that throughout his brief life he
@@ -304,7 +301,7 @@ TRUMAN
 Andy, let's go. We've got an emergency at the Great
 Northern.
 
-6.
+
 
 INT. MARSH HOUSE, JAMES' ROOM - DAY
 
@@ -312,16 +309,16 @@ CUT TO:
 
 JAMES sits on his bed cleaning some of his tools. He is interrupted by MALCOLM, Evelyn
 Marsh's brother, carrying a large cocktail. Uniformed. Thirties. Tipsy. Oddly vulnerable.
-(CONTINUED)
 
-Revised 10-30-90, PINK
 
-#2.012.1
-6.
 
-8.
 
-CONTINUED:
+
+
+
+
+
+
 JAMES
 Can I help you?
 MALCOLM
@@ -363,12 +360,12 @@ pillow.
 No one can do anything.
 CUT TO:
 
-Revised 10-30-90, PINK
 
-#2.012.1
-7.
 
-9.
+
+
+
+
 
 INT. HOTEL ROOM, GREAT NORTHERN - DAY
 The corpse of DOUGIE MILFORD lies in the bed. A frozen grin is plastered on his face as
@@ -409,10 +406,10 @@ He begins to weep. Truman gestures to Andy who gently leads the Mayor to the doo
 opens the door and hands the mayor over to two DEPUTIES standing outside.
 CUT TO:
 
-#2.012.1
-8.
 
-10.
+
+
+
 
 INT. HALLWAY OUTSIDE THE ROOM - DAY
 As the deputies take Dwayne out he spots Lana, giving her statement to Hawk.
@@ -450,13 +447,13 @@ beaming stupidly at the bride, caught in her spell, as he steps on Hawk's hand.
 FADE OUT:
 END ACT ONE
 
-#2.012.1
 
-Revised 11-6-90, GREEN
+
+
 
 ACT TWO
 FADE IN:
-9.
+
 
 INT. HIGH SCHOOL GYM - DAY
 Wrestling coach, BUCK WINGATE, lectures his assembled squad who stare at NADINE
@@ -496,17 +493,17 @@ MIKE
 Neck ... you're breaking my NADINE
 You're right. This is almost like necking.
 With great effort Mike escapes, but after her quick move he is in Nadine's bear hug.
-(CONTINUED)
 
-11.
 
-#2.012.1
-9.
 
-12.
 
-CONTINUED:
-NADINE (CONTINUED)
+
+
+
+
+
+
+NADINE 
 (sing song)
 I can smell your aftershave.
 (brings him down again, his face into the matt)
@@ -525,7 +522,7 @@ Welcome aboard, Nadine Too bad you're a senior.
 Nadine beams at Mike who returns her look with terror.
 CUT TO:
 
-10. EXT. DEAD DOG
+ EXT. DEAD DOG
 
 Cooper and Littlehorse stare at the house on Dead Dog Farms. An abandoned building on a
 derelict farm. FADED SHUTTERS guard the window.
@@ -543,14 +540,14 @@ pain. Somewhere in between the rest of us struggle.
 Cooper nods, walks up the muddy driveway. He stops when he sees TIRE TRACKS.
 COOPER
 Have you showed the property to anyone else recently?
-(CONTINUED)
 
-Revised 10-30-90, PINK
 
-#2.012.1
-10. CONTINUED:
 
-13.
+
+
+ 
+
+
 
 LITTLEHORSE
 I don't think anyone's asked to see it this last year.
@@ -560,7 +557,7 @@ COOPER
 Three cars. One a jeep, one a four-wheeler. Third's a
 domestic sedan ... boot prints.
 Cooper follows them towards the door. Irene follows.
-11. INT. KITCHEN, DEAD DOG FARM HOUSE - DAY
+ INT. KITCHEN, DEAD DOG FARM HOUSE - DAY
 
 CUT TO:
 
@@ -595,11 +592,11 @@ Cocaine. Irene, we have to notify the sheriff.
 
 CUT TO:
 
-#2.012.1
 
-14.
 
-12. EXT. ROAD IN THE WOODS - DAY
+
+
+ EXT. ROAD IN THE WOODS - DAY
 Tremayne's car is pulled to the side of the road with a flat tire. Tremayne has managed to get
 the car up on a jack. The lug nuts, the spare wheel, and the flat tire lie before him. He's trying
 to read the jack's directions, leaning against the hood.
@@ -640,20 +637,20 @@ I'm alright. Don't worry.
 (Nicky wails)
 What? What is it, Little Nicky?
 
-(CONTINUED)
 
-#2.012.1
 
-15.
 
-12. CONTINUED:
+
+
+
+ 
 NICKY
 What if you died? You're aren't going to die, are you?
 TREMAYNE
 Of course not, Nicky. Don't be silly.
 As he comforts Nicky, Tremayne studies the overturned jack and the car sitting on absolutely
 flat land. His smile fades.
-13. INT. EVELYN'S GARAGE - DAY
+ INT. EVELYN'S GARAGE - DAY
 
 CUT TO:
 
@@ -684,10 +681,10 @@ You've got troubles, don't you? Maybe someday we
 should tell each other all our sad stories.
 JAMES
 That could take a while.
-(CONTINUED)
 
-#2.012.1
-13. CONTINUED:
+
+
+ 
 EVELYN
 (pause)
 You must be absolutely fried working under there.
@@ -725,21 +722,21 @@ Are you?
 EVELYN
 Do you know what it's like ... to be so alone and so
 scared that all you can think about is the wrong thing?
-(CONTINUED)
 
-16.
 
-#2.012.1
 
-17.
 
-13. CONTINUED:(2)
+
+
+
+
+ (2)
 JAMES
 I know what it's like to be alone.
 EVELYN
 James. James. You're so sweet.
 He wipes the tears off her cheek. They stare at each other for a moment. Then slowly they kiss.
-EVELYN (CONTINUED)
+EVELYN 
 ... I feel like he's stealing my life away.
 JAMES
 Why don't you leave?
@@ -750,7 +747,7 @@ interrupted by the a CAR HORN.
 EVELYN
 My God, it's him.
 A car pulls up into the courtyard. She pulls away from him.
-EVELYN (CONTINUED)
+EVELYN 
 I've got to go. Don't worry about it. It's not as bad as
 all that. Please don't worry about me. Promise.
 JEFFREY'S VOICE
@@ -760,7 +757,7 @@ Evelyn kisses him again, lightly, then hurries to the door. James goes to the wi
 listens and watches Evelyn greet her husband.
 INTERCUT:
 
-14. JAMES POV
+ JAMES POV
 
 A limo's parked outside. Thru the window he sees Evelyn embrace JEFFREY MARSH, a
 large, middle-aged man. James can't quite see his face. Walking in front of Jeffrey, carrying
@@ -769,24 +766,24 @@ EVELYN
 How was your trip?
 JEFFREY
 Fine. Fine, dear. I brought you something.
-(CONTINUED)
 
-#2.012.1
 
-18.
 
-14. CONTINUED:(2)
+
+
+
+ (2)
 They move into the house. James watches, hurting for Evelyn, hating Jeffrey.
 FADE OUT:
 END ACT TWO
 
-#2.012.1
 
-19.
+
+
 
 ACT THREE
 FADE IN:
-15. INT. HIGH SCHOOL - DAY
+ INT. HIGH SCHOOL - DAY
 Mike Nelson walks down the school hallway with a pronounced limp. Up ahead: DONNA
 HAYWARD dials the combination, opens her locker. She sees Mike approaching.
 DONNA
@@ -823,12 +820,12 @@ MIKE
 I don't want to go out with anyone who can pin me.
 DONNA
 Well what do you want me to do about it?
-(CONTINUED)
 
-#2.012.1
-15. CONTINUED:
 
-20.
+
+ 
+
+
 
 MIKE
 You could talk to her or something. Pretend you're still
@@ -840,12 +837,12 @@ Please. Donna, this is serious. I'm gonna end up in
 traction.
 
 No dice. Mike watches forlornly as Donna walks away.
-16. EXT. GREAT NORTHERN HOTEL - DAY
+ EXT. GREAT NORTHERN HOTEL - DAY
 
 CUT TO:
 
 Establish.
-17. INT. GREAT NORTHERN CORRIDOR - DAY
+ INT. GREAT NORTHERN CORRIDOR - DAY
 
 CUT TO:
 
@@ -870,13 +867,13 @@ Anything I can help you with?
 BOBBY
 Maybe you could help me celebrate. After I show these
 to the boss.
-(CONTINUED)
 
-#2.012.1
-17. CONTINUED:
 
-Revised 10-30-90, PINK
-21.
+
+ 
+
+
+
 
 Bobby flirts, brushes his fingertips across her cheek. Audrey's amused. She likes it too.
 AUDREY
@@ -895,11 +892,11 @@ Audrey ... I like the way you think.
 Bobby turns and walks away. Audrey watches him exit into the office. Then she goes into her
 secret crawlspace.
 CUT TO:
-18. INT. CRAWLSPACE - DAY
+ INT. CRAWLSPACE - DAY
 CAMERA FOLLOWS Audrey down the dimly lighted corridor. She removes a wooden
 slat, reveals the familiar PEEPHOLE. Audrey leans closer ...
 CUT TO:
-19. INT. BEN HORNE'S OFFICE - DAY
+ INT. BEN HORNE'S OFFICE - DAY
 Furniture in the room has been rearranged. Fingering valuables, Bobby moves to behind Ben's
 desk and filches a cigar. Down at the floor a large Civil war game is spread out. Bobby
 looks at it, puzzled. Ben steps into the room , unshaven, wearing a grey civil war tunic, carrying
@@ -916,15 +913,15 @@ wanted. Ben, what is this you're doing here?
 BEN
 Gettysburg. Day One. The South is winning.
 Ben takes the envelope, crosses to his desk, slumps down into the chair. Bobby sits on a desk
-(more)
-(CONTINUED)
 
-#2.012.1
 
-Revised 10-30-90, PINK
-22.
 
-19. CONTINUED:
+
+
+
+
+
+ 
 corner, oblivious to Ben's glare.
 
 BOBBY
@@ -943,11 +940,11 @@ and we'll discuss a full-time position.
 BOBBY
 Thank you, Ben. I won't let you down.
 The use of the name again gives Ben a shiver.
-20. INT. CRAWLSPACE - DAY
+ INT. CRAWLSPACE - DAY
 Audrey turns from the peephole, wonders, HOLD ON her for a beat.
-21. EXT. BLUE PINE LODGE - DAY
+ EXT. BLUE PINE LODGE - DAY
 Establish.
-22. INT. BLUE PINE LODGE - DAY (SUNSET)
+ INT. BLUE PINE LODGE - DAY (SUNSET)
 
 CUT TO:
 
@@ -963,14 +960,14 @@ The trick is to open the damn bottle before the vintage
 expires.
 Pete and CATHERINE MARTELL in the Blue Pine dining room. A celebratory meal
 before them. Pete wrestles with the cork, finally POPS it. The cork ricochets off the ceiling.
-(more)
-(CONTINUED)
 
-#2.012.1
 
-23.
 
-22. CONTINUED:
+
+
+
+
+ 
 Champagne bubbles forth, spilling upon the table. Catherine holds out her goblet.
 PETE
 Nectar of the Gods, Catherine. It's the bubbles.
@@ -1006,13 +1003,13 @@ Josie, I want you to know that even though your station in
 this household has changed, considerably, you can
 depend on me to treat you with all the respect and
 affection you deserve.
-(CONTINUED)
 
-#2.012.1
-22. CONTINUED:(2)
 
-Revised 10-30-90, PINK
-24.
+
+ (2)
+
+
+
 
 JOSIE
 (biting her lip)
@@ -1053,13 +1050,13 @@ Here's to Ben Horne's doublecross; here's to Josie
 Packard's dirty deeds; and here's to the woman who
 brought them down. Here's to me. Catherine Packard
 Martell.
-(CONTINUED)
 
-#2.012.1
-22. CONTINUED:(3)
 
-Revised 11-6-90, GREEN
-25.
+
+ (3)
+
+
+
 
 PETE
 Here's to you, Poodle.
@@ -1067,7 +1064,7 @@ CATHERINE
 (pause, muttered, as she raises glass to lips)
 Sometimes I think I was better off in the woods.
 
-23. INT. COOPER'S ROOM - DAY (SUNSET)
+ INT. COOPER'S ROOM - DAY (SUNSET)
 
 CUT TO:
 
@@ -1106,13 +1103,13 @@ it for a moment. As if to consider his future. Suddenly: a knock at the door. Co
 the recorder, steps carefully to answer it. Out of habit, he reaches toward his shoulder holster,
 reacts. He has no gun to protect himself. A beat. More knocking. Cooper answers and reveals
 Audrey Horne holding the manila envelope last seen in her father's office.
-(CONTINUED)
 
-#2.012.1
-23. CONTINUED:
+
+
+ 
 Audrey.
 
-26.
+
 
 COOPER
 
@@ -1152,10 +1149,10 @@ Denise.
 COOPER
 
 DENISE BRYSON steps into the room. Audrey reacts, disappointment turns to jealousy.
-(CONTINUED)
 
-#2.012.1
-23. CONTINUED:(2)
+
+
+ (2)
 
 AUDREY
 Sorry. I didn't know I was interrupting COOPER
@@ -1194,17 +1191,17 @@ I wonder who brought the coffee cake.
 Cooper reaches into his bag, reveals the envelope of cocaine he took from the farm.
 COOPER
 Check this sample I took from the farmhouse with the
-(more)
-(CONTINUED)
 
-27.
 
-#2.012.1
 
-28.
 
-23. CONTINUED:(3)
-COOPER (CONTINUED)
+
+
+
+
+
+ (3)
+COOPER 
 cocaine found in my automobile and I think you'll find
 it's a match. I was set up and I can prove it.
 Denise takes the envelope.
@@ -1223,20 +1220,20 @@ I know exactly what you mean.
 FADE OUT.
 END ACT THREE
 
-#2.012.1
 
-Revised 11-6-90, GREEN
-29.
+
+
+
 
 ACT FOUR
 FADE IN:
-24. EXT. SHERIFF'S STATION - NIGHT
+ EXT. SHERIFF'S STATION - NIGHT
 Establish.
 CUT TO:
 
-25. OMITTED
+ OMITTED
 
-26. INT. SHERIFF'S STATION - NIGHT
+ INT. SHERIFF'S STATION - NIGHT
 Richard Tremayne enters. Lucy reacts, Tremayne smiles, doesn't even stop to offer an unctious
 hello. Instead, he calls out to Andy as he passes.
 Andrew!
@@ -1246,13 +1243,13 @@ TREMAYNE
 ANDY
 What is it, Dick?
 
-(CONTINUED)
 
-#2.012.1
-26. CONTINUED:
 
-Revised 11-6-90, GREEN
-30.
+
+ 
+
+
+
 
 TREMAYNE
 May I have a word with you?
@@ -1284,7 +1281,7 @@ TREMAYNE
 Or at the very least homicidal in the first degree. Andy,
 we've got to find out what happened to Nicky's parents.
 Doc Hayward moves past them to enter Truman's office.
-27. INT. SHERIFF'S OFFICE - NIGHT
+ INT. SHERIFF'S OFFICE - NIGHT
 
 CUT TO:
 
@@ -1296,20 +1293,20 @@ DWAYNE
 Did you check him for witchcraft?
 HAYWARD
 That's not the kind of thing that would show up in an
-(more)
 
-(CONTINUED)
 
-Revised 11-6-90, GREEN
 
-#2.012.1
 
-31.
 
-27. CONTINUED:
+
+
+
+
+
+ 
 autopsy.
 
-HAYWARD (continued)
+HAYWARD 
 
 DWAYNE
 (to Truman)
@@ -1347,11 +1344,11 @@ dear!"
 HOLD ON this tableau for a beat. The rare beauty. The swooning admirers.
 DISSOLVE TO:
 
-#2.012.1
 
-32.
 
-28. INT. SHERIFF'S STATION - NIGHT
+
+
+ INT. SHERIFF'S STATION - NIGHT
 Moments later. Lucy returns to her post through the now empty lobby. She looks about,
 reacts, picks up an incoming call.
 LUCY
@@ -1363,7 +1360,7 @@ Sheriff Truman? Sheriff
 knocks)
 Sheriff?
 No reply. Lucy leans closer, she can hear LAUGHTER from inside. She opens the door.
-29. INT. SHERIFF TRUMAN'S OFFICE - NIGHT
+ INT. SHERIFF TRUMAN'S OFFICE - NIGHT
 
 MATCH WITH:
 
@@ -1393,12 +1390,12 @@ tilts, and SMASHES down on a vacant chair. Only seconds after Andy left it. HOLD
 Andy's near-miss for a beat.
 CUT TO:
 
-#2.012.1
 
-Revised 10-30-90, PINK
-33.
 
-30. INT. DOUBLE R DINER - NIGHT
+
+
+
+ INT. DOUBLE R DINER - NIGHT
 ED HURLEY sits at the counter, drags a fork through a piece of cherry pie. He's quiet, sad.
 NORMA'S VOICE
 (gentle humor)
@@ -1431,15 +1428,15 @@ Maybe we can make new plans.
 Ed looks up at Norma, hopeful. Norma smiles. But CAMERA REVEALS someone
 watching them from the kitchen with dark, angry eyes. Hank Jennings.
 DISSOLVE TO:
-31. OMITTED
+ OMITTED
 
-Revised, 10-30-90, PINK
 
-#2.012.1
 
-34.
 
-32. INT. DOUBLE R DINER - NIGHT
+
+
+
+ INT. DOUBLE R DINER - NIGHT
 Ernie Niles dines alone. He lifts fork to mouth, stops half-way. Denise Bryson suddenly sits
 across from him.
 ERNIE
@@ -1460,7 +1457,7 @@ ERNIE
 (sinking fast)
 What do you want me to do?
 HOLD ON poor Ernie. Sweating bullets.
-33. INT. AGENT COOPER'S HOTEL ROOM NIGHT
+ INT. AGENT COOPER'S HOTEL ROOM NIGHT
 
 CUT TO:
 
@@ -1478,15 +1475,15 @@ violent threats. These men are animals, they'll stop at
 nothing Mr. Niles -
 
 COOPER
-(CONTINUED)
 
-#2.012.1
-33. CONTINUED:
 
-Revised 10-30-90, PINK
-35.
 
-ERNIE (CONTINUED)
+ 
+
+
+
+
+ERNIE 
 They want me to sell drugs for them, I tried to resist,
 but family is all important to me and when they
 threatened my family, when they threatened my wife, I
@@ -1529,12 +1526,12 @@ You do now. A major drug trafficker will arrive from
 Seattle tomorrow. You will set up a meet with these
 men at Dead Dog Farm.
 
-(CONTINUED)
 
-#2.012.1
-33. CONTINUED:(2)
 
-36.
+
+ (2)
+
+
 
 ERNIE
 But with who? Who is It?
@@ -1560,7 +1557,7 @@ you, Coop.
 COOPER
 Almost. Now it's our turn.
 Cooper smiles.
-34. INT. GARAGE APARTMENT - NIGHT
+ INT. GARAGE APARTMENT - NIGHT
 
 CUT TO:
 
@@ -1579,21 +1576,21 @@ four years ago.
 (beat)
 With each succeeding violation, my heart's torn into even
 smaller pieces. And one day ... I swear I'll kill him.
-(more)
-(CONTINUED)
 
-#2.012.1
-34. CONTINUED:
 
-37.
 
-MALCOM (CONTINUED)
+
+ 
+
+
+
+MALCOM 
 No matter what it costs.
 
 Malcom turns from the window, faces James. Moonlight illuminates the tears upon his face.
 CUT TO:
 
-35. INT. BRIGGS HOUSE - NIGHT
+ INT. BRIGGS HOUSE - NIGHT
 
 Bobby Briggs steps carefully through the dark living room. Then he stops, SEES someone
 sitting in an armchair. Startled, Bobby lets out a whoop and leaps backward. The figure
@@ -1626,13 +1623,13 @@ BETTY
 Completely.
 Bobby sits down, leans against the chair. He reaches into his jacket for a cigarette. Lights it.
 Knowing his mother will not protest. A long beat, then, quietly, almost contemplative:
-(CONTINUED)
 
-#2.012.1
 
-38.
 
-35. CONTINUED:
+
+
+
+ 
 BOBBY
 I was at the Double R last week. Dad and I, we had this
 talk. About this dream he had. There was this big
@@ -1667,17 +1664,17 @@ BRIGGS
 Strange. It seemed much shorter.
 Betty Briggs rushes into his arms. Bobby gets to his feet. He's not up to a hug. But Bobby can't
 help but exhibit a little relief. Briggs speaks to him over his wife's shoulder.
-BRIGGS (CONTINUED)
+BRIGGS 
 Bobby, I want you to put out that cigarette. Then I
 would like you to fix me a cocktail. A strong one, if you
 don't mind.
-(CONTINUED)
 
-#2.012.1
 
-39.
 
-35. CONTINUED:(2)
+
+
+
+ (2)
 BOBBY
 (a little dazed)
 Sure, Dad. Whatever you say.
@@ -1690,4 +1687,4 @@ No dear. Not exactly.
 FADE TO BLACK.
 END ACT FOUR
 
-
+

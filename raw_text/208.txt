@@ -1,16 +1,12 @@
-TWIN PEAKS
-Episode 2.008
-
-#2.008
 ACT ONE
 FADE IN:
-1.
+
 
 EXT. PALMER HOUSE - MORNING
 Establish.
 CUT TO:
 
-2.
+
 
 INT. PALMER HOUSE LIVING ROOM - MORNING
 The camera slowly moves across the room, picking up family portraits, and the photograph
@@ -38,13 +34,13 @@ LELAND
 I'd have to say she was a little disappointed Sarah calls from upstairs.
 SARAH (O.S.)
 Leland?
-(CONTINUED)
 
-#2.008
-2.
-2.
 
-CONTINUED:
+
+
+
+
+
 He goes halfway up the stairs. Donna and James look at each other.
 DONNA
 I'm glad we were together last night, and I'm not
@@ -73,19 +69,12 @@ I won't forget. Call you later.
 Leland turns to the door.
 CUT TO:
 
-3.
+
 
 INT. LELAND'S CAR - MORNING
 Leland drives out of his driveway and down the street. He starts to sing.
 
-(CONTINUED)
 
-Revised 9-14-90, BLUE
-3.
-#2.008
-3.
-
-CONTINUED:
 LELAND
 "Chicks and ducks and geese better scurry ...
 When I take you out in the surrey ...
@@ -95,19 +84,6 @@ top ...
 Nosy folks will peer through the shutters ... and
 their eyes ... will ... pop ...
 CUT TO:
-
-4.
-
-OMITTED
-
-Revised 9-14-90, BLUE
-4.
-#2.008
-
-Revised 9-14-90, BLUE
-5.
-#2.008
-5.
 
 INT. DOUBLE R DINER - DAY
 CLOSE on a large plate of mashed potatoes being carried out to a customer. We pull back.
@@ -143,15 +119,7 @@ ERNIE
 Hi, how are you?
 NORMA
 Husband...?
-(CONTINUED)
 
-#2.008
-5.
-
-Revised 9-14-90, BLUE
-6.
-
-CONTINUED:
 VIVIAN
 (blithe, secure)
 We're honeymooning.
@@ -191,15 +159,7 @@ I wish you'd let me know you were coming*
 VIVIAN
 I didn't want you to make a fuss. You know me,
 dear, I'm easy. What's wrong?
-(CONTINUED)
 
-#2.008
-5.
-
-Revised 9-26-90, GREEN
-7.
-
-CONTINUED:(2)
 NORMA
 Nothing. There's a food critic coming and I'm a
 little short handed, that's all.
@@ -222,7 +182,7 @@ where he has circled his choices with a magic marker. We can see "Houston, 3 1/2
 points."
 CUT TO:
 
-6.
+
 
 INT. GREAT NORTHERN LOBBY - DAY
 Cooper and Truman step through the Great Northern Lobby. Cooper speaks quietly, into his
@@ -242,14 +202,8 @@ CLOSE on LELAND, holding a golf club, doing a soft shoe routine for a group of e
 CHEERLEADERS. He slowly slides his foot around in a wide circle. Cooper and Truman
 exchange a look. They stop and watch. Leland finishes, the girls applaud. He sees Cooper and
 Truman, starts over.
-(CONTINUED)
 
-Revised 9-14-90, BLUE
-7A.
-#2.008
-6.
 
-CONTINUED:
 COOPER
 Does he know we've arrested Ben Horne?
 TRUMAN
@@ -258,13 +212,7 @@ COOPER
 Best that he hear it from you.
 Harry nods, Leland arrives.
 
-(CONTINUED)
 
-8.
-#2.008
-6.
-
-CONTINUED:
 LELAND
 Harry, Agent Cooper.
 It takes Harry a moment to get it out.
@@ -296,20 +244,20 @@ As it should be.
 LELAND
 (a look at Cooper)
 Thank you, Harry.
-(CONTINUED)
 
-9.
-#2.008
+
+
+
 Leland turns and walks away. Cooper and Truman starts out, then stops, turns around and
 watches Leland walks around the corner. He senses something but isn't sure what.
 FADE OUT:
 END ACT ONE
 
-#2.008
-10.
+
+
 ACT TWO
 FADE IN:
-9.
+
 
 INT. JAIL - DAY
 BEN HORNE sits on the bunk in his cell holding a pillow and sniffing It. It's clearly disgusting
@@ -328,7 +276,7 @@ Jerry ...
 JERRY
 Ben ...
 They suddenly embrace long and hard, then step back.
-JERRY (CONTINUED)
+JERRY 
 Ben, since your regular mouthpiece has been charged
 with murder himself, I'm going to handle your case
 personally. Let's get started: did you kill her?
@@ -342,14 +290,14 @@ BEN
 Can you get me out?
 JERRY
 They, can only hold you for 24 hours without
-charging you ... or is it 48.
-(CONTINUED)
+charging you ... or is it 
 
-11.
-#2.008
-9.
 
-CONTINUED:
+
+
+
+
+
 BEN
 Jer, I'm in trouble here!
 JERRY
@@ -384,14 +332,6 @@ Dombrowski dancing on the hook rug with the
 flashlight ... Lord, what's become of us?
 BEN
 What is that smell?
-(CONTINUED)
-
-Revised 9-14-90, BLUE
-12.
-#2.008
-9.
-
-CONTINUED:(2)
 Jerry takes an enormous ginger root out of his pocket and hands it down to his brother.
 JERRY
 Ginger root. I'm supposed to take a bath in it when
@@ -403,7 +343,7 @@ she had the cutest little feet.
 Ben looks at the strange shaped root, breaks it in half.
 CUT TO:
 
-10. INT. SHERIFF'S STATION - DAY
+ INT. SHERIFF'S STATION - DAY
 LUCY walks into the station house, several steps behind is her sister, GWEN, a gum
 snapping, dyed hair, walking and talking disaster area. She carries her new BABY.
 GWEN
@@ -427,20 +367,12 @@ GWEN
 God, after all we've done to you, how you must hate
 us white people.
 Hawk looks at Gwen. Dead pan.
-(CONTINUED)
 
-Revised 9-14-90, BLUE
-13.
-#2.008
-10. CONTINUED:
+
 HAWK
 Some of my best friends are white people.
 CUT TO:
-
-Revised 9-14-90, BLUE
-14.
-#2.008
-11. INT. INTERROGATION ROOM - DAY
+ INT. INTERROGATION ROOM - DAY
 Close on the sharp point of a small surgical instrument.
 HAYWARD
 This won't hurt a bit.
@@ -453,7 +385,7 @@ Hayward looks at Jerry, jabs the lancet into Ben's Finger, a bit harder than is 
 BEN
 Ow!
 Hayward smears blood onto a slide He sticks a cotton ball on Ben's finger.
-HAYWARD (CONTINUED)
+HAYWARD 
 (to Truman and Cooper)
 I'll have results in a couple of hours.
 Hayward leaves. Jerry tries to take charge.
@@ -468,12 +400,7 @@ Jeremy Horne, Gonzaga University 1974, graduated
 last in a class of 162, passed bar on the third
 attempt, licence to practice revoked in Illinois,
 Florida, Alaska
-(CONTINUED)
 
-Revised 9-14-90, BLUE
-15.
-#2.008
-11. CONTINUED:
 JERRY
 Hey, I'm not on trial here.
 COOPER
@@ -506,12 +433,6 @@ She becomes a threat. Not just to you, your business
 ... your family.
 Ben explodes, stands up shouting.
 
-(CONTINUED)
-
-Revised 9-14-90, BLUE
-16.
-#2.008
-11. CONTINUED:(2)
 BEN
 You are out of line!
 COOPER
@@ -543,14 +464,6 @@ BEN
 (dejected)
 What do we do?
 Jerry walks over and sits across the table from his brother.
-(CONTINUED)
-
-#2.008
-
-Revised 9-14-90, BLUE
-17.
-
-11. CONTINUED:(3)
 JERRY
 Your alibi has been roasted, they can establish
 motive. And your blood may have Laura's finger
@@ -561,7 +474,7 @@ Ben, as your attorney, friend and brother ... I strongly
 suggest that you get yourself a better lawyer.
 Ben's eyes grow stalks.
 CUT TO:
-12. INT. LEO JOHNSON'S HOUSE - DAY
+ INT. LEO JOHNSON'S HOUSE - DAY
 Close on a dual cassette deck. As the cassette spins in one deck, we pull back. BOBBY BRIGGS
 looms above. He holds a small micro-recorder to the built-in microphone of the cassette
 deck. Ben Horne's and Leo's voice's are heard from the micro-recorder.
@@ -587,12 +500,12 @@ Bobby! ...
 Bobby picks up a pen and writes a note in big black letters. "I think we should talk." He then
 slips one of the cassettes and the note in a large envelope, seals it, gives it a kiss. Bobby turns,
 Shelly
-(more)
-(CONTINUED)
 
-18.
-#2.008
-12. CONTINUED:
+
+
+
+
+ 
 stands there, covered in baby food. Bobby smiles wickedly, walks over, removes a glob of
 food from her neck with a long sensuous lick. Shelly doesn't seem to notice.
 SHELLY
@@ -627,12 +540,7 @@ A cloth diaper service.
 Bobby freezes: how did I get into this mess, and how do I get out?
 CUT TO:
 
-#2.008
-
-Revised 9-26-90, GREEN
-19.
-
-13. INT. GREAT NORTHERN HOTEL ROOM - DAY
+ INT. GREAT NORTHERN HOTEL ROOM - DAY
 Close on the face of the ONE-ARMED MAN, lying in bed. His eyes are closed, he seems to be
 resting comfortably, then begins to twitch. His eyes suddenly open. "Mike" is back. We pull
 back, a NURSE, sitting next to the door.
@@ -645,7 +553,7 @@ Could you get me some ice water?
 She hesitates a moment, then nods "yes." His eyes follow her as she walks out of the room
 and closes the door.
 CUT TO:
-14. INT. HALLWAY - DAY
+ INT. HALLWAY - DAY
 The Nurse exits the room, walks over to a DEPUTY sitting across the hall from the door. She
 tells him she's going for the ice and walks off. The Deputy gets up, walks toward the door.
 POV of the Deputy, as he reaches the door, pushes it open, and enters. The bed is empty,
@@ -657,13 +565,9 @@ We move in, the curtains blow wildly in a gust of wind, as the Nurse's scream ec
 through the Great Northern.
 FADE TO BLACK.
 END ACT TWO
-
-#2.008 Revised 9-14-90, BLUE
-#2.008
-20.
 ACT THREE
 FADE IN:
-15. INT. DOUBLE R DINER - DAY
+ INT. DOUBLE R DINER - DAY
 HANK JENNINGS enters the diner, stops when he sees Norma behind the cash register.
 HANK
 (tries to bluster his way through it)
@@ -683,17 +587,17 @@ Norma NORMA
 Save the sweet talk. I am this far from telling you
 to take a hike.
 
-(CONTINUED)
 
-21.
-#2.008
-15. CONTINUED:
+
+
+
+ 
 HANK
 (dripping with sincerity)
 Please. Please don't make that kind of judgment
 without hearing me out.
 She looks at him, still seething. He sees a crack of daylight.
-HANK (CONTINUED)
+HANK 
 Norma, because of the bad choices I made, there are
 people out there, people from my past, who want to
 see me fail. I've tried fighting them. That just got
@@ -723,25 +627,20 @@ Why don't we hear it over dinner tonight? The Great
 Northern, say ... eight-thirty.
 HANK
 We'd love to.
-(CONTINUED)
 
-Revised 9-20-90, PINK
-#2.008
-22.
-15. CONTINUED: (2)
 NORMA
 I don't know if I can get away.
 HANK
 It'll be fine, honey, we'll be there, eight-thirty sharp.
 Vivian smiles, looks at Hank, exits. Norma gives Hank a look.
-HANK (CONTINUED)
+HANK 
 Hey, she's family, Norma.
 Norma walks to the kitchen. We move in on Hank, the wheels turning.
 CUT TO:
-16. EXT. SHERIFF'S STATION - DAY
+ EXT. SHERIFF'S STATION - DAY
 Establish.
 CUT TO:
-17. INT. TRUMAN'S OFFICE - DAY
+ INT. TRUMAN'S OFFICE - DAY
 CLOSE ON Truman, looking intently out the window through binoculars. A beat. A throat
 is cleared behind him at the office door. It's PETE MARTELL. A little uncertain, hat in hand.
 PETE
@@ -760,12 +659,7 @@ A Pillared Woodpecker. Outstanding.
 (beat)
 Harry...?
 Truman turns from the window, sets the binoculars upon his desk.
-(CONTINUED)
 
-Revised 9-20-90, PINK
-22A.
-#2.008
-17. CONTINUED:
 TRUMAN
 What's up?
 PETE
@@ -801,12 +695,6 @@ TRUMAN
 Average height. Medium build. Pony tail.
 PETE
 That was her cousin. Jonathan.
-(CONTINUED)
-
-Revised 9-20-90, PINK
-22B.
-#2.008
-17. CONTINUED:(2)
 TRUMAN
 She said he was her assistant. British accent PETE
 This guy could barely speak English.
@@ -827,13 +715,6 @@ TRUMAN
 You'll have to excuse me, Pete.
 (to Cooper, crossing to retrieve jacket)
 I'll put out an all points.
-
-(CONTINUED)
-
-Revised 9-20-90, PINK
-23.
-#2.008
-17. CONTINUED:
 COOPER
 He won't get far. If he does, maybe he'll lead us to
 "Bob."
@@ -843,7 +724,7 @@ come:
 PETE
 Ben Horne...
 CUT TO:
-18. INT. SHERIFF'S STATION - DAY
+ INT. SHERIFF'S STATION - DAY
 Cooper and Truman bolt out of Harry's office and exit the station. A moment later Andy
 walks in and comes face to face with Lucy, carrying her sister's baby. Neither says a word for
 a moment, Andy can't take his eyes off of the child.
@@ -854,7 +735,7 @@ LUCY
 What?
 Andy's eyes widen, then he passes out cold. The baby breaks into a wild fit of crying.
 CUT TO:
-19. INT. JAIL - DAY
+ INT. JAIL - DAY
 The door to the cell area is opened, PETE MARTELL peeks his head in and looks around,
 clearly not comfortable in a place so devoid of wood. He cautiously steps inside. Ben's been
 watching.
@@ -868,13 +749,7 @@ BEN
 Ah, greetings From the boys down at the mill?
 Pete grunts his disapproval, then takes a small cassette player out of a pocket in his jacket.
 This sparks Ben's interest, though he won't show it.
-(CONTINUED)
-
-Revised 9-20-90, PINK
-24.
-#2.008
-19. CONTINUED:
-BEN (CONTINUED)
+BEN 
 But first, a little music ...
 He starts to turn away, Pete turns on the tape.
 CATHERINE'S VOICE (TAPE)
@@ -909,11 +784,7 @@ CATHERINE (TAPE)
 In exchange for my testimony, you will sign the mill
 and Ghostwood estates back over to me. I will
 consider letting you keep your precious hotel.
-
-Revised 9-20-90, PINK
-25.
-#2.008
-19. CONTINUED: (2)
+  (2)
 PETE
 You okay there, Benjy?
 Ben's pale as a sheet.
@@ -939,20 +810,14 @@ No!... no .... no ... no ... no ... no ... nooooo!
 We pull back, feathers floating everywhere. Ben stands in the middle of it. Lost for the first
 time in his life.
 CUT TO:
-20. EXT. ROAD - DAY
+ EXT. ROAD - DAY
 Big Ed Hurley's pickup truck swerves wildly down the middle of a country road.
 CUT TO:
-21. INT. TRUMAN'S BRONCO DAY
+ INT. TRUMAN'S BRONCO DAY
 Cooper sees the oncoming car in their lane before Harry.
 COOPER
 Are driver education programs compulsory in your
 school system?
-(CONTINUED)
-
-Revised 9-20-90, PINK
-26.
-#2.008
-21. CONTINUED:
 Harry has seen it, nods "yes."
 TRUMAN
 Yep ...
@@ -964,13 +829,13 @@ saw?
 COOPER
 Big, Ed?
 CUT TO:
-22. INT. CAR - DAY
+ INT. CAR - DAY
 Close on Big Ed behind the wheel.
 
 The sheriff approaches from behind, lights and siren blaring. Ed smiles, waves to them, obeys
 their instructions to pull over to the side of the road.
 CUT TO:
-23. ROAD - DAY
+ ROAD - DAY
 Truman and Cooper step out of the Bronco, as does Ed out of his truck.
 ED
 (concerned)
@@ -984,16 +849,8 @@ shafts. I started thinking about Laura. I guess my
 mind wandered.
 COOPER
 It's a good practice to leave your troubles behind
-(more)
-(CONTINUED)
 
-#2.008
-
-Revised 9-20-90, MINK
-27.
-
-23. CONTINUED:
-COOPER (continued)
+COOPER 
 when you sit behind the wheel of a vehicle.
 ED
 Yes, of course, you're quite right. My apologies.
@@ -1028,14 +885,9 @@ TRUMAN
 They found Gerard, near the waterfall.
 COOPER
 Let's go get him.
-(CONTINUED)
 
-Revised 9-20-90, PINK
-26.
-#2.008
-23. CONTINUED:(2)
 He turns to Ed, who abruptly stops.
-COOPER (CONTINUED)
+COOPER 
 Ed, afraid I'll hive to take a look at those clubs
 another time.
 ED
@@ -1050,16 +902,11 @@ He climbs in behind the wheel, looks in the rear view mirror. It's "Bob."
 FADE TO BLACK:
 END ACT THREE
 
-#2.008
-
-Revised 9-14-90, BLUE
-29.
-
 ACT FOUR
 FADE IN:
-24. INT. SHERIFF'S STATION - DAY
+ INT. SHERIFF'S STATION - DAY
 
-24.
+
 
 Hawk walks through the station doors escorting Gerard, who's one arm is handcuffed to his
 belt. As they pass the reception area we pick up Lucy putting a cold compress on Andy's
@@ -1082,7 +929,7 @@ we were dealing with and I thought, good god, just
 what the world doesn't need, another sperm
 running around loose, women beware.
 They both stare at her.
-GWEN (CONTINUED)
+GWEN 
 Well I did.
 ANDY
 (to Lucy)
@@ -1095,11 +942,11 @@ The second time they were jumping like salmon
 swimming upstream.
 GWEN
 So of course all you could think of was spawning.
-(CONTINUED)
 
-30.
-#2.008
-24. CONTINUED:
+
+
+
+ 
 They both turn to Gwen.
 ANDY/LUCY
 Shut up!
@@ -1122,7 +969,7 @@ ANDY
 Aren't I?
 They look at each other. Lucy puts her head in her hands.
 CUT TO:
-25. INT. INTERROGATION ROOM - NIGHT
+ INT. INTERROGATION ROOM - NIGHT
 Ben Horne stands in the middle of the dimly light room. The One-Armed Man slowly circling
 him like a blood hound. Cooper, Truman and Jerry Horne are also in the room. Gerard
 stops, pale and weak turns away from Ben, sits, speaks softly to Cooper and Truman.
@@ -1133,12 +980,12 @@ JERRY
 Sheriff, isn't there something you'd like to share
 With us?
 Gerard stares at him.
-(CONTINUED)
 
-31.
-#2.008
-25. CONTINUED:
-JERRY (CONTINUED)
+
+
+
+ 
+JERRY 
 And would you please ask this guy to stop staring at
 me like I'm a dog biscuit?
 Gerard wipes his forehead, growing weaker.
@@ -1173,18 +1020,12 @@ COOPER
 (with authority)
 Be quiet!
 Everyone is. Cooper looks at Harry and smiles.
-(CONTINUED)
-
-Revised 9-14-90, BLUE
-32.
-#2.008
-25. CONTINUED:(2)
 COOPER
 Harry, I think we better talk outside.
 Truman hesitates, finally nods yes, and walks out, followed by Cooper. Jerry starts to rub
 Ben's shoulder's, speaking softly in warm soothing tones.
 CUT TO:
-26. INT. DOWNSTAIRS CORRIDOR - NIGHT
+ INT. DOWNSTAIRS CORRIDOR - NIGHT
 Cooper and Truman step into the corridor.
 COOPER
 Harry, I think we're saddling the horse here before
@@ -1213,14 +1054,10 @@ outsider can forget that.
 Cooper pats Harry on the arm. Walks away. We move in on Truman, wondering how and
 why he won that battle so easily.
 CUT TO:
-
-Revised 9-26,90, GREEN
-33.
-#2.008
-27. EXT. GREAT NORTHERN - NIGHT
+ EXT. GREAT NORTHERN - NIGHT
 Establish.
 CUT TO:
-28. INT. GREAT NORTHERN DINING ROOM - NIGHT
+ INT. GREAT NORTHERN DINING ROOM - NIGHT
 Close on Hank, gnawing on a huge beef rib, staring at Ernie. Vivian takes a bite of her
 salmon, tastes it carefully.
 VIVIAN
@@ -1240,7 +1077,7 @@ ERNIE
 Ladies ... hurry back.
 They leave. Ernie stands for a moment then sits back down. Hank sets down the rib. They
 study each other for a moment.
-ERNIE (CONTINUED)
+ERNIE 
 You're not going to say anything, are you? If Vivian
 ever found out I was "inside," she'd leave me flat.
 Hank begins to chuckle.
@@ -1248,14 +1085,7 @@ HANK
 Ernie Niles. Ernie "The Professor" Niles.
 ERNIE
 So... when .. did you ...?
-(CONTINUED)
 
-#2.008
-
-Revised 9-26-90, GREEN
-34.
-
-28. CONTINUED:
 HANK
 Couple weeks. But let me tell you Ernie, without
 you to pal around with, those last six months were
@@ -1296,14 +1126,8 @@ ERNIE
 I would never steal from a church. It was a savings
 and loan. I was sick, it was an illness and I've paid
 my debt. It's a new life. A clean slate.
-(CONTINUED)
 
-#2.008
 
-Revised 9-26-90, GREEN
-35.
-
-28. CONTINUED:(2)
 HANK
 So she doesn't know.
 (Ernie's look confirms it)
@@ -1336,13 +1160,10 @@ much success.
 They all drink, Hank gulps his. We move in on Norma watching Hank and Ernie's reaction.
 She senses something's up.
 CUT TO:
-29. INT. HALLWAY GREAT NORTHERN - NIGHT
-POV: Moving slowly down the hallway toward a door, we stop, room 315.
+ INT. HALLWAY GREAT NORTHERN - NIGHT
+POV: Moving slowly down the hallway toward a door, we stop, room 3
 CUT TO:
-
-36.
-#2.008
-30. INT. COOPER'S ROOM - NIGHT
+ INT. COOPER'S ROOM - NIGHT
 We pull back from the curtains, blowing in the wind, pass over an untouched piece of pie,
 stop on a shirtless Cooper, changing the dressing on his wound, still wearing his shoulder
 holster. He picks up his mini recorder.
@@ -1376,11 +1197,8 @@ COOPER
 Yes.
 AUDREY
 Did he do it?
-(CONTINUED)
 
-37.
-#2.008
-30. CONTINUED:
+ 
 COOPER
 That's for the court to decide.
 AUDREY
@@ -1414,11 +1232,9 @@ never ... I never let anyone ...
 COOPER
 You don't have to say anything.
 AUDREY
-Just so you know (CONTINUED)
+Just so you know 
 
-38.
-#2.008
-30. CONTINUED:(2)
+
 COOPER
 (strong)
 I know.
@@ -1447,19 +1263,19 @@ She looks into his eyes.
 AUDREY
 All right.
 CUT TO:
-31. EXT. WATERFALL NIGHT
+ EXT. WATERFALL NIGHT
 Water rushing, misting. A pool near the bottom of the falls. Flashlights. Hawk, Cooper,
 Truman. Ambulance attendants. A body, alive or dead we're not sure, being pulled from the
 water and laid on a stretcher.
-(CONTINUED)
 
-39.
-#2.008
-31. CONTINUED:
+
+
+
+ 
 TRUMAN
 Coop ... it's Maddy Ferguson.
 They watch the stretcher being carried away.
 FADE TO BLACK:
 THE END
 
-
+

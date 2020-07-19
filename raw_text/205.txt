@@ -1,19 +1,13 @@
-TWIN PEAKS
-Episode 2.005
 
-
-
-#2.005
-1.
 ACT ONE
 FADE IN:
-1.
+
 
 EXT. GREAT NORTHERN HOTEL - MORNING
 Establish.
 CUT TO:
 
-2.
+
 
 INT. COOPER'S HOTEL ROOM - MORNING
 COOPER sits on the edge of the bed in his boxer shorts. Flips on his tape recorder.
@@ -50,20 +44,20 @@ Diane, the Giant was right. I did forget something
 He opens the envelope, pulls out the card and reads Audrey's lost note.
 CUT TO:
 
-3.
+
 
 EXT. SHERIFF'S STATION - MORNING
 Establish.
 CUT TO:
 
-2.
-#2.005
 
-4.
+
+
+
 
 OMITTED
 
-5.
+
 
 INT. SHERIFF'S STATION RECEPTION AREA
 HAWK enters, encountering HARRY TRUMAN, who awaits Cooper's arrival.
@@ -77,13 +71,13 @@ Robertson and they had no memory of a greyhaired
 man. Had to drink three pots of camomile tea to
 find that out.
 
-(CONTINUED)
 
-3.
-#2.005
-5.
 
-CONTINUED:
+
+
+
+
+
 TRUMAN
 All right. The one-armed man's come back into the
 picture. Take a look, so far we've struck out.
@@ -115,15 +109,15 @@ We won't need it. We've got the jump on them.
 I know where Audrey is.
 CUT TO:
 
-6.
+
 
 EXT. LEO JOHNSON'S HOUSE - DAY
 Establish.
 CUT TO:
 
-4.
-#2.005
-7.
+
+
+
 
 INT. LEO JOHNSON'S LIVING ROOM - DAY
 A hospital bed has replaced the living room sofa. In a wheelchair beside the bed sits BOBBY
@@ -161,13 +155,13 @@ tossed back down. Then the machine stops. Flashing Pinkle a homicidal look, Bobb
 way out of the chains, sling, and chair.
 SHELLY
 Bobby, 'you alright?
-(CONTINUED)
 
-5.
-#2.005
-7.
 
-CONTINUED:
+
+
+
+
+
 BOBBY
 How about getting Mr. Pinkle a cold drink?
 As Shelly leaves, Bobby pulls Pinkle aside by the back of his neck.
@@ -202,13 +196,13 @@ Pinkle reaches down and hits the switch a couple of time; finally, the bar lifts
 tighten and the salesman rises.
 PINKLE (CONT'D)
 There we go ...
-(CONTINUED)
 
-6.
+
+
 #2:005
-7.
 
-CONTINUED:(2)
+
+(2)
 But the machine doesn't stop, lifting Pinkle up to a precarious height and pulling him back,
 his arms pinned by the crossing chains.
 PINKLE (CONT'D)
@@ -217,13 +211,13 @@ Hit that switch down there, would you, Bobby?
 Bobby? ... Bobby?
 CUT TO:
 
-8.
+
 
 EXT. ROADHOUSE - DAY
 Establish.
 CUT TO:
 
-9.
+
 
 INT. ROADHOUSE - DAY
 The entry doors have been closed, the tables pushed against the front wall. Two rows of
@@ -249,11 +243,11 @@ drinking from the pool; he saw me but didn't bolt.
 Time stood still. I In the presence of the eternal, I
 suppose that's as it should be.
 
-(CONTINUED)
 
-7.
-#2.005
-9.
+
+
+
+
 
 CONTINUED!
 BEN HORNE has entered, late, immediately makes his way to the power in the room.
@@ -286,9 +280,9 @@ STERNWOOD
 Enter the State.
 CUT TO:
 
-8.
-#2.005
-10. INT. ROADHOUSE - DAY
+
+
+ INT. ROADHOUSE - DAY
 Sitting alone and imposing at his long table, Sternwood GAVELS and commences.
 STERNWOOD
 Mr. Palmer has pleaded not guilty to the charge of
@@ -327,11 +321,11 @@ seem to like courtroom sketches.
 TRUMAN
 You might try for a little more of his face. Just a
 suggestion.
-(CONTINUED)
 
-9.
-#2.005
-10. CONTINUED:
+
+
+
+ 
 ANDY
 Good. Thanks, Sheriff.
 Sternwood gavels.
@@ -347,10 +341,10 @@ basis. Sid, check the calendar. We'll set the date for
 Mr. Palmer's trial.
 Reactions all round: for Leland, a shred of dignity retained.
 CUT TO:
-11. EXT. HAROLD SMITH'S APARTMENT - DAY
+ EXT. HAROLD SMITH'S APARTMENT - DAY
 Establish.
 CUT TO:
-12. INT. HAROLD SMITH'S APARTMENT - DAY
+ INT. HAROLD SMITH'S APARTMENT - DAY
 HAROLD SMITH leads DONNA HAYWARD in, sits behind his mahogany desk. DONNA
 HAYWARD sits in the antique chair opposite.
 HAROLD
@@ -370,11 +364,11 @@ Intriguing.
 (pause; negotiating)
 I'll read it to you, It mustn't physically leave this
 room.
-(CONTINUED)
 
-10.
-#2.005
-12. CONTINUED:
+
+
+
+ 
 DONNA
 Acceptable.
 HAROLD
@@ -406,12 +400,12 @@ DONNA
 Maybe our dreams are real.
 Harold nervously pull back. Donna quickly grabs Laura's diary and playfully steps away.
 
-(CONTINUED)
 
-11.
-#2.005
-12. CONTINUED:(2)
-DONNA (CONTINUED)
+
+
+
+ (2)
+DONNA 
 My turn ...
 HAROLD
 No, we've only just started. Please.
@@ -430,7 +424,7 @@ Oh God ... oh God ...
 DONNA
 Harold?
 He gets down on the ground, hyperventilating, looking almost paralyzed.
-DONNA (CONTINUED).
+DONNA .
 Harold?
 His breathing locks. She hurries to him, kneels down, half-props him against her chest, he
 grasps at her, trying to breathe again.
@@ -445,11 +439,11 @@ look at each other.
 FADE OUT:
 END ACT ONE
 
-12.
-#2.005
+
+
 ACT TWO
 FADE IN:
-13. INT. ROADHOUSE - DAY
+ INT. ROADHOUSE - DAY
 Leo Johnson competency hearing. Judge Sternwood is holding court, facing Prosecutor
 Lodwick and JACK RACINE, a sardonic defense attorney representing Leo Johnson.
 We begin CLOSE ON a blown-up photograph of Leo Johnson, before and after injury and a
@@ -482,13 +476,13 @@ retribution to a community. Among the various
 crimes he's suspected of, the murder of Laura Palmer
 is the sort that can wound an entire town.
 
-(more)
-(CONTINUED)
 
-13.
-#2.005
-13. CONTINUED:
-LODWICK (continued)
+
+
+
+
+ 
+LODWICK 
 For there to be even a shred of feeling that the
 perpetrator of this terrible crime got away with it (Sternwood starts to wave him off)
 - this simply cannot be. As long as Leo Johnson
@@ -522,12 +516,12 @@ seems to be a head of cabbage. Thoughts, Cooper?
 COOPER
 I feel the right man will eventually be apprehended.
 Sid brings Sternwood his drink. With full ritualistic relish, Sternwood lights a cigar. Looks
-(more)
-(CONTINUED)
 
-14.
-#2.005
-13. CONTINUED:(2)
+
+
+
+
+ (2)
 over at Shelly, sitting alone, looking small.
 STERNWOOD (CONT'D)
 (quietly)
@@ -552,19 +546,19 @@ TRUMAN (CONT'D)
 Leo's coming home.
 A beat. Shelly's face seems to ask, who is really being sentenced?
 CUT TO:
-14. EXT. ED HURLEY'S HOUSE
+ EXT. ED HURLEY'S HOUSE
 Establish.
 CUT TO
-15. INT. HURLEY'S LIVING ROOM
+ INT. HURLEY'S LIVING ROOM
 JAMES HURLEY waits inside the open front door. NADINE, with ED behind her, enters
 entranced and confused in the doorlight. James moves to her.
 JAMES
 Can I get you anything, Nadine?
-(CONTINUED)
 
-15.
-#2.005
-15. CONTINUED:
+
+
+
+ 
 NADINE
 (peers at him)
 who are you?
@@ -600,11 +594,11 @@ JAMES
 (digesting)
 What about Jacoby? Why don't you take her to see
 him?
-(CONTINUED)
 
-16.
-#2.005
-15. CONTINUED:(2)
+
+
+
+ (2)
 ED
 (a trace of an edge)
 He's in Hawaii, recovering from that heart attack.
@@ -619,17 +613,17 @@ I'm just so damned confused ...
 ED
 Confused?
 A sudden RIPPING SOUND from the kitchen. Ed and James trade looks.
-ED (CONTINUED)
+ED 
 James, I'm a little confused myself.
 Nadine, shocked, steps into the living room entranceway; in one hand she is gripping, by
 its handle, a refrigerator freezer door.
 NADINE
 It just came right off.
 CUT TO:
-16. EXT. GREAT NORTHERN HOTEL - DAY
+ EXT. GREAT NORTHERN HOTEL - DAY
 Establish.
 CUT TO:
-17. INT. BEN HORNE'S OFFICE - DAY
+ INT. BEN HORNE'S OFFICE - DAY
 BEN HORNE enters carrying a black briefcase.
 DESK INTERCOM
 Mr. Tojamura is here.
@@ -638,11 +632,11 @@ Mr. Who?
 Ben looks up to see an ASIAN GENTLEMAN, dressed in a loose-fitting dark suit and
 sunglasses, step crisply toward the guest chair and unhesitatingly take a seat. An impeccably
 dressed VALET trails behind him. Ben puts the briefcase behind his desk.
-(CONTINUED)
 
-17.
-#2.005
-17. CONTINUED:
+
+
+
+ 
 BEN
 Excuse me? Did you have an appointment, Mr. ... ?
 TOJAMURA
@@ -670,25 +664,25 @@ BEN
 ... million.
 He picks up the prospectus with renewed interest.
 CUT TO:
-18. INT. GREAT NORTHERN CORRIDOR - DAY
+ INT. GREAT NORTHERN CORRIDOR - DAY
 HANK walks in and heads immediately for Ben's office. BOBBY enters at a safe distance and
 watches Hank disappear down the hallway. Cooper enters moments later.
 CUT TO:
-19. INT. BEN HORNE'S OFFICE - DAY
+ INT. BEN HORNE'S OFFICE - DAY
 Seeing Tojamura to the door.
 BEN
 I want you to leave all this with me and let my
 people take a look at it.
-(CONTINUED)
 
-18.
-#2.005
-19. CONTINUED:
+
+
+
+ 
 TOJAMURA
 Point of visit.
 Hank enters, stops when he sees Tojamura. Ben waves Hank back. Tojamura bows to Ben.
 Ben bows back.
-TOJAMURA (CONTINUED)
+TOJAMURA 
 Look forward to further discussion.
 BEN
 Arrigato, Tojamura san.
@@ -720,11 +714,11 @@ on the road to Castlegars, is a bar called the
 Columbian. Behind it is a failed amusement park.
 Go to the merry-go-round. Leave the briefcase
 beside the horse with no head. At midnight. Alone.
-(CONTINUED)
 
-19.
-#2.005
-19. CONTINUED:(2)
+
+
+
+ (2)
 BEN
 Midnight.
 (shows Cooper the briefcase)
@@ -752,11 +746,11 @@ Already on the wavelength, Hank nods, steps back into the blackness of the hallw
 FADE OUT:
 END ACT TWO
 
-20.
-#2.005
+
+
 ACT THREE
 FADE IN:
-20. INT. DOUBLE R - NIGHT
+INT. DOUBLE R - NIGHT
 Donna and Maddy sit at the dining table with a homemade drawing of the floor plan of
 Harold Smith's Apartment between them. Two pocket flashlights sit on the table.
 DONNA
@@ -791,13 +785,13 @@ Look, if there's nothing in that diary we'll give it
 back to him. But we have to know.
 MADDY
 And if there isn't, do you think you'd still want to
-(more)
-(CONTINUED)
 
-21.
-#2.005
-20. CONTINUED:
-MADDY (continued)
+
+
+
+
+ 
+MADDY 
 see him?
 DONNA
 Yes. I like him. A lot.
@@ -808,17 +802,17 @@ They laugh quietly.
 DONNA
 Right.
 CUT TO:
-21. EXT. ONE-EYED JACK'S - NIGHT
+ EXT. ONE-EYED JACK'S - NIGHT
 Establish.
 CUT TO:
-22. OMITTED
+ OMITTED
 
-(CONTINUED)
 
-22.
-#2.005
-22. CONTINUED:
-23. INT. BLACKIE'S OFFICE
+
+
+
+ 
+ INT. BLACKIE'S OFFICE
 JEAN RENAULT sits at his desk in shirtsleeves, one sleeve rolled up for him to strap a knifelauncher into his forearm. Its black metal chute holds the knife against a taut spring up near
 the elbow. BLACKIE watches.
 RENAULT
@@ -845,12 +839,12 @@ How are you going to do the girl?
 Renault motions to a syringe, drugs and chemistry set on his desk. Blackie moves seductively
 towards Renault, with an eye on the drugs.
 
-(more)
-(CONTINUED)
 
-23.
-#2.005
-23. CONTINUED:
+
+
+
+
+ 
 BLACKIE
 Is it my turn to play?
 A knock on the door. Nancy enters. The two sisters/enemies stare at each other. Renault
@@ -872,20 +866,20 @@ RENAULT
 We'll have our fun tonight.
 Renault caresses her with the knife.
 CUT TO:
-24. EXT. DOUBLER DINER - NIGHT
+ EXT. DOUBLER DINER - NIGHT
 Establish.
 CUT TO:
-25. INT. DINER - NIGHT
+ INT. DINER - NIGHT
 Norma pours coffee for James, preoccupied, eating dinner at the counter.
 NORMA
 How's Nadine coming along?
 JAMES
 Nadine?
-(CONTINUED)
 
-24.
-#2.005
-25. CONTINUED:
+
+
+
+ 
 NORMA
 Is she feeling stronger?
 JAMES
@@ -920,11 +914,11 @@ You don't have coffee at home?
 MADDY
 (receiving the coffee)
 James, I can't talk now. I need to go.
-(CONTINUED)
 
-25.
-#2.005
-25. CONTINUED:(2)
+
+
+
+ (2)
 JAMES
 You need to go?
 (no response from Maddy)
@@ -953,15 +947,15 @@ HANK
 Our specialty.
 He then shoves the back of the Asian's head forward, ramming his face into the gravy
 mountain of mashed potatoes. Hank drops the plate on the table, slaps his palms clean in selfsatisfaction, and looks back at a stunned Norma.
-HANK (CONTINUED)
+HANK 
 This guy's no critic, he's a ...
 Tojamura's mud-and-cloud face rises. Hank glances down. Realizes. Wrong Asian. He looks
 back at Norma's Face of Death.
 CUT TO:
 
-26.
-#2.005
-26. INT. SHERIFF'S STATION RECEPTION AREA - NIGHT
+
+
+ INT. SHERIFF'S STATION RECEPTION AREA - NIGHT
 The last half hour before closing up. ANDY BRENNAN concludes a bravura evening
 manning the switchboard. His chest and surrounding area are covered with yellow post-it
 notes.
@@ -972,7 +966,7 @@ Tacoma to visit her sister. There's supposed to be a
 number for her written down here somewhere.
 Andy begins to look for it, but that's not what the caller is concerned about. Andy listens to
 him for a moment.
-ANDY (CONTINUED)
+ANDY 
 Well, I'm certainly not a lawyer, sir, but my
 interpretation of the law would be that if your
 neighbor's cow has each of his four hoofs completely
@@ -983,7 +977,7 @@ Well, I'm certainly no veterinarian, but I think that
 would kill the cow. Right. Okay. Bye.
 Andy disconnects. A pause in the action brings him to his moment of truth. He takes out a
 scribbled piece of paper. Exhales. Dials.
-ANDY (CONTINUED)
+ANDY 
 (into phone)
 Yeah, I'm calling for some test results. Doc
 Hayward said I could just call you an ... what's it
@@ -1001,13 +995,13 @@ I'm cured?
 (writes; repeats as he does so)
 Doc said, "They're not just three guys on a fishing
 trip,
-(more)
-(CONTINUED)
 
-27.
-#2.005
-26. CONTINUED:
-ANDY (CONTINUED)
+
+
+
+
+ 
+ANDY 
 they're a whole damned town." Yeah, l know what
 that means; they're not really real people, they're ...
 okay, thank you. Thanks very much.
@@ -1016,7 +1010,7 @@ excitement. Andy turns to him.
 ANDY
 I'm a whole damned town.
 CUT TO:
-27. INT. TRUMAN'S OFFICE
+ INT. TRUMAN'S OFFICE
 Cooper and Truman at Truman's desk, leaning over Cooper's floor plan of One-Eyed Jack's.
 COOPER
 This is what I saw at One-Eyed Jack's. Main bar
@@ -1025,9 +1019,9 @@ Get-acquainted Room.
 HAWK enters. Cooper adroitly sweeps the map to the side, a move the deputy notices.
 HAWK
 The one-armed man's been staying at a motel on
-Highway 9. No one's seen him for the last day, dayand-a-half. His room looks lived in. I found this.
+Highway  No one's seen him for the last day, dayand-a-half. His room looks lived in. I found this.
 Hawk empties a paper bag of SYRINGES and several VIALS OF LIQUID.
-HAWK (CONTINUED)
+HAWK 
 Same drug, as before.
 (taking a whiff of it)
 Weird, deep smell.
@@ -1041,11 +1035,11 @@ Hawk exits. Cooper breaks the floor plans back out.
 COOPER
 We'll approach thru the woods from the back. Scale
 this hill to the rear door.
-(CONTINUED)
 
-28.
-#2.005
-27. CONTINUED:
+
+
+
+ 
 TRUMAN
 Our entry point.
 COOPER
@@ -1059,8 +1053,8 @@ inside, I never went back there.
 TRUMAN
 Let's go get her.
 CUT TO:
-28. OMITTED
-29. INT. RECEPTION AREA
+ OMITTED
+ INT. RECEPTION AREA
 Truman and Cooper sweep by Andy. After they go out Andy reviews his scrap of paper
 containing the fertility information and notices for the first time the blotter upon which it sits.
 Lucy's blotter, with a swarm of phone numbers, one of them distinctly circled. His eyes are
@@ -1071,15 +1065,15 @@ Andy's face and phone hand are frozen.
 FADE OUT:
 END ACT THREE
 
-29.
-#2.005
+
+
 ACT FOUR
 FADE IN:
-30. EXT. HAROLD SMITH'S APARTMENT - NIGHT
+ EXT. HAROLD SMITH'S APARTMENT - NIGHT
 Maddy sits behind the front bushes, coffee cup in hand, eyes fixed on Harold Smith's
 bedroom window.
 CUT TO:
-31. INT. HAROLD SMITH'S LIVING ROOM - NIGHT
+ INT. HAROLD SMITH'S LIVING ROOM - NIGHT
 Donna and Harold sit together as before, she on the chair, he behind the desk. Harold opens
 the diary with quiet ceremony. Quietly, with muted intensity, he begins:
 HAROLD
@@ -1101,11 +1095,11 @@ HAROLD
 Anything you like. It's a diary. Filled with loves
 and hates.
 
-(CONTINUED)
 
-30.
-#2.005
-31. CONTINUED:
+
+
+
+ 
 DONNA
 (as it to decide upon the theme)
 Loves.
@@ -1143,13 +1137,13 @@ doesn't do anything. He just watches. Somehow that
 makes me mad. So I say, "Let's go skinny-dipping."
 (beat)
 
-(more)
-(CONTINUED)
 
-31.
-#2.005
-31. CONTINUED:(2)
-DONNA (continued)
+
+
+
+
+ (2)
+DONNA 
 We take off our clothes. I know the boys are
 watching us. The water feels really warm. The boy's
 legs are white and I can see them under the water.
@@ -1179,9 +1173,9 @@ That was beautiful, Donna.
 Harold closes the diary.
 CUT TO:
 
-32.
-#2.005
-32. INT. HAROLD SMITH'S GREENHOUSE - NIGHT
+
+
+ INT. HAROLD SMITH'S GREENHOUSE - NIGHT
 START CLOSE on a cymbidium orchid. Pale yellow and red. Quite beautiful. Harold
 Smith's voice is HEARD.
 HAROLD'S VOICE
@@ -1215,21 +1209,21 @@ HAROLD
 (with vague apprehension)
 Will you excuse me for a minute?
 
-(CONTINUED)
 
-33.
-#2.005
-32. CONTINUED:
+
+
+
+ 
 DONNA
 Sure.
 Harold steps away into his bedroom. The SOUND of running water is HEARD. Donna
 reaches into her purse, grabs the flashlight. And races toward the front window.
 CUT TO:
-33. EXT. HAROLD SMITH'S HOUSE - NIGHT
+ EXT. HAROLD SMITH'S HOUSE - NIGHT
 Maddy SEES the tiny window flashes. She rises up from behind the bushes and does an
 eggshell walk toward the bungalow door.
 CUT TO:
-34. EXT. ONE-EYED JACK'S - NIGHT
+ EXT. ONE-EYED JACK'S - NIGHT
 Re-establish. Hank stands in the shadows, watches something in the near distance. He speaks
 into a cellular telephone with quiet urgency.
 HANK
@@ -1237,7 +1231,7 @@ HANK
 Ben, we've got a problem. The drop at the merry-goround's not for two hours and Cooper's at One-Eyed
 Jack's. And he's not alone.
 CUT TO:
-35. EXT. AROUND BACK - NIGHT
+ EXT. AROUND BACK - NIGHT
 Up over a hillside ridge, a walkway runs just the back French doors. ANGLE ON a GUARD
 on patrol. He hears a NOISE behind him and starts to reach for his gun, but there's suddenly
 a strong yank on his arm. Truman stuffs a rubber ball into his mouth and almost
@@ -1248,29 +1242,29 @@ They approach the back door. Locked. Truman plants in odd piece of iron between 
 French doors. Props it between the French doors, pushes the doors in and as they bounce
 back out and OPEN.
 CUT TO:
-36. INT. ONE-EYED JACK'S - NIGHT
+ INT. ONE-EYED JACK'S - NIGHT
 Cooper and Truman enter atop a long, ill-lit stairway. They look about, alert, ready for
 anything, then start down the stairs. Party sounds abound from the adjoining main rooms.
 Cooper and Truman walk past the first hallway of noise, the casino, gliding by, trying to
 make themselves invisible. As they approach the next level, a GIRL leads a CUSTOMER out
 into the hall.
-(more)
-(CONTINUED)
 
-34.
-#2.005
-36. CONTINUED:
+
+
+
+
+ 
 They, freeze against the wall: She looks up the stairs and happily prances right past them, a
 little drunk, not seeing. Cooper and Truman exhale. They descend past this level toward the
 darkness of the bottom floor.
 CUT TO:
-37. INT. ONE-EYED JACK'S HALLWAY - NIGHT
+ INT. ONE-EYED JACK'S HALLWAY - NIGHT
 Cooper and Truman move stealthily down the hallway. They near Blackie's office, a window,
 their view limited by drooping red curtains. Truman peers inside. Signals "two" occupants to
 Cooper. Cooper gestures a reply. Stay put. I'll circle in the other direction. HOLD ON
 Truman for a beat, as he scoots closer, tries to get a better look inside.
 CUT TO:
-38. INT. ONE-EYED JACK'S HALLWAY - NIGHT
+ INT. ONE-EYED JACK'S HALLWAY - NIGHT
 Cooper moves quietly down the hall, looking left and right. Suddenly a woman appears. It's
 Nancy, Blackie's sister. Cooper doesn't hesitate.
 COOPER
@@ -1284,18 +1278,18 @@ COOPER
 Let's double check.
 Cooper takes Nancy by the arm. Allows her to lead him forward.
 CUT TO:
-39. INT. BLACKIE'S OFFICE - NIGHT
+ INT. BLACKIE'S OFFICE - NIGHT
 START CLOSE on a video monitor showing Cooper playing blackjack. ANOTHER ANGLE
 reveals Jean Renault, glancing at the screen from time to time. He holds a small spoon in one
 hand, a lighter in the other. He fixing a hot shot for Audrey. Blackie watches, waits.
 BLACKIE
 (re hot shot)
 Not such a bad way to go. All things considered.
-(CONTINUED)
 
-35.
-#2.005
-39. CONTINUED:
+
+
+
+ 
 RENAULT
 Is she alone?
 BLACKIE
@@ -1308,12 +1302,12 @@ You do all right.
 Renault loads the syringe with a practiced hand. Everything proceeds in business-like fashion.
 Blackie steps a little closer, eyes on the drugs that remain.
 CUT TO:
-40. INT. ONE-EYED JACK'S HALLWAY - NIGHT
+ INT. ONE-EYED JACK'S HALLWAY - NIGHT
 Truman leans against the wall, having witnessed much of the latter. He looks down the
 hallway for Cooper, some sign. But sees and hear nothing. Truman scoots a little closer to the
 office door. Considers his next move.
 CUT TO:
-41. INT. ONE-EYED JACK'S BEDROOM - NIGHT
+ INT. ONE-EYED JACK'S BEDROOM - NIGHT
 Cooper and Nancy enter the bedroom. Cooper sees Audrey, dazed, bound up on the bed.
 He gives Nancy a quick stare: of controlled rage. She equivocates:
 NANCY
@@ -1328,11 +1322,11 @@ AUDREY
 (slipping in and out)
 Mmmmm ... Who ... ? ... My ... my prayers ...
 
-(CONTINUED)
 
-36.
-#2.005
-41. CONTINUED:
+
+
+
+ 
 COOPER
 (quiet, intense)
 Audrey, I'm going to take you out of here now.
@@ -1344,7 +1338,7 @@ Cooper retrieves the knife, cuts Audrey's ropes. He bundles her in the top blank
 Audrey into his arms. Cooper moves as quickly as is possible. He knows he is running out of
 time.
 CUT TO:
-42. INT./EXT. BLACKIE'S OFFICE - NIGHT
+ INT./EXT. BLACKIE'S OFFICE - NIGHT
 Truman watches as Renault places the loaded syringe in his pocket Steps toward the door.
 Blackie follows, now steps in his path. She smirks, sidles into Renault's arms. A deep kiss.
 Truman crouches by the doorway, reaches for his pistol. Ready for action. Just then: the
@@ -1356,10 +1350,7 @@ Inside the office, Renault spots Truman. He reaches for a pistol, FIRES. Truman 
 cover. Renault's bullet strikes a window, glass shatters, flies. Truman marine crawls to a
 better vantage point. He rolls, pistol aimed, ready to fire, but Renault is GONE.
 CUT TO:
-
-37.
-#2005
-43. INT. ONE-EYED JACK'S -CORRIDOR
+ INT. ONE-EYED JACK'S -CORRIDOR
 Cooper hurries down the corridor, Audrey in his arms. Truman meets him from the opposite
 direction. Neither has time for conversation. They turn toward the nearest exit. Truman leads
 the way. Suddenly: another BODYGUARD appears between them and the exit. He holds a
@@ -1374,7 +1365,7 @@ HAWK
 Good thing you guys can't keep a secret.
 Cooper, Truman, and Hawk dart up the stairs.
 CUT TO:
-44. EXT. THE HIGH RIDGE - NIGHT
+ EXT. THE HIGH RIDGE - NIGHT
 Cooper, Truman, and Hawk are VIEWED from a HIGH ANGLE. Racing with Audrey into
 the shadows.
 ANOTHER ANGLE reveals this to be Hank's POV. He speaks into the cellular phone:
@@ -1390,14 +1381,14 @@ INSERT - WALLET
 Darryl Lodwick's state prosecutor's identification is prominently displayed.
 CUT TO:
 
-38.
-#2.005
-45. INT. HAROLD SMITH'S LIVING ROOM - NIGHT
+
+
+ INT. HAROLD SMITH'S LIVING ROOM - NIGHT
 Maddy stands against the bookcase, looking for the button Donna described. She runs her
 hand along a panel, then down it's side. A button! The panels open. Maddy looks in at the
 hidden bookcase.
 CUT TO:
-46. INT. GREENHOUSE - NIGHT
+ INT. GREENHOUSE - NIGHT
 Donna peers out the greenhouse window into the living room. Follows Maddy's progress.
 Suddenly: Harold Smith returns, takes her by surprise. Donna reacts with a start.
 DONNA
@@ -1413,26 +1404,26 @@ DONNA
 Tell me about the orchids. This one ...
 Too late. Harold stalks forward.
 CUT TO:
-47. INT. HAROLD SMITH'S LIVING ROOM - NIGHT
+ INT. HAROLD SMITH'S LIVING ROOM - NIGHT
 Maddy excitedly reaches for the diary with Laura's name embossed upon it. She pulls it out
 too quickly knocking several books to the floor. Maddy turns toward the greenhouse
 window, GASPS.
 Harold Smith stands on the other side of the glass, face distorted, now staring at her with
 anger.
 CUT TO:
-48. INT. GREENHOUSE - NIGHT
+ INT. GREENHOUSE - NIGHT
 START CLOSE on Harold's hand grabbing a gardening tool. Three metal prongs, sharp claws
 to tear and rend.
 Smith strides toward the living room. Donna pleads, follows.
-(CONTINUED)
 
-39.
-#2.005
-48. CONTINUED:
+
+
+
+ 
 DONNA
 Harold, no. You don't understand. Maddy?!
 CUT TO:
-49. INT. HAROLD SMITH'S LIVING ROOM - NIGHT
+ INT. HAROLD SMITH'S LIVING ROOM - NIGHT
 Maddy stands frozen near the hidden bookshelf, Laura's diary in her hands. Harold puts
 himself between her and the door, armed with the metal tool. Donna reaches for his arm, he
 rips free from her grasp, shoves her toward Maddy and the hidden books.
@@ -1448,4 +1439,4 @@ Maddy screams.
 FADE TO BLACK
 END ACT FOUR
 
-
+

@@ -1,11 +1,6 @@
-TWIN PEAKS
-Episode 2.004
-
-1.
-#2.004
 ACT ONE
 FADE IN:
-1.
+
 
 INT. SHERIFF'S INTERROGATION ROOM - DAY
 START CLOSE on LELAND PALMER, his face a dark mask of grief. SHERIFF
@@ -40,14 +35,14 @@ LELAND
 The man who killed my daughter.
 TRUMAN'S VOICE
 Did you know his name?
-(CONTINUED)
 
 
-2.
-#2.004
-1.
 
-CONTINUED:
+
+
+
+
+
 LELAND
 No. Yes. I do now. Jacques Renault.
 TRUMAN
@@ -74,7 +69,7 @@ Leland Palmer breaks down and cries. Truman, Cooper, and DOC HAYWARD arrayed
 about the weeping man. HOLD ON this tableau for a beat.
 CUT TO:
 
-2.
+
 
 INT. SHERIFF'S STATION HALLWAY - DAY
 Cooper and Doc Hayward exit interrogation and walk down a station hallway.
@@ -85,14 +80,14 @@ We'll need a psychiatric exam. I can tell you this.
 Parents should not bury their children. Anyone who's
 suffered what Leland has ...
 (shrugs, lets the implication linger)
-(CONTINUED)
 
 
-3.
-#2.004
-2.
 
-CONTINUED:
+
+
+
+
+
 COOPER
 (gently)
 Do you approve of murder, Doctor Hayward?
@@ -101,7 +96,7 @@ No.
 But in this case, his tone suggests, he's considered the exception.
 CUT TO:
 
-3.
+
 
 INT. SHERIFF'S RECEPTION AREA - DAY
 DEPUTY ANDY BRENNAN fidgets in the reception area. Tries hard not to look like he's
@@ -128,14 +123,14 @@ HAYWARD
 Yes ...?
 ANDY
 You know ... I flunked.
-(CONTINUED)
 
 
-4.
-#2.004
-3.
 
-CONTINUED:
+
+
+
+
+
 HAYWARD
 That's not the precise term for it ...
 ANDY
@@ -156,7 +151,7 @@ Doc exits. Andy glances wildly about the reception room. No one's looking. He sp
 box full of "FLESH WORLD" magazines.
 CUT TO:
 
-4.
+
 
 INT. SHERIFF'S STATION HALLWAY - DAY
 Coming around a corner, Andy and LUCY MORAN nearly collide. She's lugging a
@@ -165,20 +160,20 @@ spots the pornography, then peers over Andy's shoulder, his destination beyond. 
 ROOM. Lucy shakes her head sadly and storms off Andy watches her vanish with a wince.
 CUT TO:
 
-5.
+
 
 INT. RECEPTION - DAY
 Truman and Cooper sit in reception with coffee, taking a breather. Cooper cases himself into
 a chair with a grimace, as Truman runs down the day's business.
 
-(CONTINUED)
 
 
-5.
-#2.004
-5.
 
-CONTINUED:
+
+
+
+
+
 TRUMAN
 Our judge is scheduled to arrive this afternoon. Clinton
 Sternwood. Travels the circuit in a Winnebago.
@@ -215,13 +210,13 @@ Truman to retrieve it. Cooper sees the bottom of Andy's new boots.
 COOPER
 Andy, don't move (Andy freezes, his hand on the sample)
 Andy, where did you get those?
-(CONTINUED)
 
 
 
-6.
-#2.004
-5A. CONTINUED:
+
+
+
+5A. 
 ANDY
 (frightened)
 Don't make me say where they came from.
@@ -246,26 +241,26 @@ ANDY
 Can I go now? Agent Cooper, I don't know how much
 time I've got.
 CUT TO:
-6.
+
 
 EXT. GREAT NORTHERN HOTEL - DAY
 Establish.
 CUT TO:
 
-7.
+
 
 INT. GREAT NORTHERN HOTEL LOBBY - DAY
 BEN HORNE steps through the lobby. A DESK CLERK appears at his side.
 CLERK
 Mr. Horne?
-(CONTINUED)
 
 
 
-#2.004
-7.
 
-CONTINUED:
+
+
+
+
 BEN
 Walk with me and talk.
 CLERK
@@ -278,11 +273,11 @@ BEN
 M.T. Wentz ... M.T. Wentz ...
 
 
-7.
-#2.004
-7.
 
-CONTINUED:
+
+
+
+
 CLERK
 M.T. Wentz, the travel writer BEN
 Yes. M.T. Wentz. The travel writer.
@@ -307,7 +302,7 @@ day's work.
 Ben turns on his heels, walks away without another word.
 CUT TO:
 
-8.
+
 
 INT. BEN HORNE'S OFFICE - DAY
 Ben enters his office, stops short. JEAN RENAULT sits on his desk, beside a portable
@@ -318,14 +313,14 @@ Mr. Horne. You look well.
 BEN
 (taking a closer look)
 What can I do for you?
-(CONTINUED)
 
 
-8.
-#2.004
-8.
 
-CONTINUED:
+
+
+
+
+
 RENAULT
 We've met. I sell 'insurance' to small businesses. Like
 One-Eyed Jack's.
@@ -335,7 +330,7 @@ Jean Renault. What's the occasion? Are my premiums
 about to be raised?
 Renault produces a video tape, inserts it into the television. Presses PLAY. Ben stops
 suddenly, pales: Audrey appears on screen, drugged, incoherent. Her wrists visibly bound.
-BEN (CONTINUED)
+BEN 
 You bastard.
 RENAULT
 Don't make a mistake, Mr. Horne. I'm just the
@@ -357,14 +352,14 @@ BEN
 They should bear the cost of their own middleman RENAULT
 They can't give me what I want. Would you like to hear
 what I want?
-(CONTINUED)
 
 
-9.
-#2.004
-8.
 
-CONTINUED:(2)
+
+
+
+
+(2)
 BEN
 Yes.
 RENAULT
@@ -388,7 +383,7 @@ One more thing.
 Renault presses FAST-FORWARD on his remote. He stops the tape at a familiar image:
 Cooper in tuxedo, seated at one of the casino's blackjack tables. Ben reacts to Cooper's image
 with surprise, trepidation. What's Cooper doing in his casino?
-RENAULT (CONTINUED)
+RENAULT 
 I want this man to deliver the ransom.
 BEN
 Why? That man's a Federal agent.
@@ -398,14 +393,14 @@ BEN
 Of course, but I can't involve RENAULT
 (counts on his fingers)
 Cash. Partners. FBI man.
-(CONTINUED)
 
 
-10.
-#2.004
-8.
 
-CONTINUED:(3)
+
+
+
+
+(3)
 BEN
 (he can't help himself)
 That's supposed be an equitable exchange?
@@ -423,11 +418,11 @@ END ACT ONE
 
 
 
-11.
-#2.004
+
+
 ACT TWO
 FADE IN:
-9.
+
 
 INT. THE DOUBLE R DINER - DAY
 HANK JENNINGS carries two covered Meals On Wheels trays from kitchen to counter.
@@ -462,14 +457,14 @@ business. He's going to try and send him our way.
 HANK
 (perking up)
 What's he look like?
-(CONTINUED)
 
 
-12.
-#2.004
-9.
 
-CONTINUED:
+
+
+
+
+
 NORMA
 Nobody knows. It's a secret I guess. But he thinks he's
 arriving today.
@@ -502,14 +497,14 @@ NORMA
 I'll call him.
 
 
-13.
-#2.004
+
+
 HANK
 Good. You do that.
 For just an instant, almost imperceptibly, a chill passes through Hank's voice. Norma and Big
 Ed. Hank leavens the latter with a smile, turns and steps out the door.
 CUT TO:
-10. INT. HAROLD SMITH'S APARTMENT DAY
+ INT. HAROLD SMITH'S APARTMENT DAY
 HAROLD SMITH carefully sets Donna's trays atop a blanket before her. He's turned his
 living room into an indoor picnic; silverware and plates, he's even produced a wicker basket.
 Donna watches, impressed.
@@ -539,8 +534,8 @@ DONNA
 Parlez vous Francais?
 
 
-14.
-#2.004
+
+
 SMITH
 Of course; you speak a Romance language.
 Smith opens the wine with subtle ceremony, pours a little into a glass for Donna to sample.
@@ -560,7 +555,7 @@ To Laura. In our hearts and memories.
 They touch glasses. A spark passes between them. Smith reaches toward an end table, grasps
 Laura's diary. The one Donna spotted there previously. Donna reacts. Smith looks at her; can
 see the eager curiosity in her eyes.
-SMITH (CONTINUED)
+SMITH 
 Her diary. Did I tell you I had this?
 DONNA
 (masking)
@@ -577,11 +572,11 @@ other times she just giggles, and I don't have the nerve to
 ask why things like that are funny to her."
 
 
-15.
-#2.004
-10. CONTINUED:(2)
+
+
+ (2)
 Donna reacts. She knows exactly to whom Laura is referring. Smith continues:
-SMITH (CONTINUED)
+SMITH 
 "So I feel badly again and shut up about it for a long
 time. I love Donna very much, but sometimes I worry
 that she wouldn't be around me at tall if she knew what
@@ -615,12 +610,12 @@ I'm a collector.
 Smith rises, steps to a bookshelf.
 DONNA
 Of what?
-(CONTINUED)
 
 
-16.
-#2.004
-10. CONTINUED:(3)
+
+
+
+ (3)
 SMITH
 Lives. People come to me and tell me their stories.
 About the world outside. I take their stories and place
@@ -633,7 +628,7 @@ Friends. Lovers
 Maybe you will too, someday
 Donna shivers. With a quiet thrill, some anticipation. And just a sliver of fear.
 CUT TO:
-11. INT. BEN HORNE'S OFFICE - DAY
+ INT. BEN HORNE'S OFFICE - DAY
 Cooper and Horne look at the small television/VCR on the desktop.
 BEN
 You were right. Her kidnappers contacted me this
@@ -649,16 +644,16 @@ That's no reason to circumvent normal channels.
 BEN
 Normal channels won't bring my daughter back alive.
 
-(more)
-(CONTINUED)
 
 
-17.
-#2.004
-11. CONTINUED:
+
+
+
+
+ 
 Ben turns to the small television, presses PLAY. Audrey's image appears on the screen.
 Cooper stares at the screen with evident emotion. Ben's got him right where he wants him.
-BEN (CONTINUED)
+BEN 
 (Softly)
 You and Audrey have a special relationship. You of all
 people understand her value to me. They want to make
@@ -667,10 +662,10 @@ twenty-five thousands dollars. Cash. But I must ask you;
 will you take it there.
 HOLD ON Cooper for a beat. Starring at Audrey, helpless on the video screen.
 CUT TO:
-12. EXT. THE BLUE PINE LODGE - DAY
+ EXT. THE BLUE PINE LODGE - DAY
 Establish.
 CUT TO:
-13. THE BLUE PINE LODGE - DAY
+ THE BLUE PINE LODGE - DAY
 START ON the kitchen door. Someone turns the knob, kicks it open. A figure steps inside,
 face hidden by the absurd number of shopping bags, hatboxes, etc. that they are carrying.
 ANOTHER ANGLE reveals s JOSIE PACKARD behind the boxes and bags. She sets the
@@ -689,14 +684,14 @@ to handle everything.
 Pete's face falls. She doesn't know. Josie sees it.
 JOSIE
 What is it?
-(CONTINUED)
 
 
 
 
-18.
-#2.004
-13. CONTINUED:
+
+
+
+ 
 PETE
 (after a beat)
 Josie, Catherine died in the fire.
@@ -735,9 +730,9 @@ I'm sure I don't know.
 CUT TO:
 
 
-19.
-#2.004
-14. INT. ONE-EYED JACK'S OFFICE - DAY
+
+
+ INT. ONE-EYED JACK'S OFFICE - DAY
 EMORY BATTIS roughly escorts Audrey into Blackie's office. Jean Renault sits at her desk.
 Audrey tries to focus, look at the man before her. But she's weak, barely coherent.
 BATTIS
@@ -772,26 +767,26 @@ BATTIS
 You see, Audrey, in a situation like this, people have to
 handle themselves in a professional manner. We're all
 reasonable people. Something reasonable can be worked
-out whenever reasonable people put their minds to it (CONTINUED)
+out whenever reasonable people put their minds to it 
 
 
-20.
-#2.004
-14. CONTINUED:
+
+
+ 
 Renault casually pulls out a silenced .38 and shoots Battis three times. A beat. Battis, quite
 dead, and his chair, fall over backwards. Audrey recoils in horror. Renault holds her.
-RENAULT (CONTINUED)
+RENAULT 
 There, there. There, there.
 HOLD ON Audrey for a beat. The nightmare begins again.
 FADE TO BLACK:
 END ACT TWO
 
 
-21.
-#2.004
+
+
 ACT THREE
 FADE IN:
-15. INT. HAYWARD HOUSE - DAY
+ INT. HAYWARD HOUSE - DAY
 DOC HAYWARD sits on the sofa, on the phone, refers to some notes he's taken.
 HAYWARD
 Ed, I just talked with the Saeger-Swenson Clinic in
@@ -821,12 +816,12 @@ something going on you'd like to share with DONNA
 There's nothing going on HAYWARD
 I have to reluctantly admit I don't believe you - and
 there've been other things as well, both your mother and
-I are concerned (CONTINUED)
+I are concerned 
 
 
-22.
-#2.004
-15. CONTINUED:
+
+
+ 
 DONNA
 I don't know. Since Laura died everything's different HAYWARD
 You may feel that it is but DONNA
@@ -837,7 +832,7 @@ Donna, don't shut us out of your life DONNA
 I have to, I'm sorry HAYWARD
 Donna Donna puts her cigarette out and leaves. Pause. Doc empties the ashtray into a waste basket.
 CUT TO:
-16. INT. RECEPTION AREA - DAY
+ INT. RECEPTION AREA - DAY
 Lucy is making coffee when Andy comes in. She gives him no focus. Cooper enters the
 station behind them.
 ANDY
@@ -850,16 +845,16 @@ MAGAZINES!
 Andy cowers. Her raised voice brings Truman out of the CONFERENCE ROOM. Lucy
 slams coffee paraphenalia around.
 
-(CONTINUED)
 
 
-23.
-#2.004
-16. CONTINUED:
+
+
+
+ 
 COOPER
 Andy, maybe you'd like to get some air.
 Andy obediently steps outside.
-COOPER (CONTINUED)
+COOPER 
 Lucy, I think we're at the point where it would be
 healthier for everyone if you got whatever was eating you
 out in the open.
@@ -892,13 +887,13 @@ LUCY
 I don't know.
 COOPER
 Well, then Lucy, what exactly do you want?
-(CONTINUED)
 
 
 
-24.
-#2.004
-16. CONTINUED:(2)
+
+
+
+ (2)
 LUCY
 (a strangulated cry)
 I don't know!
@@ -908,7 +903,7 @@ COOPER
 I was trying to help.
 TRUMAN
 It's a nice thought. But it's like trying to fix the potholes
-on Highway 9. One heavy rain ...
+on Highway  One heavy rain ...
 
 COOPER
 I see. You've been down this road before.
@@ -932,12 +927,12 @@ What do you mean?
 TRUMAN
 You're not getting a little too personal with your work,
 are you?
-(CONTINUED)
 
 
-25.
-#2.004
-16. CONTINUED:(3)
+
+
+
+ (3)
 COOPER
 Absolutely not.
 TRUMAN
@@ -945,7 +940,7 @@ Say no more. I'll set it up; nine-thirty at the Roadhouse?
 COOPER
 Harry S. Truman, you're a citizen.
 CUT TO:
-17. INT. DOUBLE R DINER - NIGHT
+ INT. DOUBLE R DINER - NIGHT
 Norma and Hank are putting finishing touches on a cosmetic overhaul; tablecloths, candles
 and flowers in every booth. Hank wears a starched shirt. A nondescript, portly MAN appears
 at the diner door, briefcase in hand. Norma calls Hank attention to him.
@@ -954,12 +949,12 @@ Could be.
 HANK
 Here we go.
 
-(CONTINUED)
 
 
-26.
-#2.004
-17. CONTINUED:
+
+
+
+ 
 Norma moves to him.
 NORMA
 Good evening, sir, welcome to the Double R.
@@ -968,7 +963,7 @@ Thanks. Could I get a booth?
 NORMA
 Right this way, please.
 She leads him to a booth, he settles in, she hands him a menu.
-NORMA (CONTINUED)
+NORMA 
 I'll be back to tell you about the specials.
 MAN
 No need. I want a cheeseburger, medium, a coke and
@@ -992,18 +987,18 @@ MAN
 Bathroom?
 HANK
 Right this way, sir.
-(CONTINUED)
 
 
 
-27.
-#2.004
-17. CONTINUED:(2)
+
+
+
+ (2)
 Hank shows him to the bathroom. On his way back, Hank straightens out some of the little
 bouquets in each of the booths making his way to the "critic's" booth. The Man has left his
 sports coat on the seat. Hank reaches in and TAKES OUT A WALLET.
 CUT TO:
-18. MADDY IN A BOOTH
+ MADDY IN A BOOTH
 Maddy sits and eyes the door. She's nervous. Donna enters, steps toward her. There is much
 tension between them.
 MADDY
@@ -1033,13 +1028,13 @@ MADDY
 How?
 DONNA
 Harold Smith has Laura's diary.
-(CONTINUED)
+
 
 
 
 27A.
-#2.004
-18. CONTINUED:
+
+ 
 MADDY
 (with disbelief)
 But I thought the Sheriff has Laura's diary.
@@ -1052,15 +1047,15 @@ DONNA
 (firm)
 This has nothing to do with James,.
 MADDY
-But he's been a part of this all along (CONTINUED)
-
-(CONTINUED)
+But he's been a part of this all along 
 
 
 
-28.
-#2.004
-18. CONTINUED:(2)
+
+
+
+
+ (2)
 DONNA
 (tamping out her cigarette)
 If Laura did have a secret diary and he's got it, I'm
@@ -1073,8 +1068,8 @@ ASSISTANT DISTRICT ATTORNEY
 STATE DEPARTMENT OF JUSTICE
 Hank reacts; disappointment and opportunity.
 CUT TO:
-19. OMITTED
-20. INT. BLUE PINE LODGE - NIGHT
+ OMITTED
+ INT. BLUE PINE LODGE - NIGHT
 Josie models a new negligee. Truman sits stoically.
 JOSIE
 I know I paid too much for it, but I fell in love with
@@ -1094,12 +1089,12 @@ you think I got these at the Cash and Carry?
 Besides, you know I had to get away. I was afraid.
 TRUMAN
 Afraid of Catherine.
-(CONTINUED)
 
 
-29.
-#2.004
-20. CONTINUED:
+
+
+
+ 
 JOSIE
 You know why.
 TRUMAN
@@ -1131,12 +1126,11 @@ JOSIE
 Tear it. Tear it.
 She bites his neck. He rips the back of her negligee. She gasps, trembling. He grabs her
 violently by the shoulders.
-(CONTINUED)
 
 
-30.
-#2.004
-20. CONTINUED:(2)
+
+
+
 TRUMAN
 What do I mean to you?
 JOSIE
@@ -1155,14 +1149,14 @@ FADE OUT:
 END ACT THREE
 
 
-31.
-#2.004
+
+
 ACT FOUR
 FADE IN:
-21. EXT. SHERIFF'S STATION - NIGHT
+ EXT. SHERIFF'S STATION - NIGHT
 Establish.
 CUT TO:
-22. INT. SHERIFF'S RECEPTION AREA - NIGHT
+ INT. SHERIFF'S RECEPTION AREA - NIGHT
 In walks His Honor CLINTON STERNWOOD, early sixites, tall, rough-hewn, ramrod
 straight, in Western wear. Sees Lucy in the kitchenette.
 STERNWOOD
@@ -1190,12 +1184,12 @@ Clinton, sorry I'm late STERNWOOD
 I've only just arrived. What's her name, Harry?
 TRUMAN
 What?
-(CONTINUED)
 
 
-32.
-#2.004
-22. CONTINUED:
+
+
+
+ 
 STERNWOOD
 You've got the look of a man with filly trouble, son. If
 she won't take the saddle you've got two options. I
@@ -1230,12 +1224,12 @@ Let's hope so, son. Harry, where's that bottle?
 They're inside. We stay with LUCY, as she returns to her post. The door opens, RICHARD
 TREYMAYNE enters, raincoated, romantic and rushed.
 
-(CONTINUED)
 
 
-33.
-#2.004
-22. CONTINUED:(2)
+
+
+
+ (2)
 TREYMAYNE
 Lucy ...
 LUCY
@@ -1271,15 +1265,15 @@ LUCY
 For what?
 TREYMAYNE
 For the ... to take care of the ... you know ...
-(more)
-(CONTINUED)
 
 
 
-34.
-#2.004
-22. CONTINUED:(3)
-TREYMAYNE (continued)
+
+
+
+
+ (3)
+TREYMAYNE 
 (she wants to hear him say it)
 ... little problem.
 LUCY
@@ -1299,7 +1293,7 @@ Truman's office and closes the door, from where we can hear muffled sobs. Moment
 Andy appears in the corridor, leading a handcuffed Leland. They pass by the office. Andy
 hears Lucy. They proceed to the conference room.
 CUT TO:
-23. INT. CONFERENCE ROOM - NIGHT
+ INT. CONFERENCE ROOM - NIGHT
 Truman, Cooper and Sternwood, as Andy enters with Leland.
 LELAND
 Judge Sternwood.
@@ -1316,16 +1310,9 @@ be a fine and decent man and a capable attorney. To see
 you under these circumstances is dreadful for us all. The
 law provides a structure to guide us through perilous and
 trying times; but it requires our submission to its
-(more)
-(CONTINUED)
 
 
-Pages 35 - 37 missing
-
-
-38.
-#2.004
-26. CONTINUED:
+ 
 JOSIE
 Peter, this is my cousin, Jonathan.
 PETE
@@ -1360,12 +1347,12 @@ JONATHAN
 I don't know how you've lasted six years. Nothing but
 hayseeds and manual laborers.
 
-(CONTINUED)
 
 
-39.
-#2.004
-26. CONTINUED:(2)
+
+
+
+ (2)
 JOSIE
 (drops her act as well)
 We all have our job to do.
@@ -1400,12 +1387,12 @@ What about this sheriff?
 JOSIE
 He means nothing to me.
 
-(CONTINUED)
 
 
-40.
-#2.004
-26. CONTINUED:(3)
+
+
+
+ (3)
 JONATHAN
 (reading between the lines)
 That's not what I asked you.
@@ -1421,10 +1408,10 @@ fish.
 smile)
 Private joke.
 CUT TO:
-27. EXT. ROADHOUSE - NIGHT
+ EXT. ROADHOUSE - NIGHT
 Establish.
 CUT TO:
-28. INT. ROADHOUSE - NIGHT
+ INT. ROADHOUSE - NIGHT
 Cooper sits at the bar by himself. He checks his watch. Nine-thirty. Swivels on his seat one
 way. When he swivels back the other way, Harry Truman's sitting next to him, out of
 uniform.
@@ -1436,16 +1423,16 @@ Is he here?
 TRUMAN
 He's here.
 Cooper snaps his fingers and points at Truman.
-TRUMAN (CONTINUED)
+TRUMAN 
 We in any particular hurry?
 COOPER
 Harry ... let me buy you a beer.
 CUT TO:
 
 
-41.
-#2.004
-29. INT. DOUBLE R DINER - NIGHT
+
+
+ INT. DOUBLE R DINER - NIGHT
 The darkened interior of the diner after hours. A doorbell is HEARD. A beat. Hank Jennings
 steps into the room wearing sweats, a sleepy expression, turns on an interior light, opens the
 front door. Nobody's there. Mutters, turns off the lights, and heads back to bed.

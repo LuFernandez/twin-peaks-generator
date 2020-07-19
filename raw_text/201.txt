@@ -1,16 +1,12 @@
-TWIN PEAKS
-#2.001
-
-1.
 ACT ONE
 FADE IN:
-1.
+
 
 EXT. GREAT NORTHERN HOTEL - NIGHT
 Establish.
 CUT TO:
 
-2.
+
 
 INT. GREAT NORTHERN CORRIDOR - NIGHT
 Looking through the open door into Cooper's room. COOPER lies still on the floor, flat on
@@ -21,11 +17,11 @@ WAITER
 Room service.
 No response. He enters cautiously.
 Cooper's eyes open. He looks up as the Waiter, who is no scholar.
-WAITER (CONTINUED)
+WAITER 
 (grins)
 How you doin' down there?
 Cooper blinks a few times, dazed and disoriented. Pause.
-WAITER (CONTINUED)
+WAITER 
 Warm milk.
 He proudly holds up the glass.
 COOPER
@@ -38,12 +34,12 @@ phone receiver, from where he hears ...
 ANDY'S VOICE
 Hello? ... Agent Cooper? ... Agent Cooper?
 The Waiter looks down at Cooper, then decides to helpfully hang up the receiver.
-(CONTINUED)
 
-2.
-2.
 
-CONTINUED:
+
+
+
+
 WAITER
 Hung it up for you.
 COOPER
@@ -62,12 +58,12 @@ COOPER
 Yes?
 The Waiter holds out the bill and pen. Cooper takes them, holds them above his chest, trying
 to focus
-COOPER (CONTINUED)
+COOPER 
 Does this include a gratuity?
 WAITER
 Yes sir.
 Cooper scrawls a signature. The Waiter takes back the bill and pen.
-WAITER (CONTINUED)
+WAITER 
 That milk'll cool down on ya'.
 The Waiter smiles, backs up to the door, stops, grins, points a finger. He's figured it out.
 WAITER
@@ -76,15 +72,9 @@ Cooper looks at him. The Waiter grins again, gives a small wave and a wink and m
 We hear his footsteps move do, the coorridor. They stop. Slower footsteps come back.
 The Waiter peeks around the corner, looks at Cooper again, grins, shakes his head and
 moves off. The footsteps recede.
-(CONTINUED)
 
-2.001
-2.
 
-Revised 7-24-90, YELLOW
-3.
-
-CONTINUED:(2)
+(2)
 Cooper takes a cautious deep breath. He closes his eyes, wincing in pain. He turns his head
 towards the bed, opens his eyes and slowly realizes that, looming above him, a GIANT is
 sitting on the foot of the bed looking down at him.
@@ -105,7 +95,7 @@ GIANT
 (shakes his head)
 The question is: where have you gone?
 Cooper blinks, ponders.
-GIANT (CONTINUED)
+GIANT 
 The first thing I will tell you is: "The man in the
 smiling bag."
 COOPER
@@ -114,18 +104,18 @@ COOPER
 GIANT
 The second thing is: "The owls are not what you think."
 Cooper repeats the words, clinging to them.
-GIANT(CONTINUED)
+GIANT
 The third thing is: "He points without the proper chemical."
 Cooper repeats the phrase to himself.
-(CONTINUED)
 
-2.001
-2.
 
-Revised 7-24-90, YELLOW
-4.
 
-CONTINUED:(3)
+
+
+
+
+
+(3)
 COOPER
 What, what does this mean?
 GIANT
@@ -143,13 +133,13 @@ COOPER
 Holy jumpin' George.
 CUT TO:
 
-3.
+
 
 EXT. ONE-EYED JACK'S - NIGHT
 Establish. Off the One-Eyed sign ...
 CUT TO:
 
-4.
+
 
 INT. ONE-EYED JACK'S BEDROOM NIGHT
 CLOSE on AUDREY'S eye, peering out from between the curtains, draped around the
@@ -165,12 +155,12 @@ AUDREY
 Who's there?
 BEN
 The big bad wolf.
-(CONTINUED)
 
-5.
-4.
 
-CONTINUED:
+
+
+
+
 AUDREY
 Go away.
 BEN
@@ -185,7 +175,7 @@ Jack's it's a transitory condition. And an occupational
 handicap.
 He tries to pry the curtain apart for a look, she snaps it shut. He takes out a cigar; having
 been through this before, he falls back on technique.
-BEN (CONTINUED)
+BEN 
 But, consider; your first night in a new place, new
 surroundings, new people AUDREY
 New wardrobe BEN
@@ -205,12 +195,12 @@ circumstances?
 AUDREY
 (pause)
 Could you repeat the question?
-(CONTINUED)
 
-6.
-4.
 
-CONTINUED:(2)
+
+
+
+(2)
 BEN
 You're nervous, you're shy, you're frightened: of course
 you are...
@@ -229,7 +219,7 @@ BEN
 Alright' fine, now I have to see you ...
 He puts his cigar in his mouth, tries to open the curtain again; she thwarts him. He thrusts a
 hand inside. She slaps it away.
-BEN (CONTINUED)
+BEN 
 (happy)
 A vixen! What's your name?
 AUDREY
@@ -246,12 +236,12 @@ BEN
 That's right. Tell me your name.
 AUDREY
 You wouldn't believe me.
-(CONTINUED)
 
-7.
-4.
 
-CONTINUED:(3)
+
+
+
+(3)
 BEN
 I'm a liberal thinker.
 AUDREY
@@ -269,27 +259,27 @@ BEN
 All right.
 She listens cautiously. Ben walks to the door, opens and closes it, tiptoes back into the room,
 towards the bed. He triumphantly throws the curtains open.
-BEN (CONTINUED)
+BEN 
 'Got you!
 She's hiding under the covers, a conspicuous lump. Ben advances.
-BEN (CONTINUED)
+BEN 
 I'll huff ... and I'll puff ... and I'll blow your house
 down!
 He yanks the covers away. She's revealed: a mask covers her features.
-BEN (CONTINUED)
+BEN 
 Aren't you ... something?
 He advances further. She retreats. He reaches for her, she slaps his hands away, grabs a
 pillow and whacks him across the head. He laughs. She's backed against the wall. He reaches
 for her mask.
-BEN (CONTINUED)
+BEN 
 Please ... I have to ... see you ...
 His hand reaches the mask. An urgent knock at the door. Ben hesitates. Another knock.
-(CONTINUED)
 
-8.
-4.
 
-CONTINUED:(4)
+
+
+
+(4)
 JERRY HORNE'S VOICE
 Ben, it's Jer! Brother Ben, we've got a situation!
 BEN
@@ -321,17 +311,17 @@ Audrey lowers the mask. She's laughing silently, tears running down her face, cl
 edge.
 CUT TO:
 
-5.
+
 
 INT. BLACKIE'S OFFICE - NIGHT
 Ben and Jerry enter Blackie's office. BLACKIE sits behind her desk, looking worn and
 haggard. She has the shakes.
-(CONTINUED)
 
-9.
-5.
 
-CONTINUED:
+
+
+
+
 BEN
 How many blips are we dealing with?
 JERRY
@@ -355,17 +345,17 @@ This sounds like a job for Jerry Horne Taking off his coat, Jerry starts for the
 BEN
 Blackie, you're looking a little the worse for wear ...
 She shoots him a poisonous look. He takes a packet from his pocket.
-BEN (CONTINUED)
+BEN 
 Would you like to fix yourself a cocktail? Or would
 you rather just say "no?"
 BLACKIE
 Bastard.
-(CONTINUED)
 
-10.
-5.
 
-CONTINUED:(2)
+
+
+
+(2)
 BEN
 What's that, Blackie?
 BLACKIE
@@ -383,20 +373,20 @@ opens a drawer [plus other drug paraphenalia], takes out a length of rubber tubi
 it on the desk.
 CUT TO:
 
-6.
+
 
 EXT. BURNED MILL - DAWN
 Establish. Fire trucks and paramedics dealing with the fire's aftermath.
 CUT TO:
 
-7.
+
 
 INT. MILL - DAWN
 Details of the ravaged interior. A scorched moose head on a wall. A ruined office. Water
 and ash dripping into a tea cup. A blackened fire extinguisher,
 CUT TO:
 
-8.
+
 
 EXT. MILL - DAWN
 PARAMEDICS wheel PETE MARTELL out of the mill, his face covered with an oxygen
@@ -408,12 +398,12 @@ PETE
 Catherine?
 TRUMAN
 Not yet, Pete.
-(CONTINUED)
 
-11.
-8.
 
-CONTINUED:
+
+
+
+
 They look at each other. Pete coughs, they readjust his mask, slide the gurney in, close the
 doors. The siren starts up, the ambulance drives off.
 Truman moves away and is joined by DEPUTY HAWK
@@ -425,7 +415,7 @@ Harry, we've looked everywhere TRUMAN
 (hard)
 Keep looking.
 DEPUTY ANDY lopes up to them.
-TRUMAN (CONTINUED)
+TRUMAN 
 Andy, where the hell is Cooper?
 ANDY
 It's the strangest thing, I was talking to him and he put
@@ -439,7 +429,7 @@ phone.
 Hawk and Truman look at each other.
 CUT TO:
 
-9.
+
 
 INT. COOPER'S ROOM - DAWN
 Cooper's hand reaches out for his tape recorder on the floor not far from where he's lying.
@@ -447,14 +437,14 @@ His fingertips reach it, gain purchase and drag it back to him. In pain and slig
 COOPER
 Diane, it's - I don't know what time it is, Diane, I've
 been shot. I was out for a while and I can't reach my
-(more)
-(CONTINUED)
 
-12.
-9.
 
-CONTINUED:
-COOPER (CONTINUED)
+
+
+
+
+
+COOPER 
 watch. The sky's getting light, I can hear birdsong. I'm
 lying on the floor of my room. There is a great deal of
 pain and a fair amount of blood. I seem to remember
@@ -481,17 +471,17 @@ genuine affection for. I would like that very much.
 (he has to stop)
 All in all, a very interesting experience.
 SOUND of running footsteps. Truman, Hawk and Andy appear in the doorway.
-COOPER (CONTINUED)
+COOPER 
 Ah. They're here.
 FADE OUT:
 END ACT ONE
 
-13.
+
 ACT TWO
-10. EXT. CALHOUN MEMORIAL HOSPITAL - DAY
+ EXT. CALHOUN MEMORIAL HOSPITAL - DAY
 Establish.
 CUT TO:
-11. INT. CALHOUN HOSPITAL INTENSIVE CARE - DAY
+ INT. CALHOUN HOSPITAL INTENSIVE CARE - DAY
 CAMERA MOVES slowly past a row of charts hanging on hooks at a nurse's station: we read
 the names on the charts:
 ... Pulaski, Ronnette; Jacoby, Lawrence; Hurley, Nadine; Johnson, Shelly; Martell, Pete;
@@ -500,7 +490,7 @@ A NURSE takes a seventh unmarked chart; off the last hook and CAMERA MOVES with 
 picking up staying with an extremely tired DOC HAYWARD sitting in a chair. She hands
 the chart to Hayward. He rises and together they move into an adjoining room ...
 CUT TO:
-12. INT. INTENSIVE CARE DAY
+ INT. INTENSIVE CARE DAY
 Hayward and the Nurse enter. Cooper is seated on an examining table. Another NURSE is
 cutting away his shirt; revealing his bulletproof vest. Truman stands nearby.
 COOPER
@@ -519,11 +509,11 @@ HAYWARD
 Haven't seen this much action since the Elks Club fire in
 '59 - here we go ...
 Doc and the Nurse ease the bloodstained vest off Cooper. He groans. Large ugly bruises are
-(more)
-(CONTINUED)
 
-14.
-12. CONTINUED:
+
+
+
+ 
 revealed. LUCY enters with a clipboard, thermos of coffee and some mugs, just in time to see
 the bruises.
 LUCY
@@ -558,10 +548,10 @@ You bet.
 TRUMAN
 (taking a cup, quietly)
 Lucy, Agent Cooper needs to be brought up to date.
-(CONTINUED)
 
-15.
-12. CONTINUED:(2)
+
+
+ (2)
 LUCY
 Okay.
 TRUMAN
@@ -595,10 +585,10 @@ Doctor Jacoby is resting comfortably after his heart
 attack, and Ronnette Pulaski is still on life support,
 which the Sheriff told me you already knew about but
 that I should remind you.
-(CONTINUED)
 
-16.
-12. CONTINUED:(3)
+
+
+ (3)
 COOPER
 Thank you.
 HAYWARD
@@ -613,7 +603,7 @@ A few second-degree burns, smoke inhalation LUCY
 Smoke inhalation, in addition to which I think Shelly is
 a smoker anyway.
 Doc and Cooper look at each other.
-LUCY (CONTINUED)
+LUCY 
 Nadine Hurley is still unconscious and in serious
 condition because of an overdose of sleeping pills.
 COOPER
@@ -632,12 +622,12 @@ Cooper puts the wallet in his mouth and bites down hard. Hayward picks up the pl
 goes to work.
 LUCY
 Leo Johnson was found in his house by Deputy Brennan
-(more)
-(CONTINUED)
 
-17.
-12. CONTINUED:(4)
-LUCY (CONTINUED)
+
+
+
+ (4)
+LUCY 
 with a single gunshot wound to his upper chest. There
 appears to be a spinal injury associated with this wound,
 he's just out of surgery an at this time is still
@@ -646,12 +636,12 @@ out a yell. Hayward examines the bullet. We see the leg's of a dead tick attache
 HAYWARD
 Hell of a way to kill a tick.
 CUT TO:
-13. INT. HOSPITAL ROOM - DAY
+ INT. HOSPITAL ROOM - DAY
 Truman looks in on ED HURLEY, sitting by the bedside of the unconscious NADINE,
 holding her hand, watching her with fear and devotion, trying to will her back. Truman
 respectfully withdraws before Ed realizes he's there.
 CUT TO:
-14. INT. HOSPITAL ROOM - DAY
+ INT. HOSPITAL ROOM - DAY
 Truman enters another room, where a NURSE is tending to Shelly, lying quietly in bed, pale,
 exhausted, coughing gently every now and then. Truman nods to the Nurse, who exits.
 Truman sits by the edge of the bed. Shelly manages a weak smile.
@@ -673,10 +663,10 @@ Oh my God ...
 TRUMAN
 It's bad. You should know there's a chance he may not
 make it.
-(CONTINUED)
 
-18.
-14. CONTINUED:
+
+
+ 
 SHELLY
 Oh my God, what happened?
 TRUMAN
@@ -700,19 +690,19 @@ you.
 SHELLY
 Thanks, Sheriff.
 Truman rises, exits. Shelly tries to put the pieces together.
-SHELLY (CONTINUED)
+SHELLY 
 (under her breath, terrified)
 Bobby ... Bobby, help me ...
 CUT TO:
-15. INT. HOSPITAL CORRIDOR - DAY
+ INT. HOSPITAL CORRIDOR - DAY
 Truman exits Shelly's room, sees Ed coming out of Nadine's room. They approach. Ed
 shrugs, a heartbreaking look of helplessness. Truman gives him a hug.
 TRUMAN
 I'm sorry.
-(CONTINUED)
 
-19.
-15. CONTINUED:
+
+
+ 
 ED
 She's always been a fighter. I'm betting on her.
 TRUMAN
@@ -745,12 +735,12 @@ HAYWARD
 recommendation COOPER
 Thanks, Doc, duly noted HAYWARD
 You've lost some blood, you've got two cracked ribs,
-some torn cartiledge and possibly a bruised lung (CONTINUED)
+some torn cartiledge and possibly a bruised lung 
 
-20.
-5.
 
-CONTINUED:(2)
+
+
+(2)
 COOPER
 (overlapping)
 Lucy, maybe you could run down to the pharmacy and
@@ -785,13 +775,13 @@ Tell you later. Come on, Harry, we've got work to do:
 the attempted murder of a federal agent is an extremely
 serious crime and it barely cracks our top five.
 Cooper moves off, a pained, awakward gait. Hayward and Truman look at each other.
-(more)
-(CONTINUED)
 
-21.
-15. CONTINUED:(3)
+
+
+
+ (3)
 Truman shrugs and starts after Cooper.
-COOPER (CONTINUED)
+COOPER 
 Harry, if you don't mind, you're going to have to do
 most of the driving.
 As they round the corner, we move to look down a long, empty corridor. We move down it
@@ -801,10 +791,10 @@ DISSOLVE TO:
 We move in on RONETTE PULASKI, lying in bed, hooked up to life support. As we get
 closer, she moves in a way that indicates she's coming out of the coma.
 CUT TO:
-16. EXT. PALMER HOUSE - DAY
+ EXT. PALMER HOUSE - DAY
 Establish.
 CUT TO:
-17. INT. PALMER LIVING ROOM - DAY
+ INT. PALMER LIVING ROOM - DAY
 SARAH PALMER and MADDY FERGUSON are having coffee both lost in private
 thought. Pause.
 MADDY
@@ -823,10 +813,10 @@ yellow and red. Then we were in the woods. It was very
 dark. I woke up and the window was open. There was a
 cold wind blowing through the room.
 From the other room, loud robust singing approaches.
-(CONTINUED)
 
-22.
-17. CONTINUED:
+
+
+ 
 LELAND'S VOICE
 "Oh, marsey-doats and dosesy-doats and little lambs
 eat ivy/A kiddlede ivy too, wouldn't you? ... marseydoats and dosesy-doats and little lambs eat ivy/A
@@ -834,7 +824,7 @@ kiddledeet ivy too, wouldn't you? ... "
 LELAND PALMER enters the room, well dressed in a three-piece buisness suit, carrying his
 briefcase. He continues to sing, happy and good-natured, genuinely trying to entertain the
 two women. His hair has turned completely white.
-LELAND (CONTINUED)
+LELAND 
 "Now if the words sound queer and funny to your ear/
 A little bit jumpled and jivey ...
 (moving closer to them)
@@ -842,7 +832,7 @@ Say 'Mares eat oats and does eat oats, and little lambs
 eat ivy' ...
 He kisses them both, grabs his hat, kind of flips it onto his head, picks up an umbrella and
 exits, still singing ...
-LELAND (CONTINUED)
+LELAND 
 "Oh, marsey-doats; and dosesy-doats; and little lambs
 eat ivy/A kiddledeet ivy too, wouldn't you? ... marseydoats and dosesy-doats and little lambs eat ivy/A
 kiddledeet ivy too, wouldn't you?
@@ -850,13 +840,13 @@ Sarah and Maddy look at each other.
 FADE TO BLACK:
 END ACT TWO
 
-23.
+
 ACT THREE
 FADE IN
-18. EXT. GREAT NORTHERN HOTEL - DAY
+ EXT. GREAT NORTHERN HOTEL - DAY
 Establish.
 CUT TO:
-19. INT. BEN HORNE'S OFFICE - DAY
+ INT. BEN HORNE'S OFFICE - DAY
 On a television set in the corner, featuring a news story about the burning mill. SOUND of
 half-spirited Icelander singing from the hall outside. Ben and Jerry appear in the hallway, turn
 and speak back to the Icelanders in the hall.
@@ -864,7 +854,7 @@ BEN
 Travel safely, Einer; (Icelandic phrase): next year in
 Rekyavik!
 Ben pulls Jerry into the office, closes the door and barks instructions.
-BEN (CONTINUED)
+BEN 
 On the bus, on the runway, right up to the plane; no
 television, no newspapers and make sure the pilot
 doesn't fly over the mill, until their check clears as far as
@@ -887,16 +877,16 @@ The SOUND of the Icelanders is interrupted by the approaching sound of Leland si
 arms, a happy smile on his face, his white hair standing up like a field of albino wheat.
 LELAND
 I'm back!
-(CONTINUED)
 
-24.
-19. CONTINUED:
+
+
+ 
 Ben and Jerry stare at him for a long time.
 CUT TO:
-20. EXT. LEO JOHNSON'S HOUSE - DAY
+ EXT. LEO JOHNSON'S HOUSE - DAY
 A lot of police vehicles parked outside.
 CUT TO:
-21. INT. LEO JOHNSON'S HOUSE - DAY
+ INT. LEO JOHNSON'S HOUSE - DAY
 Full-scale forensics going on in the living room; technicians measuring the trajectory the
 bullet took through the broken window. Truman examines the bite Leo's axe took out of the
 wall. Hawk comes out of the bedroom with a small box containing some skin mags,
@@ -923,10 +913,10 @@ He wasn't shot by the person he was fighting with.
 TRUMAN
 (an idea taking shape)
 Two people.
-(CONTINUED)
 
-25.
-21. CONTINUED:
+
+
+ 
 COOPER
 Leo was trying to turn somebody to kindling. The
 person went down and hit that television; the legs were
@@ -943,12 +933,12 @@ COOPER
 That depends on when she got to the mill.
 Truman nods.
 CUT TO:
-22. EXT. LEO JOHNSON'S - DAY
+ EXT. LEO JOHNSON'S - DAY
 Deputy Andy is working the perimeter outside. He looks up to see a government issue car
 roar up nearby and stop in a cloud of dust. AGENT ALBERT ROSENFIELD and his two
 ASISSTANTS climb out of the car. Andy immediately turns and runs to the house.
 CUT TO:
-23. INT. LEO JOHNSON'S PORCH - DAY
+ INT. LEO JOHNSON'S PORCH - DAY
 Andy enters and starts for the door.
 ANDY
 Harry! Harry! It's Agent Rosenflower!
@@ -960,10 +950,10 @@ Another great moment in law enforcement history.
 The plank Andy dislodged reveals a cavity under the porch, which Truman is the first to
 notice. He kneels down to take a look ...
 CUT TO:
-24.
 
-26.
-25. INSERT - THE PORCH CAVITY
+
+
+ INSERT - THE PORCH CAVITY
 Secreted inside is Leo's stash, prominently featuring a couple of kilo bricks of cocaine.
 CUT TO:
 TRUMAN
@@ -973,10 +963,10 @@ Albert, I guess you were more right than you know.
 Good work, Andy.
 His nose bleeding, Andy manages a cockeyed grin.
 CUT TO:
-26. EXT. DINER - DAY
+ EXT. DINER - DAY
 Establish.
 CUT TO:
-27. INT. DINER KITCHEN - DAY
+ INT. DINER KITCHEN - DAY
 A small bottle of ammonia or some like chemical is opened. HANK JENNINGS lets the
 fumes from the bottle drift up into his face. He inhales, his eyes redden and start to rear. He
 replaces the bottle top and hides the bottle as NORMA JENNINGS enters the kitchen.
@@ -992,10 +982,10 @@ What is it?
 HANK
 Nuthin'. Fine.
 She regards him, trust still an issue but today perhaps slightly more on the fence.
-(CONTINUED)
 
-27.
-27. CONTINUED:
+
+
+ 
 NORMA
 (waiting him out)
 Uh-huh.
@@ -1029,13 +1019,13 @@ A wistful grin for her benefit. She half-smiles, pockets the money, starts out.
 NORMA
 She likes snapdragons.
 CUT TO:
-28. INT. DINER - DAY
+ INT. DINER - DAY
 Norma busies herself behind the counter for a moment. Behind her DONNA HAYWARD
-(more)
-(CONTINUED)
 
-28.
-28. CONTINUED:
+
+
+
+ 
 enters the diner, wearing sunglasses, spots Maddy Ferguson sitting at the counter, moves to
 her and together they move to a booth, maintaining a conspiritorial tone.
 MADDY
@@ -1071,10 +1061,10 @@ MADDY
 That's what Uncle Leland said this morning DONNA
 Did they come to your house? Did you see it on the
 news?
-(CONTINUED)
 
-29.
-28. CONTINUED:(2)
+
+
+ (2)
 MADDY
 No DONNA
 Then until that happens we still have work to do.
@@ -1090,30 +1080,30 @@ Norma sees them.
 NORMA
 Oh, Donna,. I've got something for you here.
 She takes an envelope out from under the counter and moves to the booth.
-NORMA (CONTINUED)
+NORMA 
 This came in the mail for you yesterday.
 DONNA
 Thanks, Norma.
 She looks at it.
 INTERCUT:
-29. THE ENVELOPE
+ THE ENVELOPE
 Adddressed to "Donna Hayward, c/o Norma Jennings, Double R Diner"
-DONNA (CONTINUED)
+DONNA 
 That's odd.
 DONNA
 As Donna examines it, Norma nods, moves off, exits the diner.
 MADDY
 What is it?
-(CONTINUED)
 
-30.
-29. CONTINUED:
+
+
+ 
 Donna shrugs, opens the envelope, finds a note inside, printed in block letters.
 INTERCUT:
-30. THE NOTE
+ THE NOTE
 It reads: LOOK INTO THE MEALS ON WHEELS.
 CUT TO:
-31. INT. ONE-EYED JACK'S BEDROOM - DAY
+ INT. ONE-EYED JACK'S BEDROOM - DAY
 Audrey, alone in her room, sprawled on the bed playing solitaire. She hums. She cheats.
 A knock at the door. A FIFTY-TWO PICK-UP GIRL enters.
 AUDREY
@@ -1137,17 +1127,17 @@ Until they trust you.
 AUDREY
 Then what happens?
 The Girl likes her and is friendly, but is also clearly operating under some other instructions.
-(CONTINUED)
 
-31.
-31. CONTINUED:
+
+
+ 
 PICK-UP
 Keep asking so many questions and you'll never find out.
 AUDREY
 They don't like you asking questions?
 The Girl gestures to be quiet, nods, points to a small screen in the wall; a speaker. Audrey
 nods, understanding.
-AUDREY (CONTINUED)
+AUDREY 
 (for the speaker's benefit)
 I wouldn't normally be so curious, but Jack's is such a
 first-rate joint I'd like to know more about how it's run.
@@ -1159,7 +1149,7 @@ AUDREY
 (still playing to the speaker)
 Hey, great.
 They move towards the door.
-AUDREY (CONTINUED)
+AUDREY 
 (whispers)
 What's your name?
 PICK-UP
@@ -1172,13 +1162,13 @@ Nancy, one more question ...
 ... don't your boobs start to hurt in this thing?
 Nancy covers her mouth to hide her laugh and nods.
 CUT TO:
-32. INT. BLACKIE'S OFFICE, - DAY
+ INT. BLACKIE'S OFFICE, - DAY
 Audrey enters. Blackie, fixed up, looking cool and steely, is getting a shoulder rub from one
 of the PICK-UPs. Another PICK-UP is kneeling in front of her, rubbing her feet.
-(CONTINUED)
 
-32.
-32. CONTINUED:
+
+
+ 
 AUDREY
 Hey, boss, what's up?
 BLACKIE
@@ -1212,29 +1202,29 @@ Not you. No offense.
 Blackie slaps her hard. Audrey raises her hand to slap back. Blackie catches her wrist.
 BLACKIE
 Let's get one thing straight between us, princess ...
-(CONTINUED)
 
-33.
-32. CONTINUED:(2)
+
+
+ (2)
 AUDREY
 (not flinching)
 Okay.
 Audrey hears the snick of a lock engaging. [She looks down.] Blackie's put a handcuff on her
 wrist.
-BLACKIE (CONTINUED)
+BLACKIE 
 When you work for me, everybody's your type. Whether
 you like it or not.
 They look at each other.
 FADE OUT:
 END ACT THREE
 
-34.
+
 ACT FOUR
 FADE IN:
-33. EXT. SHERIFF'S STATION - DAY
+ EXT. SHERIFF'S STATION - DAY
 Establish.
 CUT TO:
-34. INT. SHERIFF'S STATION - DAY
+ INT. SHERIFF'S STATION - DAY
 Cooper, shirt off, ribs heavily taped, sits on the conference table, as Albert Rosenfield
 examines him, using a stethescope. Albert's briefcase is open on the table.
 ALBERT
@@ -1263,10 +1253,10 @@ I'll take it from here. Meanwhile one of your principal
 suspects was murdered in his hospital bed, the other was
 shot in his living room. You tell me: vigilante justice or
 just clean country living?
-(CONTINUED)
 
-35.
-34. CONTINUED:
+
+
+ 
 COOPER
 Albert, let me ask you something; where does this
 attitude of generalized unpleasantness come from?
@@ -1286,7 +1276,7 @@ Agent Cooper? You wanted to see me?
 COOPER
 Have a seat, Andy.
 Andy sits. Albert packs up his briefcase.
-COOPER (CONTINUED)
+COOPER 
 Andy, I wanted to have a brief chat about the events of
 yesterday.
 ANDY
@@ -1300,10 +1290,10 @@ COOPER
 The thing to focus on is your daily routine; cling to it.
 Let it become the tent pole around which you organize
 your waking life.
-(CONTINUED)
 
-36.
-34. CONTINUED:(2)
+
+
+ (2)
 ANDY
 (hanging on every word)
 Okay.
@@ -1330,7 +1320,7 @@ ALBERT
 Where do they keep his water dish?
 Albert exits.
 CUT TO:
-35. INT. SHERIFF'S STATION RECEPTION - DAY
+ INT. SHERIFF'S STATION RECEPTION - DAY
 Albert exits past Lucy, at the coffee station.
 LUCY
 Welcome back.
@@ -1340,11 +1330,11 @@ For me? You shouldn't have.
 Albert exits the station, passing PHILLIP MICHAEL GIRARD, the one-armed man, just
 entering, muscling in his hefty sample case. He approaches Lucy, back at her desk. [Behind]
 [him comes TOM, the mailman, a small, chatty fellow, carrying the day's load, including]
-[a fair](more)
-(CONTINUED)
+[a fair]
 
-37.
-35. CONTINUED:
+
+
+ 
 [sized box.]
 GIRARD
 Excuse me, is Sheriff Truman here?
@@ -1379,10 +1369,10 @@ was the first convenient moment.
 [fragile.]
 [LUCE]
 [See you tomorrow, Tom.]
-(CONTINUED)
 
-38.
-35. CONTINUED:(2)
+
+
+ (2)
 [TOM]
 [You bet'cha.]
 [Tom winks and exits.]
@@ -1393,7 +1383,7 @@ GIRARD
 (a big smile, lifts his case)
 I'm here to sell him some shoes.
 CUT TO:
-36. INT. INTERROGATION ROOM - DAY
+ INT. INTERROGATION ROOM - DAY
 JAMES HURLEY sits across from Sheriff Truman. A small tape recorder sits on the table
 between them. We hear ...
 LAURA'S VOICE
@@ -1415,10 +1405,10 @@ JAMES
 I knocked, nobody answered.
 TRUMAN
 You were alone?
-(CONTINUED)
 
-39.
-36. CONTINUED:
+
+
+ 
 JAMES
 Yes.
 Pause.
@@ -1454,10 +1444,10 @@ JAMES
 Laura talks on her tape about a "mystery man."
 TRUMAN
 The Red Corvette. Leo Johnson.
-(CONTINUED)
 
-40.
-36. CONTINUED:(2)
+
+
+ (2)
 JAMES
 I think it's somebody else. Not Jacques Renault either.
 TRUMAN
@@ -1478,7 +1468,7 @@ COOPER
 James, let's get right to the point. You found something
 else in Jacoby's office. I want it. Give it to me.
 James looks at Truman, looks back at Cooper. Cooper holds out his hand.
-COOPER (CONTINUED)
+COOPER 
 Come on.
 James takes out the half-a-heart necklace, puts it in Cooper's hand.
 JAMES
@@ -1490,10 +1480,10 @@ You gonna book me?
 COOPER
 We're going to talk about it.
 Hawk leads James out. Truman stares at him. Cooper examines the necklace.
-(CONTINUED)
 
-41.
-36. CONTINUED:(3)
+
+
+ (3)
 TRUMAN
 How'd you know he had the necklace?
 COOPER
@@ -1510,7 +1500,7 @@ TRUMAN
 COOPER
 That's the ticket.
 CUT TO:
-37. INT. SHERIFF'S STATION RECEPTION/CONFERENCE ROOM - DAY
+ INT. SHERIFF'S STATION RECEPTION/CONFERENCE ROOM - DAY
 Wearing, dark glasses, Donna is standing near the front desk, Lucy's behind the desk, Andy's
 in the coffee area, as Cooper and Truman come around the corner.
 COOPER
@@ -1527,10 +1517,10 @@ LUCY
 Yes.
 Cooper nods to Truman, who gets the message and exits the room. Cooper opens the box
 and empties the contents on the table.
-(CONTINUED)
 
-42.
-37. CONTINUED:
+
+
+ 
 COOPER
 This is every edition of "Flesh World" published in the
 last three years.
@@ -1543,7 +1533,7 @@ You want us to look for a picture of Theresa Banks.
 COOPER
 Andy, you're way ahead of me.
 Andy smiles pridefully at Lucy, then remembers how upset he is and cancels the look.
-COOPER (CONTINUED)
+COOPER 
 Lucy, we'll be at the hospital.
 (takes out his recorder as he exits)
 Diane, I've just received the back issues issues of "Flesh
@@ -1551,7 +1541,7 @@ World." Good work. It's nice to see some cooperation
 with the law, especially from a company that preys on
 human weaknesses Andy and Lucy look at each other. Look at the magazines. Any assignment but this.
 CUT TO:
-38. INT. SHERIFF'S STATION HOLDING CELL AREA - DAY
+ INT. SHERIFF'S STATION HOLDING CELL AREA - DAY
 Hawk unlocks the door, lets Donnna into the corridor outside James' cell, then quietly
 retreats.
 DONNA
@@ -1563,10 +1553,10 @@ They haven't asked me anything.
 She takes out a cigarette. Lights it. James is mildly surprised.
 JAMES
 When did you start smoking?
-(CONTINUED)
 
-43.
-38. CONTINUED:
+
+
+ 
 DONNA
 I smoke every once in a while. Helps relieve the tension.
 JAMES
@@ -1591,7 +1581,7 @@ DONNA
 So ... don't you want to kiss me?
 They look at each other. James leans forward and kisses her tenderly through the bars; she
 responds agressively, grabs him, hot. He pulls back and looks at her, puzzled.
-DONNA (CONTINUED)
+DONNA 
 (slightly teasing)
 What's wrong?
 JAMES
@@ -1599,24 +1589,24 @@ Nothing's wrong.
 DONNA
 Or is it just not okay for me to want you?
 They look at each other, James a little uncertain. She smiles, pushes her dark glasses back up.
-(CONTINUED)
 
-44.
-38. CONTINUED:(2)
-DONNA (CONTINUED)
+
+
+ (2)
+DONNA 
 Get out soon, James.
 She bites his finger and leaves the room. James watches her go.
 FADE TO BLACK:
 END ACT FOUR
 
-45.
+
 ACT FIVE
 FADE IN:
-39. INT. HOSPITAL CORRIDOR - DAY
+ INT. HOSPITAL CORRIDOR - DAY
 BOBBY BRIGGS sneaks around a corner, avoids a nurse and waits outside the door to Shelly's
 room. A DOCTOR exits the room. Bobby slips inside ...
 CUT TO:
-40. INT. HOSPITAL ROOM - DAY
+ INT. HOSPITAL ROOM - DAY
 Bobby kicks out the doorstop, closes the door, moves to Shelly's bed. She's lying asleep.
 Bobby takes a small bouquet from under his jacket, holds it under her nose. She stirs.
 BOBBY
@@ -1625,7 +1615,7 @@ She opens her eyes, sees him.
 SHELLY
 Bobby?
 He kisses her. She lets herself be swept up for a moment, then remembers ...
-SHELLY (CONTINUED)
+SHELLY 
 Bobby, what are you doing here? What if somebody sees
 you?
 BOBBY
@@ -1642,23 +1632,23 @@ BOBBY
 Far chance. Are you all right?
 SHELLY
 Doctors seem to think so.
-(CONTINUED)
 
-46.
-40. CONTINUED:
+
+
+ 
 BOBBY
 Shelly, the only way you're gonna get out of here pronto
 is if you let Bobby be your doctor.
 (grabs a stethescope off the bed post)
 Now let's just have a look here, miss, shall we?
 He lifts her bedclothes, separates her gown, looks down at her.
-BOBBY (CONTINUED)
+BOBBY 
 I think you're coming along splendidly.
 He breathes once on the stethescope, erotically places it on her chest.
-BOBBY (CONTINUED)
+BOBBY 
 Deep breath ... that's a girl, deep breath ... that's fine ...
 He swoops down for a kiss. She responds.
-BOBBY (CONTINUED)
+BOBBY 
 I'd say you're on your way to a complete recovery.
 They kiss again. She laughs. They hear VOICES in the hallway outside.
 SHELLY
@@ -1673,13 +1663,13 @@ BOBBY
 I guess I love you, too.
 He puts the flowers in a medical jar by her bedside and quickly splits to the hallway.
 CUT TO:
-41. INT. HOSPITAL CORRIDOR - DAY
+ INT. HOSPITAL CORRIDOR - DAY
 Bobby slips away as Cooper [, ALBERT] and Truman come around the corner. Cooper
 [Truman] catches a glimpse of Bobby.
-(CONTINUED)
 
-47.
-41. CONTINUED:
+
+
+ 
 COOPER [TRUMAN]
 Bobby Briggs.
 TRUMAN [COOPER]
@@ -1719,9 +1709,9 @@ Cooper moves stiffly into the room across the hall.
 
 CUT TO:
 
-42. INT. INTENSIVE HOSPITAL ROOM - DAY
+ INT. INTENSIVE HOSPITAL ROOM - DAY
 
-48.
+
 
 Cooper knocks gently on the doorframe. Ed, seated by the bed, holding Nadine's hand. Ed
 glances back at him.
@@ -1735,7 +1725,7 @@ ED
 She's in a coma. They say there's nothing else we can
 do. She has to want to come back.
 Cooper puts a hand on Ed's shoulder.
-ED (CONTINUED)
+ED 
 I don't know why I'm whispering ...
 COOPER
 How are you?
@@ -1761,12 +1751,12 @@ just to make myself feel better ... that's about as low
 as a man can sink. I saw this coming and didn't want to
 believe it. What's worse is, I'm sitting here thinking
 maybe there's some part of me that didn't want to stop
-(more)
-(CONTINUED)
 
-49.
-42. CONTINUED:
-ED (CONTINUED)
+
+
+
+ 
+ED 
 her. That's a full load.
 COOPER
 (nods, pause)
@@ -1809,15 +1799,15 @@ TRUMAN [HAWK'S VOICE]
 Ed? Someone here to see you.
 [He turns. James steps into view. We see Hawk in background. Ed and James embrace.]
 [Cooper, Truman and Albert withdraw.]
-(more)
-(CONTINUED)
 
-50.
-42. CONTINUED:(2)
+
+
+
+ (2)
 He turns. James steps into the doorway. We see Hawk in background. Ed rises. He and
 James embrace. Cooper withdraws from the room.
 CUT TO:
-43. INT. HOSPITAL CORRIDOR - DAY
+ INT. HOSPITAL CORRIDOR - DAY
 Cooper [, Albert] and Truman walk slowly away. Cooper shakes his head.
 TRUMAN
 (to Hawk, quietly)
@@ -1830,7 +1820,7 @@ TRUMAN
 Yeah.
 They move around the corner.
 CUT TO:
-44. INT. HOSPITAL ROOM - DAY
+ INT. HOSPITAL ROOM - DAY
 Cooper and Truman enter. DR. JACOBY is lying in bed, hooked up to various monitors, but
 sitting up, rested, alert. Doc Hayward is seated by his bedside. He rises, Cooper takes his
 seat.
@@ -1846,12 +1836,12 @@ COOPER
 Dr. Jacoby, I know you've been through quite a bit in the
 last twenty-four hours. So have I. I don't want to
 pussyfoot around with you anymore or see any more
-(more)
-(CONTINUED)
 
-51.
-44. CONTINUED:
-COOPER (CONTINUED)
+
+
+
+ 
+COOPER 
 magic tricks or hear anymore psychological mumbojumbo. I want you to tell us how you came into
 possession of this
 Cooper reveals the half-a-heart necklace. Jacoby is saddened seeing it, holds it gently in his
@@ -1886,10 +1876,10 @@ COOPER
 She didn't kill herself.
 JACOBY
 No. She allowed herself to be killed.
-(CONTINUED)
 
-52.
-44. CONTINUED:(2)
+
+
+ (2)
 TRUMAN
 I don't understand.
 JACOBY
@@ -1918,22 +1908,22 @@ the woods. They spoke intently for a while, I couldn't
 hear them, then they buried something in the ground and
 drove away.
 CUT TO:
-45. EXT. WOODS - NIGHT (FROM PILOT)
+ EXT. WOODS - NIGHT (FROM PILOT)
 MOVING POV, a flashlight beam travels along the ground, finds the white rock. A gloved
 hand reaches down and takes the necklace.
 JACOBY'S VOICE
 (over)
 Unable to quench my curiosity, I dug down and found
 the necklace. I had seen it around Laura's neck many
-(more)
-(CONTINUED)
 
-53.
-45. CONTINUED:
-JACOBY'S VOICE (CONTINUED)
+
+
+
+ 
+JACOBY'S VOICE 
 times. Perhaps ill-advisedly, I took it as a keepsake.
 CUT TO:
-46. DR. JACOBY
+ DR. JACOBY
 Tears in his eyes, looking at the necklace in his hand.
 JACOBY
 This was her, you see. The necklace. A divided heart.
@@ -1957,15 +1947,15 @@ JACOBY
 No. This was like oil. Like scorched engine oil.
 Truman and Cooper look at each other.
 CUT TO:
-47. INT. HOSPITAL CORRIDOR - DAY
+ INT. HOSPITAL CORRIDOR - DAY
 Cooper and Truman walk.
 COOPER
 Harry, let's get a hold of Albert. We'll meet back at
 the station. I'm ready to lay the whole thing out.
-(CONTINUED)
 
-54.
-47. CONTINUED:
+
+
+ 
 TRUMAN
 Rocks and bottles?
 COOPER
@@ -1997,10 +1987,10 @@ door.
 FADE TO BLACK:
 END ACT FIVE
 
-55.
+
 ACT SIX
 FADE IN:
-48. EXT. DINER - DAY
+ EXT. DINER - DAY
 Bobby Briggs enters the diner, looks around, moves to the counter and hears ...
 MAJOR BRIGGS' VOICE
 Son?
@@ -2028,10 +2018,10 @@ How was work?
 MAJOR BRIGGS
 Work? Work was good.
 Another hiatus. More pie.
-(CONTINUED)
 
-56.
-48. CONTINUED:
+
+
+ 
 BOBBY
 Dad?
 MAJOR BRIGGS
@@ -2065,10 +2055,10 @@ MAJOR BRIGGS
 The gospel truth. Son, may I share something with you?
 BOBBY
 Not the pie.
-(CONTINUED)
 
-57.
-48. CONTINUED:(2)
+
+
+ (2)
 MAJOR BRIGGS
 A vision I had in my sleep last night. As distinguished
 from a dream, which is a mere sorting and cataloguing
@@ -2105,14 +2095,14 @@ MAJOR BRIGGS
 I'm so glad I've had this opporunity to share it with
 you.
 Major Briggs rises and extends a hand. He and Bobby shakes hands.
-MAJOR BRIGGS (CONTINUED)
+MAJOR BRIGGS 
 I wish you nothing but the very best in all things.
 BOBBY
 Thank you.
-(CONTINUED)
 
-58.
-48. CONTINUED:(3)
+
+
+ (3)
 MAJOR BRIGGS
 I'll see you later at home.
 BOBBY
@@ -2137,17 +2127,17 @@ She disappears into the kitchen. Hank gives a look to Bobby, a conspiritorial sh
 ("women") before moving off. Bobby returns it, before remembering where he last saw
 Hank.
 CUT TO:
-49. BOBBY'S MEMORY - POV (007)
+ BOBBY'S MEMORY - POV (007)
 Looking out the window of Leo Johnson's house at Hank, just after he shot Leo.
 CUT TO:
-50. BOBBY
+ BOBBY
 Adding up another equation.
 CUT TO:
-51. EXT. SHERIFF'S STATION - DAY
+ EXT. SHERIFF'S STATION - DAY
 CUT TO:
 
-59.
-52. INT. SHERIFF'S STATION CONFERENCE ROOM - DAY
+
+ INT. SHERIFF'S STATION CONFERENCE ROOM - DAY
 The blackboard is set up at one end of the room. Truman,
 Hawk and Andy enter and take seats at the opposite end of the table. A tearful Lucy enters
 with a platter of doughnuts which she sets down on the table. Everyone takes one.
@@ -2160,11 +2150,11 @@ Have a seat, Albert. Albert, Harry, jump in any time;
 we're going to reconstruct the last hours of Laura Palmer.
 Cooper flips over the squeaky blackboard. A map of the town featuring a number of
 symbols, houses, etc. have been drawn on the board.
-COOPER (CONTINUED)
+COOPER 
 Lucy, if you could man the pointer, I need to sit down.
 He takes out his collapsible pointer, telescopes it to full length, hands it to Lucy and sits.
 Lucy stands in front of the board, blows her nose.
-COOPER (CONTINUED)
+COOPER 
 We'll keep this simple, Lucy. When I say something,
 you point to it.
 LUCY
@@ -2175,23 +2165,23 @@ COOPER
 On the afternoon of February 23, Laura left school at
 approximately 2:30 in the afternoon ...
 Lucy points to a drawing of a building with "HIGH SCHOOL" printed beneath it.
-COOPER (CONTINUED)
+COOPER 
 She proceeded by family car to the Double R Diner.
 Lucy points, etc.
 CUT TO:
 
-60.
-53. INT. DOUBLE R DINER - DAY
+
+ INT. DOUBLE R DINER - DAY
 MOS flashback. Laura picks up two large paper bags from Norma at the counter.
 COOPER'S VOICE
-(CONTINUED)
+
 ... where she picked up nine hot meals and distributed
 them to nine shut-ins around town as part of the Meals on
 Wheels program.
 CUT TO:
-54. INT. CONFERENCE ROOM - DAY
+ INT. CONFERENCE ROOM - DAY
 Lucy points to six small "buildings" scattered around the map.
-COOPER (CONTINUED)
+COOPER 
 At the conclusion of which she drove to the Blue Pine
 Lodge ... where she gave Josie Packard an English lesson.
 ALBERT
@@ -2202,7 +2192,7 @@ Just a suggestion.
 COOPER
 Laura then returned home ... she dined with her parents.
 At 7:00 that evening she drove to Bobby Briggs' house.
-She and Bobby did homework together until 9:00.
+She and Bobby did homework together until 9:
 ALBERT
 (to Truman, trying to get a rise)
 What do you think, Sheriff: trigonometry?
@@ -2213,29 +2203,29 @@ That seems much more likely.
 COOPER
 At which Laura drove home.
 CUT TO:
-55. INT. PALMER LIVING ROOM - NIGHT
+ INT. PALMER LIVING ROOM - NIGHT
 MOS flashback. Laura walks through the room, says good night to Sarah, and starts up the
-(more)
-(CONTINUED)
 
-61.
-55. CONTINUED:
+
+
+
+ 
 stairs.
 COOPER'S VOICE
-(CONTINUED)
+
 She said goodnight to her mother and went upstairs. A
 few minutes later she received a phone call.
 Sarah looks at the phone.
 COOPER'S VOICE
-(CONTINUED)
+
 Mrs. Palmer did not see her leave, but according to
 James Hurley she snuck out of the house on foot and met
 him here near the Roadhouse on Highway 21 ...
 CUT TO:
-56. EXT. ROAD - NIGHT
+ EXT. ROAD - NIGHT
 MOS flashback. Laura hops on the back of James bike and they ride off.
 CUT TO:
-57. INT. CONFERENCE ROOM - DAY
+ INT. CONFERENCE ROOM - DAY
 Cooper holds up Laura's diary.
 COOPER
 In her diary, Laura had written "nervous about meeting
@@ -2247,17 +2237,17 @@ They drove up into the woods near the Old Sawmill
 road ... their conversation lasted approximately two
 hours. James drove them back down the hill.
 CUT TO:
-58. EXT. ROAD - NIGHT
+ EXT. ROAD - NIGHT
 MOS flashblack. James stops the bike. Laura screams something at him and jumps off. He
 tries to pursue her and she runs away.
 COOPER'S VOICE
-(CONTINUED)
+
 At 12:30, at the intersection of Sparkwood and 21,
 Laura jumped off the bike and ran away.
 CUT TO
 
-62.
-59. INT. CONFERENCE ROOM - DAY
+
+ INT. CONFERENCE ROOM - DAY
 COOPER
 This much we know as fact. What follows now is our
 best reconstruction.
@@ -2266,15 +2256,15 @@ ALBERT
 Laura left Sparkwood and 21 on foot, to an unspecified
 location, where, as prearranged ...
 CUT TO:
-60. EXT. ROAD - NIGHT
+ EXT. ROAD - NIGHT
 MOS flashback. Laura moves around a dark corner, comes upon Leo Johnson standing next
 to his Corvette, smoking cigarette. He grabs her, roughs her up a little, indicates she's late.
 She kisses him. He puts her in the car and they drive off.
-ALBERT'S VOICE (CONTINUED)
+ALBERT'S VOICE 
 ... she met Leo Johnson, the person who called her earlier.
 They drove off together.
 CUT TO:
-61. INT. CONFERENCE ROOM - DAY
+ INT. CONFERENCE ROOM - DAY
 LUCY
 (reluctant to work for Albert)
 Do you still want me to point?
@@ -2291,12 +2281,12 @@ He holds up an order edition of "Flesh World" pointing out the item in question.
 COOPER
 And thanks to Deputy Andy Brennan's fine eye for
 detail, we now know that an ad featuring a picture of
-(more)
-(CONTINUED)
 
-63.
-61. CONTINUED:
-COOPER (CONTINUED)
+
+
+
+ 
+COOPER 
 Theresa Banks, the killer's first victim ran in the six
 editions of "Flesh World" before her death a year ago.
 Under Laura's ring fingernail we found the letter "r".
@@ -2305,14 +2295,14 @@ ALBERT
 Under Theresa's ring fingernail was found the letter "t."
 Positive triangulate linkage.
 Andy beams. Lucy sniffles again.
-ALBERT (CONTINUED)
+ALBERT 
 Good work, Andy. Woof.
 COOPER
 Leo drove Laura to a location somewhere near the Pearl
 Lakes off Highway J, at the foot of the trail leading to
 Jacques Renault's cabin.
 Lucy points again.
-COOPER (CONTINUED)
+COOPER 
 ... they met Jacques and Ronnette Pulaski here and
 climbed the trail to Jacques' cabin, where they were
 heard passing by the cabin of Margaret the Log Lady.
@@ -2324,7 +2314,7 @@ and attacked Laura. Leo and Jacques fought. Jacques
 went outside and passed out. When he came to, Leo and
 the girls were gone.
 Cooper rises stiffly.
-COOPER (CONTINUED)
+COOPER 
 The Log Lady heard a Third Man pass by her cabin,
 go up the hill. This Third Man witnessed the events
 in the cabin, watching through a window.
@@ -2333,12 +2323,12 @@ There were footprints outside the one window with a
 clear view of the room.
 COOPER
 I believe that after his fight with Jacques, Leo left the
-(more)
-(CONTINUED)
 
-64.
-61. CONTINUED:(2)
-COOPER (CONTINUED)
+
+
+
+ (2)
+COOPER 
 cabin, alone, walked back to his car and drove off.
 Laura was still tied up when the Third Man entered the
 cabin.
@@ -2355,7 +2345,7 @@ ALBERT
 The Third Man took Laura and Ronette to the train car,
 here, on foot, a mile and half away.
 Lucy points.
-ALBERT (CONTINUED)
+ALBERT 
 He wore surgical gloves, he was thorough, he was careful.
 The girls did not struggle until they were inside.
 COOPER
@@ -2369,19 +2359,19 @@ ALBERT
 A generic household brand, available in most stores. He
 was also smart.
 CUT TO:
-62. INT. TRAIN CAR - NIGHT
+ INT. TRAIN CAR - NIGHT
 MOS flashback. Lit by a candle. We see a SHADOWY FIGURE strike Ronette. She falls
 to the ground. We see the figure advance on Laura. A knife gleams.
-(CONTINUED)
 
-65.
-62. CONTINUED:
+
+
+ 
 ALBERT'S VOICE
 The Man struck Ronette once with a blunt object,
 knocking her unconscious. Then he killed Laura. He
 took his time; over an hour.
 CUT TO:
-63. INT. CONFERENCE ROOM
+ INT. CONFERENCE ROOM
 COOPER
 During the course of which, Ronette came to, managed
 to crawl out of the cabin into the woods and eventually
@@ -2393,7 +2383,7 @@ with Theresa Banks. He left a note written in Laura's
 blood. Washed his hands in the rainwater pooled
 outside. My men also found these outside ...
 Holds up an evidence bag containing water damaged scraps of paper.
-ALBERT (CONTINUED)
+ALBERT 
 Scraps of paper. Hand torn, scattered around the area.
 Ink washed away by the rain. Commercial quality.
 TRUMAN
@@ -2407,16 +2397,16 @@ Laura's body in plastic that was taken from Leo's house
 or car. He carried the body to Elk River a quarter
 of a mile away and threw her in.
 Lucy is too saddened to point. Cooper points.
-COOPER (CONTINUED)
+COOPER 
 The body floated downriver into Black Lake and
 washed up outside the Blue Pine Lodge.
 CUT TO:
 
-66.
-64. EXT. BLACK LAKE - DAWN (FROM PILOT)
+
+ EXT. BLACK LAKE - DAWN (FROM PILOT)
 The body lying on the rocky shore.
 CUT TO:
-65. INT. CONFERENCE- ROOM.
+ INT. CONFERENCE- ROOM.
 Harry, Lucy and the deputies are speechless. Andy starts to cry. Lucy wants to embrace him,
 realizes she can't and has to leave the room.
 ANDY
@@ -2436,13 +2426,13 @@ That's the next thing we have to find out.
 FADE TO BLACK:
 END ACT SIX
 
-67.
+
 ACT SEVEN
 FADE IN:
-66. EXT. BLUE PINE LODGE - NIGHT
+ EXT. BLUE PINE LODGE - NIGHT
 Truman's cruiser pulls up outside.
 CUT TO:
-67. INT. BLUE. LODGE - NIGHT
+ INT. BLUE. LODGE - NIGHT
 Pete and Harry Truman enter. Pete's had better days.
 PETE
 I sure appreciate the ride, Harry.
@@ -2469,10 +2459,10 @@ Maybe this'll tell you.
 business to Seattle. I will phone you when I arrive.
 Hope you did a good day at the mill; there is ginger
 beer in the refridge ... love, Josie." There you go.
-(CONTINUED)
 
-68.
-CONTINUED:
+
+
+
 TRUMAN
 When did you see her last?
 PETE
@@ -2491,7 +2481,7 @@ PETE
 (confidentially)
 Shopping. Comes back with half a department store.
 He chuckles. Sees Truman hasn't moved off his concern.
-PETE (CONTINUED)
+PETE 
 Guess we're both a little sweet on her.
 Truman nods. Next piece of business.
 TRUMAN
@@ -2507,10 +2497,10 @@ Pete nods. It hits him.
 PETE
 (surprised by the strength of his emotion)
 Oh dear...
-(CONTINUED)
 
-69.
-67. CONTINUED:(2)
+
+
+ (2)
 TRUMAN
 If there's anything I can do to help ...
 Pause.
@@ -2536,16 +2526,16 @@ He breaks down. Truman tries to comfort him. The phone rings. Truman answers it.
 TRUMAN
 Packard residence.
 INTERCUT:
-68. INT. GREAT NORTHERN HOTEL LOBBY - NIGHT
+ INT. GREAT NORTHERN HOTEL LOBBY - NIGHT
 The ASIAN MAN we saw checking into the hotel in episode 006 is on a phone in the lobby.
 ASIAN MAN
 (no trace of in accent)
 Could I speak to Josie Packard please?
 TRUMAN
-I'm sorry, she's not here right now (CONTINUED)
+I'm sorry, she's not here right now 
 
-70.
-68. CONTINUED:
+
+ 
 ASIAN MAN
 Can you tell me when she'll be back?
 TRUMAN
@@ -2574,19 +2564,19 @@ JERRY
 No, I haven't.
 They head down the corridor.
 CUT TO:
-69. INT. BEN HORNE'S OFFICE - NIGHT
+ INT. BEN HORNE'S OFFICE - NIGHT
 Someone's waiting in the office. As Ben and Jerry enter, the figure turns; Hank Jennings.
 [ILLICIT MILL LEDGER ON DESK]
 BEN
 (to Jerry, as they enter)
 - open a separate offshore account, see if the sons of
 Odin will go for a wire transfer directly to Grand
-(more)
-(CONTINUED)
 
-71.
-CONTINUED:
-BEN (CONTINUED)
+
+
+
+
+BEN 
 Cayman JERRY
 No paper trail.
 Jerry sets his box down and starts to carefully open it.
@@ -2618,10 +2608,10 @@ Smith's, dipped in hot, hand-pulled creme caramel,
 dusted with crushed nuts and a dark coco powder.
 Enjoy.
 They each eagerly take one and bite in. The caramel slows down their speech.
-(CONTINUED)
 
-72.
-69. CONTINUED:(2)
+
+
+ (2)
 BEN
 A phenomenal taste sensation.
 JERRY
@@ -2638,7 +2628,7 @@ With Leo, how could they tell?
 BEN
 Why isn't he on the last train to the Elysian Fields?
 HANK
-I caught him center-shot with a .44. Couldn't risk going
+I caught him center-shot with a . Couldn't risk going
 inside. The neighborhood was hot, I had to sneak past
 patrols as it was.
 BEN
@@ -2655,10 +2645,10 @@ What else? Catherine Packard: dead?
 HANK
 My call put her in the drying shed when it went up.
 Sounds like she's buried in the wreckage.
-(CONTINUED)
 
-73.
-69. CONTINUED:(3)
+
+
+ (3)
 JERRY
 Heat like that they'll be lucky to find teeth.
 BEN
@@ -2680,20 +2670,20 @@ HANK
 (enjoying his fellow sociopaths)
 You guys.
 CUT TO:
-70. EXT. PALMER HOUSE - NIGHT
+ EXT. PALMER HOUSE - NIGHT
 Establish.
 CUT TO:
-71. INT. PALMER HOUSE - NIGHT
+ INT. PALMER HOUSE - NIGHT
 Sarah and Leland are dressed for an evening out. Leland is deftly spinning Sarah around the
 room with a few light dance steps, humming some public domain tune. Sarah is smiling and
 enjoying it in spite of herself.
 Maddy and Donna watch from the doorway to the room. Leland finishes the dance.
 LELAND
 Come on, doll, let's paint the town.
-(CONTINUED)
 
-74.
-CONTINUED:
+
+
+
 SARAH
 (not complaining)
 Leland, I don't know what's gotten in to you.
@@ -2729,23 +2719,23 @@ DONNA
 So listen, I got hold of the list of Meals on Wheels
 clients that Laura used to visit. It used to be nine, now
 it's eight since old Mr. Pendergast died.
-(CONTINUED)
 
-75.
-71. CONTINUED:(2)
+
+
+ (2)
 MADDY
 What are you gonna do?
 DONNA
 I told Norma I'd take over the deliveries tomorrow,
 I'll spend some time with everybody on her route ...
 She unfolds a small town map.
-DONNA (CONTINUED)
+DONNA 
 I put x's on all the addresses. One of these eight
 people must have sent me that note; that means they
 know something. We just have to figure out who it was.
 As Donna concentrates over her map, Maddy feels an odd, disquieting feeling come over her.
 She tries to shake it off, can't. SOUND of Donna's voice grows fainter.
-DONNA (CONTINUED)
+DONNA 
 Laura never talked much about them. Guess we know by
 now that doesn't necessarily mean there wasn't anything
 weird about them ...
@@ -2754,7 +2744,7 @@ is BOB, the grey-haired man we've seen in Cooper's dream and Mrs. Palmer's visio
 Maddy's frozen with fear. Donna doesn't immediately notice. Maddy starts to tremble,
 unable to speak. Bob doesn't move. He just looks at her.
 Donna finally notices her distress.
-DONNA (CONTINUED)
+DONNA 
 Maddy? ... Maddy?
 MADDY
 (turning to her)
@@ -2765,13 +2755,13 @@ Maddy just looks at her, looks back. Bob is gone.
 FADE TO BLACK:
 END ACT SEVEN
 
-76.
+
 ACT EIGHT
 FADE IN:
-72. EXT. HAYWARD'S HOUSE - NIGHT
+ EXT. HAYWARD'S HOUSE - NIGHT
 Establish.
 CUT TO:
-73. INT. HAYWARD'S HOUSE - NIGHT
+ INT. HAYWARD'S HOUSE - NIGHT
 Dinner is just breaking up in the dining room. Sarah Palmer is helping EILEEN HAYWARD
 clear the table.
 EILEEN
@@ -2786,7 +2776,7 @@ Leland, you know me better than that.
 SARAH
 I'll give you a hand.
 Eileen wheels towards the kitchen; Sarah follows.
-SARAH (CONTINUED)
+SARAH 
 Let's put on a pot of decaf.
 EILEEN
 I've got both if you want regular.
@@ -2798,10 +2788,10 @@ DOC
 I feel like I've sat through back to back operas.
 LELAND
 Terrible about the mill.
-(CONTINUED)
 
-77.
-73. CONTINUED:
+
+
+ 
 DOC
 They say over a hundred and fifty jobs may be lost.
 LELAND
@@ -2838,10 +2828,10 @@ LELAND
 You know me, Will; it was either law school or
 Broadway.
 Eileen and Sarah return from the kitchen, bearing coffee and desert.
-(CONTINUED)
 
-78.
-CONTINUED:(2)
+
+
+(2)
 DOC
 Eileen, Leland would like to favor us with a song.
 EILEEN
@@ -2874,10 +2864,10 @@ EILEEN
 Got it right here.
 DOC
 I'm sure it's nothing serious ...
-(CONTINUED)
 
-79.
-73. CONTINUED:(3)
+
+
+ (3)
 Doc rummages through his bag for some smelling salts.
 SARAH
 (at a bit of a loss)
@@ -2888,10 +2878,10 @@ LELAND
 I feel fine. I feel fine.
 They look at him.
 CUT TO:
-74. EXT. ONE-EYED JACK'S - NIGHT
+ EXT. ONE-EYED JACK'S - NIGHT
 Establish.
 CUT TO:
-75. INT. ONE-EYED JACK'S BEDROOM NIGHT
+ INT. ONE-EYED JACK'S BEDROOM NIGHT
 A frightened and bewildered, and slightly brusied, Audrey lies on her bed.
 AUDREY
 (a kind of prayer)
@@ -2914,17 +2904,17 @@ Tomorrow I'm going to try to find out if Laura and
 Ronette came up here ...
 (moving close to tears again)
 I hope you won't think any less of me for trying to help
-(more)
-(CONTINUED)
 
-80.
-75. CONTINUED:
-AUDREY (CONTINUED)
+
+
+
+ 
+AUDREY 
 you. I promise I only did it with the best intentions.
 And if there's anyway in the world you can hear me
 tonight ... please help me ...
 DISSOLVE TO:
-76. INT. COOPER'S ROOM - NIGHT
+ INT. COOPER'S ROOM - NIGHT
 Cooper exits his bathroom, moving very stiffly. He sits painfully on the side of the bed and
 takes a handful of aspirins with his glass of warm milk. He picks up his tape recorder.
 COOPER
@@ -2937,7 +2927,7 @@ the blocks on by sleeping solidly for at least eight or
 nine hours ... a man can only go so long without
 submitting to a period of rest ...
 As he speaks, he puts in his ear plugs.
-COOPER (CONTINUED)
+COOPER 
 ... for as we know from experiments performed on
 American GI's during the Korean War, sleep deprivation
 is a one-way ticket to temporary psychosis and I'm
@@ -2956,10 +2946,10 @@ GIANT
 Sorry to wake you.
 COOPER
 I wasn't asleep. I'm not asleep. Then I'm not dreaming.
-(CONTINUED)
 
-81.
-76. CONTINUED:
+
+
+ 
 GIANT
 I forgot to tell you something.
 COOPER
@@ -2967,7 +2957,7 @@ You were right about Jacques. The big rubber bag.
 GIANT
 The things I tell you will not be wrong.
 Cooper's about to ask another question. The Giant raises his huge hand to still him.
-GIANT (CONTINUED)
+GIANT 
 Better to listen than to talk.
 COOPER
 I believe you.
@@ -2975,12 +2965,12 @@ GIANT
 Don't search for all the answers at once. A path is
 formed by laying one stone at a time.
 Coopers nods.
-GIANT (CONTINUED)
+GIANT 
 One person saw the Third Man. Three have seen him,
 yes, but not his body. One only. Known to you. Ready
 now to speak.
 Coopers wants to speak, bites his tongue. Nods.
-GIANT (CONTINUED)
+GIANT 
 One more thing. You forgot something.
 COOPER
 What?
@@ -2989,16 +2979,16 @@ Cooper leans over to turn on the lamp. The Giant is gone.
 ANGLE: a wider shot of Cooper sitting up in bed, revealing the note left by Audrey,
 large in foreground, either under the bed or on a table across the room.
 CUT TO:
-77. INT. HOSPITAL CORRIDOR - NIGHT
+ INT. HOSPITAL CORRIDOR - NIGHT
 Moving down the silent, dark hallway.
 DISSOLVE TO:
 
-82.
-78. INT. HOSPITAL ROOM - NIGHT
+
+ INT. HOSPITAL ROOM - NIGHT
 Moving towards RONETTE PULASKI, lying in bed in intensive care. She stirs restlessly.
 We move in on her in such a way that indicates we're entering her thoughts ...
 DISSOLVE TO:
-79. INT. TRAIN NIGHT
+ INT. TRAIN NIGHT
 FLASHBACK: Ronette's POV; sound and picture distorted and strange. We see what she
 sees.
 Laura kneeling nearby on the floor of the train car.
@@ -3010,10 +3000,10 @@ A hand picking up a heavy wrench and advancing towards us.
 And the wrench is raised threateningly above us.
 And we see him. Bob, the grey-haired man. He swings the wrench down at us.
 CUT TO:
-80. INT. HOSPITAL ROOM - NIGHT
+ INT. HOSPITAL ROOM - NIGHT
 Ronette's eyes open and dart around wildly. She makes a horrible sound. She's out of the
 coma.
 CUT TO BLACK:
 END ACT EIGHT
 
-
+

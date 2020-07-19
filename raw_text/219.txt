@@ -1,9 +1,6 @@
-TWIN PEAKS #26
-(Episode 2.019)
-
 ACT ONE
 FADE IN:
-1.
+
 
 INT. OWL CAVE - DAY
 OPEN ON the interior of Owl Cave, dark and silent. Suddenly: VOICES coming closer.
@@ -46,12 +43,12 @@ painting as the deputy draws and copies. Copper pivots, gazes at the mysterious 
 to wonder where it might lead him.
 CUT TO:
 
-1.
 
-#2.019
-2.
 
-2.
+
+
+
+
 
 INT. WINDOM EARLE'S CABIN - DAY
 START CLOSE on WINDOM EARLE. Seated in an armchair, pipe in hand, avuncular in
@@ -95,16 +92,16 @@ here. Black Lodge, White Lodge, like what's the big
 deal?
 CAMERA CONCLUDES its move, HOLDS ON Earle's computer screen, where we see a
 computer rendering of the hieroglyph from Owl Cave.
-(CONTINUED)
 
-#2.019
-2.
 
-3.
 
-CONTINUED:
 
-3.
+
+
+
+
+
+
 
 EARLE
 In time, young man. Everything in time.
@@ -151,14 +148,14 @@ Well ... let's take a look-see... do you have a key?
 CATHERINE
 If I had a key, it would be be open already, don't you
 think?
-(CONTINUED)
 
-#2.019
-4.
 
-CONTINUED:
 
-4.
+
+
+
+
+
 
 PETE
 'Course there's no key hole...
@@ -184,14 +181,14 @@ Yes. And how long is that going to take?
 Pete concentrates on the puzzle box, brow furrowed, lips pursed. A long beat.
 PETE
 This could take years.
-5.
+
 
 CUT TO:
 
 EXT. DOUBLE R DINER - DAY
 Establish.
 
-6.
+
 
 CUT TO:
 
@@ -209,15 +206,15 @@ Beautiful people get everything they want.
 Oh, Bobby...
 
 SHELLY
-(CONTINUED)
 
-#2.019
-6.
 
-Revised 1-31-91, CHERRY
-5.
 
-CONTINUED:
+
+
+
+
+
+
 BOBBY
 Think about it. When's the last time a pretty blonde
 went to the electric chair? You arc very beautiful, Shelly,
@@ -240,22 +237,22 @@ enlist by this afternoon.
 It's an order, not a request. Bobby holds out the brochure. Shelly pauses, wounded by his
 attitude. He doesn't care what she thinks. But Shelly takes the brochure nonetheless.
 
-7.
+
 
 ANOTHER BOOTH
 MAYOR MILFORD and LANA BUDDING-MILFORD share a booth nearby.
 LANA
 There's something I want you to do for me. Darling.
 
-(CONTINUED)
 
-#2.019
-7.
 
-Revised 1-31-91, CHERRY
-6.
 
-CONTINUED:
+
+
+
+
+
+
 
 MILFORD
 I'll do anything mind and body can stand. Surely the
@@ -282,23 +279,23 @@ LANA
 (reaching out to caress)
 Oh, darling. It would be love. That's all.
 Mayor Milford grumbles, looks about, then back into the eyes of the woman he loves.
-(CONTINUED)
 
-7.
 
-CONTINUED:(2)
 
-#2.019
 
-Revised 1-31-91, CHERRY
-7.
+(2)
+
+
+
+
+
 
 MILFORD
 I'll do anything for you, Lana. You know that.
 LANA
 Yes, lover. I do.
 
-8.
+
 
 CUT TO:
 
@@ -340,15 +337,15 @@ ANNIE
 COOPER
 When I speak to you I get am odd tingling sensation in
 my stomach and toes.
-(CONTINUED)
 
-#2.019
-8.
 
-Revised 1-31-91, CHERRY
-8.
 
-CONTINUED:
+
+
+
+
+
+
 ANNIE
 Interesting. I'll get those donuts.
 Annie steps away. Shelly rings up a sale on the cash register, frowns as Bobby steps to the door
@@ -380,14 +377,14 @@ I'll have to take this with me.
 Shelly nods assent. Annie returns bearing donuts and coffee.
 ANNIE
 One dozen to go. Cup of coffee.
-(CONTINUED)
 
-#2.019
-8.
 
-9.
 
-CONTINUED:(2)
+
+
+
+
+(2)
 COOPER
 Thank you very much.
 Cooper pays in a hurry, turns for the door without another word.
@@ -402,20 +399,20 @@ Shelly and Annie. They exchange a look, wonder what's on his mind.
 FADE TO BLACK.
 END ACT ONE
 
-#2.019
 
-10.
+
+
 
 ACT TWO
 FADE IN:
-9.
+
 
 INT. SHERIFF'S STATION - DAY
 OPEN ON Deputy Andy in the station conference room. He stands at the blackboard,
 painstakingly reproduces the cave painting upon it. Andy erases, alters, draws primitive lines
 on the slate.
 
-10. SHERIFF TRUMAN'S OFFICE
+ SHERIFF TRUMAN'S OFFICE
 
 CUT TO:
 
@@ -450,12 +447,12 @@ Let's talk to the girls as soon as possible. See what they
 recall.
 Deputy Hawk enters.
 
-(CONTINUED)
 
-#2.019
-10. CONTINUED:
 
-11.
+
+ 
+
+
 
 HAWK
 Major Briggs is here. Conference room.
@@ -476,7 +473,7 @@ What's the connection?
 COOPER
 (staring at poem fragments)
 There isn't one. Yet.
-11. CONFERENCE ROOM
+ CONFERENCE ROOM
 
 CUT TO:
 
@@ -496,12 +493,12 @@ difficult to accurately describe why or how.
 BRIGGS
 (on the same wave length)
 Go on.
-(CONTINUED)
 
-#2.019
-11. CONTINUED:
 
-12.
+
+ 
+
+
 
 COOPER
 The Twin Peaks Sheriffs department is currently
@@ -546,12 +543,12 @@ life?
 Yes.
 
 COOPER
-(CONTINUED)
 
-#2.019
-11. CONTINUED:(2)
 
-13.
+
+ (2)
+
+
 
 BRIGGS
 Can you gain this intelligence without my intervention?
@@ -591,11 +588,11 @@ HOLD ON this tableau for a beat. Cooper, Truman, Hawk, Andy, and Major Briggs. T
 evidence before them. Verses to the same song.
 CUT TO:
 
-#2.019
 
-14.
 
-12. INT. THE GREAT NORTHERN HOTEL - DAY
+
+
+ INT. THE GREAT NORTHERN HOTEL - DAY
 START CLOSE on DICK TREMAYNE carefully adjusting an unwieldy nose bandage.
 Tremayne frowns, sniffs. Then spots someone OFF-SCREEN.
 TREMAYNE
@@ -633,14 +630,14 @@ TREMAYNE
 (sycophant and conniver both)
 How kind. One might also think worker's compensation
 of some variety will be involved...
-(CONTINUED)
 
-#2.019
 
-Revised 1-31-91, CHERRY
-15.
 
-12. CONTINUED:
+
+
+
+
+ 
 Easily done.
 
 BEN
@@ -655,16 +652,16 @@ Sometimes the urge to do bad is nearly overpowering.
 I'll alert my attorney.
 Ben sighs, extracts a carrot from his pocket. Stalks away.
 CUT TO:
-13. OMIT
+ OMIT
 
-#2.019
 
-Revised 1-31-91, CHERRY
-16.
 
-14. EXT. WINDOM EARLE'S CABIN - DAY
+
+
+
+ EXT. WINDOM EARLE'S CABIN - DAY
 Establish.
-15. INT. WINDOM EARLE'S CABIN - DAY
+ INT. WINDOM EARLE'S CABIN - DAY
 CUT TO:
 Windom Earle opens a beer, hands it to Leo, speaks to the heavy metal youth, OFF-SCREEN.
 EARLE
@@ -679,18 +676,18 @@ You have lived your short life in odium and obscurity.
 But now, at the end, you will step upon the larger stage.
 I must confess, I envy you. Your journey begins at a point
 beyond imagining. Who knows where you might travel
-(more)
-(CONTINUED)
 
-Revised 1-29-91, PINK
 
-#2.019
-15. CONTINUED:
+
+
+
+
+ 
 from there?
 
-17.
 
-EARLE (continued)
+
+EARLE 
 
 YOUTH
 I'm pumped. Is this for the Lilac Parade or what?
@@ -726,15 +723,15 @@ Oh, dude ... that's gotta hurt...
 EARLE
 Fetch me... an arrow.
 
-(CONTINUED)
 
-Revised 1-29-91, PINK
 
-#2.019
 
-18.
 
-15. CONTINUED:(2)
+
+
+
+
+ (2)
 Leo staggers, stands. And walks to a basket near his makeshift bed. He retrieves an arrow whittled to perfection, armed with a wicked steel point - and brings it back to Earle.
 LEO
 (wounded and fearful)
@@ -769,13 +766,13 @@ another.
 FADE TO BLACK.
 END ACT TWO
 
-#2.019
 
-19.
+
+
 
 ACT THREE
 FADE IN:
-16. INT. ROADHOUSE - DAY
+ INT. ROADHOUSE - DAY
 A rectangular table on stage at the roadhouse. MAYOR MILFORD, DOC HAYWARD,
 PETE MARTELL sit facing BEN HORNE. Doc gavels the small committee to order.
 DOC
@@ -810,12 +807,12 @@ on a broader definition that includes mind, values, ideas
 and for taking that step, gentlemen, I applaud you.
 MILFORD
 What's he selling? What are you selling?
-(CONTINUED)
 
-#2.019
-16. CONTINUED:
 
-20.
+
+ 
+
+
 
 BEN
 Let me get night to the point. The centerpiece of your
@@ -857,12 +854,12 @@ Okay, okay. Let's start processing the candidates, I
 gotta get back to the chess board.
 CUT TO:
 
-#2.019
 
-Revised 1-31-91, YELLOW
-21.
 
-17. INT. ROADHOUSE - DAY
+
+
+
+ INT. ROADHOUSE - DAY
 Ben Horne exits past the dozen or so waiting applicants, who include LANA BUDDINGMILFORD, Donna and Shelly, who's there with Bobby. Reluctantly.
 BOBBY
 (to the passing Ben)
@@ -897,12 +894,12 @@ I could sure use that scholarship money.
 MIKE NELSON and NADINE enter. Nadine moves to Donna.
 NADINE
 Donna, are you entering too?
-(CONTINUED)
 
-#2.019
-17. CONTINUED:
 
-22.
+
+ 
+
+
 
 DONNA
 Uh, yeah. You too, huh?
@@ -941,12 +938,12 @@ MIKE
 I wouldn't expect you to understand.
 BOBBY
 I will strive to be understanding.
-(CONTINUED)
 
-#2.019
-17. CONTINUED:(2)
 
-23.
+
+ (2)
+
+
 
 MIKE
 (decides to confide)
@@ -961,12 +958,12 @@ WHOA!!!!!!
 Everyone in the room turns to look at him.
 Sorry.
 
-BOBBY (CONTINUED)
+BOBBY 
 
 Nadine winks at Mike. Mike winks back. Bobby understands.
-18. EXT. BLUE PINE LODGE - DAY
+ EXT. BLUE PINE LODGE - DAY
 Establish.
-19. INT. BLUE PINE LODGE STUDY - DAY
+ INT. BLUE PINE LODGE STUDY - DAY
 
 CUT TO:
 
@@ -992,16 +989,16 @@ CATHERINE
 (pasue, honestly)
 I think early in her life she must have learned the lesson
 that she could survive by being what other people wanted
-(more)
-(CONTINUED)
 
-#2.019
-19. CONTINUED:
 
-Revised 1-31-91, CHERRY
-24.
 
-CATHERINE (continued)
+
+ 
+
+
+
+
+CATHERINE 
 to see. Showing them that. It was probably something
 she had no choice about. And I think that eventually
 became the largest truth in her life. In time even she no
@@ -1040,17 +1037,17 @@ Let me see.
 TRUMAN
 
 Truman takes the box. Runs his hands over the intricate filligree work.
-TRUMAN (CONTINUED)
+TRUMAN 
 There's no handle or lid.
 
-(CONTINUED)
 
-#2.019
 
-Revised 1-31-91, CHERRY
-25.
 
-19. CONTINUED: (2)
+
+
+
+
+  (2)
 Sound of a door opening. Pete enters, under a head of enthusiastic steam.
 PETE
 Wowee Bob, we got some beauties in the contest this
@@ -1086,24 +1083,24 @@ such luck. Undaunted, Pete retrieves it, means to drop the box again.
 Pete...
 
 CATHERINE
-(CONTINUED)
 
-#2.019
 
-Revised 1-31-91, CHERRY
+
+
+
 25A.
 
-19. CONTINUED:.
+ .
 PETE
 (deeply focused)
 I held it just so, and then I...
 Catherine growls, grabs the box from Pete's hands. All peer at the mysterious gift, wonder
 what they might find inside.
 CUT TO:
-20. EXT. LAKE - DAY
+ EXT. LAKE - DAY
 Establish. A small wooden rowboat in the distance. Cooper and Annie inside.
 CUT TO:
-21. EXT. LAKE - DAY
+ EXT. LAKE - DAY
 The small rowboat. Cooper pulls in the oars, they'll drift together.
 ANNIE
 I used to swim out here when I was a kid. Every
@@ -1113,14 +1110,14 @@ I can understand why. It's beautiful.
 ANNIE
 I guess even then I felt a closer connection nature than
 I did to people. I was kind of a weird kid.
-(CONTINUED)
 
-#2.019
 
-Revised 1-25-91, BLUE
-26.
 
-21. CONTINUED:
+
+
+
+
+ 
 COOPER
 Really? How?
 ANNIE
@@ -1159,12 +1156,12 @@ I think about it, it was such a weird nineteenth century
 thing to do. To think I could remove myself, as if that
 could stop the noise in my head, when the problem
 was me, it was always in ... me ...
-(CONTINUED)
 
-#2.019
-21. CONTINUED:(2)
 
-27.
+
+ (2)
+
+
 
 COOPER
 (softly, looking at her)
@@ -1207,14 +1204,14 @@ COOPER
 
 ANNIE
 I'm trying to learn how to trust my instincts.
-(CONTINUED)
 
-#2.019
 
-Revised 1-25-91, BLUE
-28.
 
-21. CONTINUED:(3)
+
+
+
+
+ (3)
 COOPER
 What are they telling you?
 Trust.
@@ -1233,22 +1230,22 @@ ANNIE
 I think I have a lot of catching up to do.
 CUT TO:
 
-22. POV BINOCULAR
+ POV BINOCULAR
 
 Cooper and Annie in the distance upon the bright water. Cooper rows to shore. Annie laughs
 as he helps her out of the rowboat. They step toward the familiar gazebo, now stop, embrace
 and kiss.
 CUT TO:
 
-23. WINDOM EARLE
+ WINDOM EARLE
 Hidden in a tree, Earle lowers the binoculars. He's watching every move.
 
 FADE TO BLACK
 END ACT THREE
 
-#2.019
 
-Revised 1-31-91, YELLOW
+
+
 28A.
 
 ACT FOUR
@@ -1291,13 +1288,13 @@ COLE
 THANK YOU.
 (to Shelly)
 All right if we share?
-(CONTINUED)
 
-#2.019
-23B. CONTINUED:
+
+
+23B. 
 Sure.
 
-Revised 1-31-91, YELLOW
+
 28B.
 
 SHELLY
@@ -1338,14 +1335,14 @@ love. just then: Bobby Briggs enters, stops and stares.
 BOBBY
 What the hell is going on here...?
 Cole breaks from the kiss, regards the angry youth, grins.
-(CONTINUED)
 
-#2.019
 
-Revised 1-31-91, YELLOW
+
+
+
 28C.
 
-23B. CONTINUED:(2)
+23B. (2)
 COLE
 TWO ADULTS ARE SHARING A TENDER
 MOMENT, WHAT DOES IT LOOK LIKE?
@@ -1360,15 +1357,15 @@ Too late. Cole kisses Shelly again, with gusto. Bobby watches, open-mouthed, stu
 silent. Who is this guy?
 CUT TO:
 
-#2.019
 
-29.
+
+
 
 ACT FOUR
 FADE IN:
-24. EXT. HAYWARD HOUSE - NIGHT
+ EXT. HAYWARD HOUSE - NIGHT
 Establish.
-25. INT. HAYWARD HOUSE - NIGHT
+ INT. HAYWARD HOUSE - NIGHT
 
 CUT TO:
 
@@ -1403,13 +1400,13 @@ him yesterday.
 EILEEN
 (groping in the dark)
 Oh. Well, yes. Ben has offered some of his time.
-(CONTINUED)
 
-25. CONTINUED:
 
-#2.019
+ 
 
-30.
+
+
+
 
 HAYWARD
 I know he favors several of the local charities.
@@ -1445,20 +1442,20 @@ DONNA
 Why not? I could use the scholarship money to study
 overseas.
 She means away from here. Eileen and Doc exchange a look. Donna simmers between.
-26. INT. GREAT NORTHERN BAR AREA - NIGHT
+ INT. GREAT NORTHERN BAR AREA - NIGHT
 
 CUT TO:
 
 Still wearing the cumbersome nose bandage, Dick Tremayne taps a wine glass with a knife,
 calling the wine tasting party to order. A dozen or so people sit in the bar area, including Ben
-(more)
-(CONTINUED)
 
-#2.019
 
-26. CONTINUED:
 
-31.
+
+
+ 
+
+
 
 Horne, Andy, Lucy, Lana Budding and a few of the models from the fashion show. Everyone
 has two wine glasses in front of them and a spit bucket. On the table in front of Dick are a
@@ -1489,7 +1486,7 @@ you, Ben, and now ... to the tasting! Lana, Lucy, if you'd
 help me pour, please.
 Lana and Lucy jump up to help him pour out the contents of the first tasting. Dick flirts rather
 obviously with Lana, which Lucy can't fail to notice. She simmers as she pours.
-TREMAYNE (CONTINUED)
+TREMAYNE 
 (as they pour)
 Our first wines tonight are reds. There are some schools
 of thought who of course say there are no other wines but
@@ -1497,18 +1494,18 @@ reds.
 Andy raises his hand.
 Yes, Andy.
 
-TREMAYNE (CONTINUED)
+TREMAYNE 
 
 ANDY
 (he's been studying)
 There are also white wines and sparkling wines.
-(CONTINUED)
 
-#2.019
 
-32.
 
-26. CONTINUED:(2)
+
+
+
+ (2)
 TREMAYNE
 (long-suffering)
 Thank you, Andy.
@@ -1517,13 +1514,13 @@ Very good, Lana.
 (not as warmly)
 Don't pour quite so much, Lucy.
 Another cold look from Lucy to Lana and Dick.
-TREYMAYNE (CONTINUED)
+TREYMAYNE 
 Now that we're all poured, let's first examine (to Andy, who's drinking)
 Don't taste it, yet, Andy, for heaven's sake.
 Andy has a mouthful of wine.
 Spit it out.
 
-TREMAYNE (CONTINUED)
+TREMAYNE 
 
 Andy spits into the bucket.
 Sorry.
@@ -1541,35 +1538,35 @@ By smelling.
 TREMAYNE
 Very good, Lana.
 Another look from Lucy.
-TREMAYNE (CONTINUED)
+TREMAYNE 
 Lift the glass thusly ...
 (lifting it to his nose, now talking into the glass)
 And while vigorously rolling the wine around in the
 glass, we breathe deeply and fully.
 Unbeknownst to him, the wine seeps into the gauze bandage on Tremayne's nose and a crimson
 blotch starts to creep cellularly upwards.
-(CONTINUED)
 
-#2.019
 
-26. CONTINUED:(3)
 
-Revised 1-31-91, CHERRY
-33.
 
-TREMAYNE (CONTINUED)
+ (3)
+
+
+
+
+TREMAYNE 
 That's good. Now, procedurally, we take our first
 taste, a big, boisterous gulp and roll it energetically
 around our entire palate, trying to involve those hard to
 reach taste buds, tucked away in the back of our tongues.
 Remembering not to swallow ...
 The class takes a sip and rolls it around in their mouths.
-TREYMAYNE (CONTINUED)
+TREYMAYNE 
 Excellent. And now ... we ... spit.
 As one, the group spits noisily into their buckets.
 CUT TO:
 
-27. INT. BAR AREA - NIGHT
+ INT. BAR AREA - NIGHT
 
 By the fireplace in the other room, Jack Wheeler enters and sits near a pensive Dale Cooper,
 nursing a drink, staring into the fire. A beat. Wheeler emits a rueful sigh, thinking of Audrey.
@@ -1596,13 +1593,13 @@ coals for recreational purposes.
 COOPER
 (a mild correction)
 Self-discipline.
-(CONTINUED)
 
-#2.019
 
-27. CONTINUED:
 
-34.
+
+ 
+
+
 
 WHEELER
 Self- discipline and love are a bad match.
@@ -1641,14 +1638,14 @@ She feel the same way?
 WHEELER
 (lifts his drink)
 Here's hoping.
-(CONTINUED)
 
-#2.019
 
-27. CONTINUED: (2)
 
-Revised 1-31-91, CHERRY
-35.
+
+  (2)
+
+
+
 
 Cooper lifts his drink in support.
 WHEELER
@@ -1683,17 +1680,17 @@ The Bellman exits. Wheeler collects his thoughts, rises.
 WHEELER
 (to Cooper, mind elsewhere)
 Good night.
-(CONTINUED)
 
-#2.019
 
-Revised 1-31-91, CHERRY
+
+
+
 35A.
 
-27. CONTINUED:
+ 
 Cooper nods, watches as Wheeler steps away.
 CUT TO:
-28. INT. BAR - NIGHT
+ INT. BAR - NIGHT
 The wine-tasting continues. Dick is hovering over Lana.
 TREMAYNE
 All right, class, what did that sip reveal to us? What
@@ -1709,14 +1706,14 @@ LANA
 TREMAYNE
 Yes, there is a hint of banana, that's the metachloric acid,
 very good. What else?
-(CONTINUED)
 
-#2.019
 
-28. CONTINUED:
 
-Revised 1-31-91, CHERRY
-36.
+
+ 
+
+
+
 
 LUCY
 (under her breath)
@@ -1749,14 +1746,14 @@ LUCY
 I'm pregnant. I'm not supposed to drink.
 They look at each other.
 CUT TO:
-29. OMIT
+ OMIT
 
-#2.019
 
-30. EXT. GAZEBO - NIGHT
 
-Revised 2-7-91, GOLDENROD
-37.
+ EXT. GAZEBO - NIGHT
+
+
+
 
 Police cars. Cops. Lights trained on the gazebo, where a large box sits in the center. Cooper
 drives up, is greeted by Truman. They move towards the gazebo.
@@ -1789,4 +1786,4 @@ A sign on the pawn reads, "NEXT TIME. IT WILL BE SOMEONE YOU KNOW."
 FADE TO
 THE END
 
-
+

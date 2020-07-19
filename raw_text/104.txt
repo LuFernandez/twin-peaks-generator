@@ -1,8 +1,4 @@
-TWIN PEAKS
-#1.004
-
-
-ACT ONE
+ACT ONE
 FADE IN:
 EXT. THE PALMER HOUSE MORNING
 Establish.
@@ -41,7 +37,7 @@ His face... oh, God, his face
 Sarah's head rocks back on to the top of the sofa. She's
 starting to lose it.
 
-2.
+
 LELAND
 Sarah? Have you told them about the
 necklace? They'll love that one.
@@ -77,7 +73,7 @@ toward CHET.
 EMERALD
 Don't fight it, Chet.
 
-3.
+
 CHET
 I'm still married to Jade. It's
 wrong.
@@ -121,7 +117,7 @@ room with Dr. Jacoby.
 Truman starts for the conference room. Andy hangs back to
 talk to Lucy.
 
-4.
+
 ANDY
 So I guess Chet's really got his
 hands full, huh?... Lucy, why
@@ -164,7 +160,7 @@ the east as well, though only as
 far as Hawaii. Five years postgraduate work.
 (MORE)
 
-5.
+
 JACOBY (CONT'D)
 There are sound solutions to our
 diseased family structures in
@@ -209,7 +205,7 @@ She had sex with three men the
 night she died. Were you one of
 them?
 
-6.
+
 JACOBY
 No.
 COOPER
@@ -253,7 +249,7 @@ Yes.
 COOPER
 Anything more on Jacques Renault?
 
-7.
+
 TRUMAN
 There's an APB on him. His brother
 Bernie made bail this morning. I've
@@ -296,7 +292,7 @@ COOPER
 Tell Albert we're anxiously
 awaiting his results.
 
-8.
+
 COLE'S VOICE
 Now for the bad news. Coop, I've
 got an O.O.J. and an A.F.O. here
@@ -335,7 +331,7 @@ town relieving himself upstream.
 Andy)
 This is the man I saw in my dream.
 
-9.
+
 TRUMAN
 You saw this man?
 COOPER
@@ -374,7 +370,7 @@ CUT TO:
 INT. ED
 HURLEY'S HOUSE - DAY
 
-10.
+
 ED and his assistant, SPARKY, a wizened eager beaver, enter
 and tiptoe into the living room to examine Nadine's rowing
 machine. The oars are bent like a "z."
@@ -415,7 +411,7 @@ ED
 Shoot. Shelly, when she gets back
 could you tell her...
 
-11.
+
 Sparky sees Nadine approaching. He gives Ed the high sign,
 takes out a wrench and moves back to the rowing machine.
 NADINE HURLEY enters carrying a breakfast tray.
@@ -453,7 +449,7 @@ NORMA JENNINGS sits pensively on a bench outside the door.
 WILSON MOONEY, the parole officer, emerges from another door
 to the cell block.
 
-12.
+
 MOONEY
 I've arranged for you to have a
 little chat with Hank before the
@@ -494,7 +490,7 @@ The Guard steps back in and moves him away. A hint of
 weakness in Norma's eyes.
 CUT TO:
 
-13.
+
 INT. PAROLE BOARD HEARING ROOM - DAY
 Hank sits at a long table with Mooney, across from two BOARD
 MEMBERS, a middle-aged neatnik and a younger woman with a
@@ -540,7 +536,7 @@ Mrs. Jennings, your husband would
 be facing a difficult re-entry. How
 would you help him?
 
-14.
+
 NORMA
 I own the Double R Diner in Twin
 Peaks. I can give him a job. The
@@ -575,7 +571,7 @@ EXT. TWIN PEAKS HIGH SCHOOL - DAY
 Re-establish. A bell rings.
 CUT TO:
 
-15.
+
 INT. TWIN PEAKS HIGH SCHOOL GIRLS' ROOM - DAY
 Donna Hayward stands in front of the mirror, looking at
 herself, brushing her hair. AUDREY HORNE enters and
@@ -616,7 +612,7 @@ DONNA
 I guess that's not such a big
 secret.
 
-16.
+
 AUDREY
 Please. I didn't know Laura half as
 well as you and I knew the score;
@@ -661,7 +657,7 @@ wouldn't you want to know about it?
 DONNA
 It sure would explain a few things.
 
-17.
+
 AUDREY
 You know, I think about it, I think
 about Laura being in a place like
@@ -703,7 +699,7 @@ The document is rolled up and inserted in Emerald's purse.
 She moves to Chet, who sits, demoralized, destroyed. Emerald
 gives him a motherly kiss on the forehead.
 
-18.
+
 EMERALD
 Good boy, Chet.
 CHET
@@ -744,7 +740,7 @@ BEN
 Where's the book that spells
 bankruptcy?
 
-19.
+
 CATHERINE
 I have more than one hiding place.
 My desk, upstairs. A drop panel in
@@ -791,13 +787,13 @@ CATHERINE
 Perish the thought.
 CUT TO:
 
-20.
+
 EXT. MOTEL - DAY
 Truman's cruiser pulls up by the dumpster. Josie's car is
 gone. Cooper, Truman, and Andy get out of cruiser. Hawk walks
 up to meet them.
 HAWK
-Room 301. Last name is Gerard.
+Room 3 Last name is Gerard.
 The foursome moves cautiously towards a room. Truman takes
 the lead, motions Hawk to go around to the side. Hawk moves
 off. They reach the door. Truman knocks.
@@ -830,7 +826,7 @@ He goes into the bathroom. Catherine laughs, then notices
 something has dropped out of Ben's pants. Catherine crosses
 and picks it up.
 
-21.
+
 INTERCUT:
 INSERT
 A THOUSAND DOLLAR POKER CHIP from One-Eyed Jack's.
@@ -868,7 +864,7 @@ There was a Lydecker assaulted
 three days ago outside a bar in
 Lowtown.
 
-22.
+
 GERARD
 That's Bob.
 COOPER
@@ -882,7 +878,7 @@ He's a veterinarian. Just about the
 best darn veterinarian in these
 parts. Extremely dedicated. Has his
 own clinic about eight years now.
-No maybe seven. Let's see...'81...
+No maybe seven. Let's see...'..
 I'm still at computer school...
 yeah, it's eight years.
 COOPER
@@ -910,7 +906,7 @@ pharmaceuticals. Pretty good job,
 Smokey Mountains Sales Rep. I had
 benefits.
 
-23.
+
 In background Andy's checking Gerard's suitcases. One of them
 practically explodes open. A pile of WORKBOOTS and
 INSTITUTIONAL SHOES fall out.
@@ -948,7 +944,7 @@ As Cooper and Andy get into Truman's cruiser, Hawk discretely
 motions Truman over to the dumpster. Hawk kneels down, dips
 his finger in the spilled coffee, speaks quietly.
 
-24.
+
 HAWK
 Car was staked out when I got here.
 It was Josie Packard.
@@ -987,7 +983,7 @@ BOBBY
 Don't mess around about this,
 Shelly, where is he?
 
-25.
+
 SHELLY
 He took off with his friend, that
 creepy Jacques.
@@ -1027,7 +1023,7 @@ SHELLY
 Oh my God, I knew it, I knew Leo
 was messed up in something.
 
-26.
+
 BOBBY
 I know it's shocking. I think it's
 even possible that they were giving
@@ -1068,7 +1064,7 @@ I bought this.
 BOBBY
 You know how to use it?
 
-27.
+
 SHELLY
 I thought you might be able to
 teach me.
@@ -1106,7 +1102,7 @@ Nope. That's not Dr. Lydecker.
 COOPER
 Does Dr. Lydeker treat birds?
 
-28.
+
 LOOMER
 Oh, yes.
 TRUMAN
@@ -1142,7 +1138,7 @@ CUT TO:
 INT. BEN HORNE'S OFFICE - DAY
 Ben Home is on the telephone, looking at a globe.
 
-29.
+
 BEN
 --Jerry, Jer, slow down, I know
 you're in Iceland but where are you
@@ -1191,7 +1187,7 @@ morning.
 He hangs up and heads directly for the door.
 CUT TO:
 
-30.
+
 INT. GREAT NORTHERN DINING ROOM - DAY
 In the bar area, Leland Palmer is dancing what looks to be a
 cross between the Lindy and the Tennessee Waltz with his
@@ -1230,7 +1226,7 @@ He cries. Ben takes him into an embrace. Pats him on the
 back.
 CUT TO:
 
-31.
+
 INT. SHERIFF'S STATION RECEPTION AREA - DAY
 Cooper, Truman, Andy and Hawk enter carrying files from the
 veterinarian's, past Lucy at reception. Truman rests his for
@@ -1270,7 +1266,7 @@ Andy, get some ammunition from the
 lockbox and meet us downstairs at
 the pistol range.
 
-32.
+
 Cooper and Truman exit.
 CUT TO:
 INT. SHERIFF'S RECEPTION AREA - DAY
@@ -1312,7 +1308,7 @@ Cooper takes out his gun. The other two admire it.
 HAWK
 Nice piece.
 
-33.
+
 COOPER
 Actually it's regular issue, but
 I've made some modifications.
@@ -1354,7 +1350,7 @@ discussion. Suffice it to say
 you're up against the oldest
 unsolvable mystery known to man.
 
-34.
+
 ANDY
 And I feel like I don't know one
 doggone thing.
@@ -1399,7 +1395,7 @@ What you need is practice and
 plenty of it.
 (MORE)
 
-35.
+
 COOPER (CONT'D)
 One hour, three times a week.
 Harry, you'll supply the ordinance?
@@ -1441,7 +1437,7 @@ Indian Affairs.
 Cooper whistles in appreciation, then looks at Truman's
 target, as Cooper looks at his.
 
-36.
+
 COOPER
 Harry, one miss, five hits, three
 kills. Excellent.
@@ -1481,7 +1477,7 @@ COOPER
 We're gonna need some more coffee.
 CUT TO:
 
-37.
+
 EXT. JAMES HURLEY'S HOME - DAY
 A housetrailer in the middle of a lonely lot with a couple of
 aluminum lean-to's off the house. The shades on the windows
@@ -1523,7 +1519,7 @@ JAMES
 feelings)
 Are you okay?
 
-38.
+
 COLLEEN
 Myself, I've been better. The
 poem's pretty good.
@@ -1563,7 +1559,7 @@ Yeah, you sure can spot it, Ma.
 COLLEEN
 Am I right?
 
-39.
+
 An awful, bitter pause.
 JAMES
 Her name was Laura.
@@ -1604,7 +1600,7 @@ NORMA (CONT'D)
 Shelly, you're gonna scare the
 customers.
 
-40.
+
 SHELLY
 I've got one man too many in my
 life. And I'm married to him. Sound
@@ -1647,7 +1643,7 @@ for Leo.
 Norma tries to penetrate her look. James enters the diner and
 goes right to the pay phones.
 
-41.
+
 NORMA
 Shelly, you know what we're going
 to do tomorrow? You and I are going
@@ -1686,7 +1682,7 @@ He goes back in the kitchen. She speaks more confidentially.
 DONNA
 Would you like to come?
 
-42.
+
 JAMES
 I don't think I'd be very good
 company.
@@ -1723,7 +1719,7 @@ I saw you yesterday at the funeral.
 My name's Madeleine Ferguson. Laura
 was my cousin.
 
-43.
+
 JAMES
 (still not really with
 her)
@@ -1770,7 +1766,7 @@ wished I'd known her better. It's
 so sad.
 James stares at Madeline. She smiles back, uncomplicated.
 
-44.
+
 MADELEINE (CONT'D)
 Well it was nice to meet you, James
 Hurley.
@@ -1802,7 +1798,7 @@ INT. BEN HORNE'S OFFICE - NIGHT
 Ben is on the phone again with the Icelandics and Jerry,
 riding an exercise machine.
 
-45.
+
 BEN
 What's that? No, I'm afraid I don't
 know what you get when you cross a
@@ -1847,7 +1843,7 @@ it's just that I wish I could
 depend on you more, especially
 during a trying time like this.
 
-46.
+
 AUDREY
 That's what I want to talk to you
 about. Dad, I want to change my
@@ -1892,7 +1888,7 @@ Department Store; cosmetics or
 something. Part-time, at first,
 'til I graduate.
 
-47.
+
 Ben comes over to her. Beginning to accept this peace
 offering.
 BEN
@@ -1929,7 +1925,7 @@ BEN
 Thank you, Audrey.
 Audrey smiles sweetly and exits. Ben speaks into the phone.
 
-48.
+
 BEN (CONT'D)
 Where have you been?... Meet me
 down by the river near the mill
@@ -1967,7 +1963,7 @@ He's also determined the bites and
 marks on her shoulders were made by
 a parrot or a mynah bird.
 
-49.
+
 COOPER
 That narrows it down considerably.
 COLE'S VOICE
@@ -2008,7 +2004,7 @@ Thanks a lot.
 (hangs up the phone)
 (MORE)
 
-50.
+
 HAWK (CONT'D)
 Renault still hasn't been back to
 the Roadhouse.
@@ -2044,7 +2040,7 @@ Hawk runs past them to the window, as Truman and Cooper, guns
 drawn, check the other rooms. We hear tires SQUEAL from
 outside.
 
-51.
+
 HAWK
 Car's going around the side.
 Hawk goes out the window after it.
@@ -2084,7 +2080,7 @@ I'll call Doc Hayward, we'll get a
 make on this blood.
 Truman's radio squawks.
 
-52.
+
 HAWK'S VOICE
 Harry?...
 TRUMAN
@@ -2125,7 +2121,7 @@ LEO
 The Renault brothers? I broke up
 their act.
 
-53.
+
 Leo uncovers a tarp revealing the dead body of BERNIE
 RENAULT, wrapped in plastic.
 LEO (CONT'D)
@@ -2167,7 +2163,7 @@ Green light. Clear enough?
 Leo nods, lights a match off his thumbnail, lights Ben's
 cigar.
 
-54.
+
 LEO
 Excuse me. I got to take Bernard
 for a swim.
@@ -2205,7 +2201,7 @@ Maybe we should tell somebody.
 DONNA
 You mean the police?
 
-55.
+
 JAMES
 If it was the killer, then he knows
 that we know
@@ -2245,7 +2241,7 @@ JOSIE
 Hello?...
 INTERCUT:
 
-56.
+
 INT. JACQUES RENAULT'S APARTMENT - NIGHT
 Truman is on the phone. Behind him the apartment is being
 scaled off with yellow tape that reads "Off Limits - Police
@@ -2282,7 +2278,7 @@ sandwich.
 Pete goes through the mail as Josie retrieves the sandwich
 and unwraps it.
 
-57.
+
 PETE
 Fantastic, Josie. Is Catherine
 asleep?
@@ -2323,7 +2319,7 @@ PETE
 Josie, you're my kind'a gal. I'm
 going to hit the hay.
 
-58.
+
 JOSIE
 Sweet dreams, Pete.
 PETE
@@ -2353,4 +2349,4 @@ He hangs up. STAY WITH Josie. Her hand trembles.
 FADE OUT:
 THE END
 
-
+

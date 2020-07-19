@@ -1,13 +1,6 @@
-TWIN PEAKS
-Episode 2.009
-
-
-
-1.
-
 ACT ONE
 FADE IN:
-1.
+
 
 EXT. PARKING LOT - DAY
 SHERIFF TRUMAN angry and frustrated, walks with AGENT COOPER, HAWK, and
@@ -42,15 +35,6 @@ TRUMAN
 (his frustration begins to show)
 It is finished.
 Stalemate. Albert intervenes, takes Cooper aside.
-(CONTINUED)
-
-#2.009.5d
-1.
-
-CONTINUED:
-
-Revised 10-3-90, GREEN
-2.
 
 ALBERT
 Cooper ... an observation?
@@ -82,7 +66,7 @@ TRUMAN
 (despite what he believes)
 Good luck.
 
-2.
+
 
 INT. DOUBLER DINER - DAY
 
@@ -93,15 +77,6 @@ homework. A smiling JAMES HURLEY enters passing by ERNIE NILES who sits at the
 counter reading the sports page. Donna beams at James.
 DONNA
 I thought you'd never get here.
-(CONTINUED)
-
-#2.009.1
-2.
-
-Revised 10-3-90, PINK
-3.
-
-CONTINUED:
 
 James smiles and gives Donna a morning-after kiss. He slides in across from Donna. Takes a
 sip of her coffee.
@@ -141,14 +116,14 @@ James ... ?
 JAMES
 
 DONNA
-(CONTINUED)
 
-#2.009.4d
-2.
 
-4.
 
-CONTINUED:(2)
+
+
+
+
+(2)
 JAMES
 (after a beat)
 I think we should always be together.
@@ -164,7 +139,7 @@ It's perfect.
 James leans across the table, means to kiss her, the table and coffee between them. Donna
 laughs, James grins. Then gathers her into his arms the best he can, offers a lasting kiss.
 
-3.
+
 
 CUT TO:
 
@@ -174,7 +149,7 @@ HANK
 You ever in love in the joint, Ern?
 
 Disgusted, Ernie goes back to his paper - the sports pages - trying to avoid Hank
-HANK (CONTINUED)
+HANK 
 Remember that fourth floor game room? Where the
 boys did business? You played along or they tossed you
 over the rail. Four floors down to the cement. Guy
@@ -189,16 +164,6 @@ place. See, Ernie, the way I figure it, your speciality
 being arithmatic ERNIE
 I have an MBA from Wharton's -
 
-(CONTINUED)
-
-3.
-
-CONTINUED:
-
-Revised 10-3-90, PINK
-5.
-
-#2009.1
 
 HANK
 Excuse me. Here's the deal. I want this operation to
@@ -216,10 +181,10 @@ No, you see it's just like being back in the joint. 'Cause
 we got a fourth floor on the outside, too.
 
 Ernie tries to rise, Hank holds him firmly, moves closer, smiles.
-HANK (CONTINUED)
+HANK 
 Don't make me give you the rail, Ern.
 Ernie is chilled by Hank's threat.
-4.
+
 
 NORMA AND VIVIAN SMYTHE
 
@@ -239,16 +204,16 @@ Hank was doing hard time, not juvenile detention.
 VIVIAN
 That may be. But wherever they find themselves the men
 we love spend their life in the dark. And in Ernie's case,
-(more)
-(CONTINUED)
 
-#2.009
-4.
 
-6.
 
-CONTINUED:
-VIVIAN (continued)
+
+
+
+
+
+
+VIVIAN 
 he's very good in the dark.
 (sexy laugh, then serious)
 Our job is to keep them there.
@@ -284,13 +249,13 @@ ANDY
 J'ai une...J'ai une ame solitaire...
 Big sigh. Somehow it makes Andy feel better. As Donna and James step toward the register,
 he repeats, a little more confidentally:
-(CONTINUED)
 
-#2.009
 
-7.
 
-4A. CONTINUED:
+
+
+
+4A. 
 
 ANDY
 J'ai une ame solitaire.
@@ -329,14 +294,11 @@ But it was Mr. Smith.
 DONNA
 (now it's her turn to be confused)
 Harold ... ?
-(CONTINUED)
 
-#2.009.1
 
-Revised 10-3-90, PINK
-8.
 
-4A. CONTINUED:(2)
+
+4A. (2)
 Andy nods, leans closer to impart a confidence.
 ANDY
 He left a suicide note. J'ai une, you know. It means I am
@@ -348,7 +310,7 @@ JAMES
 Donna, what the hell is going on?
 Donna turns for the door. James calls after, frustrated:
 Donna!
-5.
+
 
 JAMES
 
@@ -376,10 +338,10 @@ She's pretty old. If her grandson isn't here to open it ...
 ANDY
 (peering toward window)
 There's someone inside.
-(CONTINUED)
 
-#2.009.4d
-5A. CONTINUED:
+
+
+5A. 
 Just then: the door opens, revealing a WOMAN. Middle-aged. Pleasant in appearance. And
 most decidedly not Mrs. Tremond.
 WOMAN
@@ -418,12 +380,12 @@ DONNA
 TREMOND
 Just a moment ...
 Mrs. Tremond goes back inside.
-(CONTINUED)
 
-9.
 
-#2.009.4d
-5A. CONTINUED:(2)
+
+
+
+5A. (2)
 
 DONNA
 I've never seen her before in my life.
@@ -462,16 +424,16 @@ an old man, sitting in a chair.
 Cooper reacts. He had the same dream. Laura, the midget, forgotten secrets whispered in his
 ear.
 INTERCUT DREAM
-(CONTINUED)
 
-10.
 
-#2.009.4d
 
-11.
 
-5A. CONTINUED:(3)
-DONNA (CONTINUED)
+
+
+
+
+5A. (3)
+DONNA 
 I tried to talk to him. I wanted to tell him who Bob is
 because I thought he could help me. But my words came
 out slow and odd. It was so frustrating trying to talk. I
@@ -511,10 +473,10 @@ Cooper moves off.
 FADE TO BLACK
 END ACT ONE
 
-#2.009.4d
+
 ACT TWO
 
-12.
+
 
 FADE IN:
 5C. INT. GREAT NORTHERN HOTEL ROOM - DAY
@@ -538,12 +500,12 @@ Gerard opens his eyes, takes Cooper's hand, nods, weakly.
 COOPER
 There isn't much time. Bob has killed again.
 Gerard winces, pained, looks away. Cooper brings him back.
-COOPER (CONTINUED)
+COOPER 
 I'm close to knowing. But the last distance to close is
 the most difficult. I need to know something. I need
 you to help me.
 Gerard nods, grasps his hand, eager to help.
-COOPER (CONTINUED)
+COOPER 
 Bob was in my dream. So was Laura Palmer. So were
 you. And Laura dreamt about me the night before she
 died. The same dream. I need to go back there and
@@ -551,14 +513,14 @@ unlock my dream. The answer is inside.
 He leans over him to hear. Gerard struggles with every word. Fighting to stay Mike.
 GERARD
 Bob is a fire spirit. So are we both, both creatures of
-(more)
 
-(CONTINUED)
 
-#2.009.4d
-5C. CONTINUED:
 
-GERARD (continued)
+
+
+5C. 
+
+GERARD 
 fire. Bob and I ... when we were killing together ... there
 was a perfect relationship; appetite and satisfaction. A
 golden circle.
@@ -567,7 +529,7 @@ COOPER
 A golden circle ...
 
 Gerard gives him the "OK" sign. Which triggers another thought for Cooper.
-COOPER (CONTINUED)
+COOPER 
 A ring. My ring. I gave my ring to someone. The
 Giant.
 GERARD
@@ -596,11 +558,11 @@ Gerard goes slack in his arms. "Mike" is gone. Cooper holds Gerard's limp body. 
 at Doc.
 CUT TO:
 
-13.
 
-#2.009.4d
 
-14.
+
+
+
 
 5D. INT. GREAT NORTHERN HALLWAY - DAY
 Cooper exits Gerard's room. He stops to think. Behind him, around the corner comes the
@@ -609,14 +571,14 @@ stops to look at Cooper. Cooper realizes he's being watch and turns.
 WAITER
 I know about you.
 The Waiter winks at him. Cooper looks at him puzzled.
-WAITER (CONTINUED)
+WAITER 
 That milk'll cool down on you, but it's getting warmer now.
 The Waiter gives him a thumbs up and moves slowly along.
 COOPER
 (to himself)
 ... getting warmer now.
 The Waiter turns once, gives him another thumbs up and disappears around the corner.
-6.
+
 
 INT. BEN HORNE'S OFFICE - DAY
 
@@ -628,7 +590,7 @@ TRUMAN
 (to a deputy)
 Box and tag everything in these drawers.
 Cooper appears, pauses on the steps by the door.
-TRUMAN (CONTINUED)
+TRUMAN 
 Coop. We found Horne's phone records.
 (Truman moves to him)
 Here it is. The night Laura died. The phone call Leland
@@ -641,15 +603,13 @@ COOPER
 
 TRUMAN
 White, dead and stuffed.
-(CONTINUED)
 
-#2.009.5d
-6.
 
-CONTINUED:
+.5d
 
-Revised 10-8-90, GREEN
-15.
+
+
+
 
 TRUMAN
 Maddy was here. There was a struggle; she grabbed this
@@ -669,7 +629,7 @@ Ben Horne's blood test.
 Cooper glances at the information inside, hands paper to Albert. Albert peers at the results.
 Then, gradually, hands them to Truman. HOLD ON Truman for a beat. His ambiguous
 expression.
-ALBERT (CONTINUED)
+ALBERT 
 (Cooper isn't listening)
 Cooper?
 Cooper turns to Albert and Truman.
@@ -678,11 +638,11 @@ I'll need you both to do exactly as I say. I have a plan.
 CUT TO:
 
 6A. OMITTED
-8.
+
 
 OMITTED
 
-7.
+
 
 INT. SHERIFF'S OFFICE, RECEPTION AREA - DAY
 The now-familiar plumber, ZIPPER, stands on a ladder at reception, working on a sprinklersystem nozzle in the ceiling. Lucy sits below the ladder at her desk
@@ -690,14 +650,14 @@ ZIPPER
 ... 'nother couple minutes, I'll have this baby right up to
 code. Tweaking the sensors mostly. Don't want your
 sprinklers to be overly jumpy, you gotta set it just so ...
-(CONTINUED)
 
-#2.009.4d
-7.
 
-16.
 
-CONTINUED:
+
+
+
+
+
 ANDY BRENNAN suddenly appears on the other side of the ladder.
 ANDY
 I want to talk about my child.
@@ -735,8 +695,8 @@ Tremayne? Brennan. Andy Brennan. We need to talk.
 That is, if you're not too busy.
 CUT TO:
 
-#2.009.4d
-9.
+
+
 
 INT. SHERIFF'S STATION - DAY
 Ben Horne aimlessly pitches pennies against his cell wall. A DEPUTY opens the door.
@@ -780,13 +740,13 @@ Your check.
 Yes. Pen?
 
 TOJOMURA
-(CONTINUED)
 
-17.
 
-#2.009.4d
 
-18.
+
+
+
+
 
 BEN
 But I cannot sign.
@@ -827,14 +787,14 @@ Overcome, Ben takes Catherine's foot into his hands. As if to caress and kiss it
 BEN
 Oh, Catherine. Oh thank God you've come. You're my
 only chance. My salvation.
-(CONTINUED)
 
-#2.009.4d
-9.
 
-19.
 
-CONTINUED:(2)
+
+
+
+
+(2)
 CATHERINE
 Why, Ben. You're groveling.
 BEN
@@ -870,11 +830,11 @@ BEN
 Catherine?! Catherine!!
 CUT TO:
 
-#2.009.4d
-10. EXT. PALMER HOUSE - DAY
+
+ EXT. PALMER HOUSE - DAY
 Establish. The sky dark and filled with angry storm clouds. Perhaps a lightning flash.
 CUT TO:
-11. INT. PALMER HOUSE - DAY
+ INT. PALMER HOUSE - DAY
 Donna stands in the living room, wearing Laura's dark glasses. Leland beams.
 LELAND
 Donna, I'm so happy you stopped by. We haven't really
@@ -906,20 +866,20 @@ I thought they looked familiar.
 Donna takes out a cigarette. Lights it.
 DONNA
 Mr. Palmer, did you know they found Laura's secret
-(more)
 
-(CONTINUED)
 
-20.
 
-#2.009.4d
 
-21.
 
-11. CONTINUED:
+
+
+
+
+
+ 
 diary?
 
-DONNA (continued)
+DONNA 
 
 LELAND
 (hiding his agitation)
@@ -958,26 +918,26 @@ DONNA
 
 LELAND
 It's the strangest thing. She never made it home.
-(CONTINUED)
 
-#2.009.4d
 
-22.
 
-11. CONTINUED:(2)
+
+
+
+ (2)
 DONNA
 (hand to mouth)
 Oh, God ...
 FADE TO BLACK
 END ACT TWO
 
-#2.009.4d
 
-23.
+
+
 
 ACT THREE
 FADE IN:
-12. INT. PALMER HOUSE - DAY
+ INT. PALMER HOUSE - DAY
 DONNA
 I knew Maddy was expecting us the other night. But I
 was selfish. I figured I could see her any time. I mean
@@ -1013,14 +973,14 @@ you why or how but we need your help and we need it
 now.
 LELAND
 Of course. Certainly. Anything. Let me get my coat.
-(CONTINUED)
 
-#2.009.4d
-12. CONTINUED:
+
+
+ 
 Leland grabs a jacket from a hanger nearby. He steps with Truman toward the door,
 glancing briefly toward the living room, Donna left behind him.
 Donna listens to the door slam. Her eyes bright with tears. There has been another murder.
-13. EXT. HAYWARD HOUSE - DAY
+ EXT. HAYWARD HOUSE - DAY
 Doc Hayward works in his yard. He sighs, full of sadness.
 
 DISSOLVE TO:
@@ -1058,19 +1018,17 @@ arms. But Donna rips free from his grasp. She will not be comforted.
 DONNA
 NO! I am sick and tired of all this pain. Sick in my
 heart. Everything good turns to bad. No matter what
-(more)
 
-(CONTINUED)
 
-24.
 
-#2.009.5c
-13. CONTINUED:
 
-Revised 10-8-90, GREEN
-25.
 
-DONNA (continued)
+
+.5c
+ 
+
+
+DONNA 
 we say or do. No matter how hard we try. Someone has
 to stop it. Someone has to ...
 HAYWARD
@@ -1083,12 +1041,12 @@ I don't want to talk about love. I...
 Donna can't stand it. She turns and runs.
 DISSOLVE TO:
 
-14. EXT. THE ROADHOUSE - DAY
+ EXT. THE ROADHOUSE - DAY
 
 Establish. The storm now grips the region. Thunder and lightning in the dark sky.
 CUT TO:
 
-15. INT. THE ROADHOUSE -DAY
+ INT. THE ROADHOUSE -DAY
 
 Truman and Leland walk through the Roadhouse interior. Cooper and Albert are sitting at
 the bar. The mood is dreamlike, eerie. And will remain so throughout the following,
@@ -1109,16 +1067,11 @@ ED
 What's going on here?
 COOPER
 I want everyone to help me clear the floor. We're going
-(more)
-(CONTINUED)
 
-#2.009.5c
-15. CONTINUED:
 
-Revised 10-8-90, GREEN
-26.
 
-COOPER (continued )
+
+COOPER 
 to need a large clear space in the center.
 Of course.
 
@@ -1149,14 +1102,8 @@ BEN
 (a pause, cold)
 Hail, hail, the gang's all here.
 Truman leads Ben to the others. Cooper turns to address the group.
-(more)
-(CONTINUED)
 
-#2.009.5d
-15. CONTINUED:(2)
 
-Revised 10-8-90, GREEN
-27.
 
 COOPER
 (finishes, turns to the group)
@@ -1166,7 +1113,7 @@ I have reason to believe the killer is inside this room.
 
 Some react with looks of disbelief - followed by glances at the men next to them. BEN
 keeps a cold eye on Cooper.
-COOPER (CONTINUED)
+COOPER 
 As a Federal Agent I spend most of my time seeking
 simple answers to difficult questions. In pursuit of
 Laura's killer, I have used Bureau guidelines, deductive
@@ -1200,13 +1147,7 @@ pivots to see the familiar silhouette of MAJOR BRIGGS. Accompanied by the Room
 Service Waiter.
 BRIGGS
 Excuse us ...
-(CONTINUED)
 
-#2.009.5d
-15. CONTINUED:(3)
-
-Revised 10-8-90, GREEN
-28.
 
 COOPER
 (with a small smile of relief)
@@ -1228,12 +1169,12 @@ That gum you like is going to come back in style.
 Time stands still.
 
 INTERCUT:
-16. COOPER'S DREAM
+ COOPER'S DREAM
 Cooper is back in a dream. He looks down. On the roadhouse floor, a familiar mound of
 dirt appears at his feet. Something gold gleams inside it: Laura's heart necklace. But the
 heart is no longer halved, both pieces are joined. The heart shimmers, disappears:
 Out of it the fabric of his vision tears, shifts. And Cooper finds himself back in a familiar red
-room. The dream first seen in episode #1.002. Cooper sits in the armchair, mute. Laura leans
+room. The dream first seen in episode #0 Cooper sits in the armchair, mute. Laura leans
 close to him, smiling. She whispers. But this time Cooper hears and comprehends ...
 LAURA
 Ben Horne killed me.
@@ -1251,13 +1192,10 @@ station. You might want to bring Leland with you. As
 your attorney.
 Cooper nods to Truman. The Sheriff cuffs a stunned Ben Horne and leads him away. Deputy
 Hawk steps to Cooper.
-(CONTINUED)
 
-#2.009.5d
-16. CONTINUED:
 
-Revised 10-8-90, GREEN
-29.
+.5d
+ 
 
 HAWK
 The quest is over?
@@ -1270,7 +1208,7 @@ stops. He looks back towards the stage. He sees the Room Service Waiter wave at 
 smile.
 DISSOLVE TO:
 
-17. EXT. GAZEBO - DAY
+ EXT. GAZEBO - DAY
 
 James rides up on his bike, hops off as Donna runs to him, hugs him, quietly hysterical.
 Evidence recent rain all about them.
@@ -1302,13 +1240,13 @@ We could've helped her.
 How?
 
 DONNA
-(CONTINUED)
 
-#2.009.4d
 
-30.
 
-17. CONTINUED:
+
+
+
+ 
 JAMES
 I don't know
 (his anger startles them both; he suddenly sees a
@@ -1339,19 +1277,16 @@ slowly into the water.
 FADE OUT:
 END ACT THREE
 
-#2.009.5c
+.5c
 ACT FOUR
 
-Revised 10-8-90, GREEN
-31.
-
 FADE IN:
-18. EXT. SHERIFF'S STATION - DAY
+ EXT. SHERIFF'S STATION - DAY
 Establish.
 CUT TO:
-19. OMITTED
-20. OMITTED
-21. INT. SHERIFF'S STATION - DAY
+ OMITTED
+ OMITTED
+ INT. SHERIFF'S STATION - DAY
 RICHARD TREMAYNE enters the station. Waiting by the door to the conference room,
 Lucy spots him, directs him towards the conference room. She gestures silence, Tremayne
 complies.
@@ -1376,19 +1311,15 @@ COOPER
 
 LELAND
 I'd like to begin bail proceedings as soon as possible.
-(CONTINUED)
 
-#2.009.5d
 
-Revised 10-8-90, GREEN
-32.
 
-21B. CONTINUED:
+21B. 
 COOPER
 He'll have his day in court.
 Cooper moves off. Leland follows.
 CUT TO:
-22. INT. DOWNSTAIRS CORRIDOR - DAY
+ INT. DOWNSTAIRS CORRIDOR - DAY
 In the basement, around the corner from interrogation. Hawk leads Ben towards the door, as
 Truman moves ahead to unlock it. Cooper and Leland follow them around the corner.
 Truman unlocks the door, swings it open. Hawk grabs Ben from behind, moves him
@@ -1413,13 +1344,6 @@ Laura told me. In my dream.
 TRUMAN
 Coop, I'm going to need slightly stronger evidence -
 
-(CONTINUED)
-
-#2.009.5d
-22. CONTINUED:
-
-Revised 10-8-90, GREEN
-33.
 
 COOPER
 How about a confession?
@@ -1433,7 +1357,7 @@ TRUMAN
 - you have the right to an attorney. If you cannot afford
 an attorney one will be appointed for you ...
 Ben begins to laugh, a low, feral sound, snarling and contemptuous.
-TRUMAN (CONTINUED)
+TRUMAN 
 Do you understand your rights as we've explained them
 to you?
 BEN
@@ -1459,16 +1383,10 @@ Yeah, well, I guess I sort'a did, kind'a. I have a thing
 for knives ...
 (cold and hard)
 ... kind of like that time in Pittsburgh, huh Cooper?
-(CONTINUED)
 
-#2.009.5d
-
-Revised 10-8-90, GREEN
-34.
-
-22A. CONTINUED:
+22A. 
 Cooper pales.
-BEN (CONTINUED)
+BEN 
 Ben's been a good vehicle. I've enjoyed the ride. But
 he's weak now and riddled with holes. It's nearly time
 to shuffle off to Buffalo.
@@ -1485,7 +1403,7 @@ waiting. Truman and Cooper look at each other.
 TRUMAN
 That's good enough for me.
 The group exits the room quietly.
-23. INT. CONFERENCE ROOM - DAY
+ INT. CONFERENCE ROOM - DAY
 
 CUT TO:
 
@@ -1510,13 +1428,13 @@ TREMAYNE
 'Got a light?
 Andy fishes for a match, then realizes he doesn't carry them.
 
-(CONTINUED)
 
-#2.009.5d
 
-35.
+.5d
 
-23. CONTINUED:.
+
+
+ .
 No.
 
 ANDY
@@ -1529,7 +1447,7 @@ There's only one way to handle this. They have a test to
 determine the blood type of the father. It could be you
 or it could be you.
 Tremayne looks Andy up and down.
-LUCY (CONTINUED)
+LUCY 
 They won't be doing that test until the baby is born.
 During which time I expect complete cooperation from
 you two "gentlemen."
@@ -1548,15 +1466,6 @@ Hawk continues to monitor Ben thru the window. Cooper speaks urgently. Takes a p
 paper from his pocket hands it to Truman.
 COOPER
 Ben Horne's blood test.
-
-(CONTINUED)
-
-#2.009.5d
-
-Revised 10-8-90, GREEN
-36.
-
-23A. CONTINUED:
 TRUMAN
 Why? Why did he kill her?
 COOPER
@@ -1586,19 +1495,19 @@ Ben'S VOICE
 see/One chants out between two worlds/Fire, walk with
 me.
 CUT TO:
-24. OMITTED
+ OMITTED
 24A. OMITTED
 
-#2.009.5c
+.5c
 
-37.
+
 
 24B. A SMOKE DETECTOR
 Smoke curling into its curves.
 CUT TO:
 
-25. OMITTED
-26. INT. INTERROGATION - DAY
+ OMITTED
+ INT. INTERROGATION - DAY
 Ben rises in his chair as he continues reciting.
 BEN
 (a towering, terrifying sound)
@@ -1629,10 +1538,10 @@ ALBERT
 That smell.
 TRUMAN
 Burnt engine oil.
-(CONTINUED)
 
-#2.009.5d
-26B. CONTINUED:
+
+.5d
+26B. 
 Ben's eyes flutter open. It's Ben. Bob is gone. And Ben is dying.
 BEN
 Where ... where am I?
@@ -1672,12 +1581,12 @@ They wanted Laura ... they wanted her, but she was strong
 ... she fought them, she wouldn't let them in ... they
 made me kill that girl, Theresa, they said if I didn't
 give Laura to them they'd make me kill her too ...
-(CONTINUED)
 
-38.
 
-#2.009.5c
-26B. CONTINUED:(2)
+
+
+.5c
+26B. (2)
 
 ALBERT
 (quiet, horrified, to Cooper)
@@ -1707,7 +1616,7 @@ all things are like the void and cloudless sky, and the
 naked, spotless intellect is like a transparent vaccum,
 without circumference or center ...
 Ben's face calms. His eyes clear. Albert and Truman watch, electrified.
-COOPER (CONTINUED)
+COOPER 
 At this moment, know yourself and abide in that state ...
 (gently places two fin gers on his carotid artery)
 Look towards the light, Ben, look towards the light.
@@ -1717,14 +1626,14 @@ I see it ...
 COOPER
 Move towards it now ... into the light ... into the light ...
 into the light ...
-(CONTINUED)
 
-39.
 
-#2.009.5c
-26B. CONTINUED:(3)
 
-40.
+
+.5c
+26B. (3)
+
+
 
 BEN
 I see her ... she's there ...
@@ -1741,7 +1650,7 @@ He dies. Cooper looks up at Albert and Truman. Truman dries the tears in his eye
 closes Ben's eyes. Above them, water stops flowing from the sprinklers.
 DISSOLVE TO:
 
-27. EXT. WOODS - DAY
+ EXT. WOODS - DAY
 
 A short time later. Truman, Cooper and Albert step through the pines. As if to seek refuge in
 the rain-fresh air. Major Briggs is standing in a clearing.
@@ -1768,10 +1677,10 @@ Sarah Palmer.
 TRUMAN
 Then how did Ronette see him in the train car?
 
-(CONTINUED)
 
-#2.009.5c
-27. CONTINUED:
+
+.5c
+ 
 
 COOPER
 (just an idea)
@@ -1809,30 +1718,30 @@ Pause. No one seems to disagree.
 TRUMAN
 Well. There's another thing that bothers me.
 They look to him.
-TRUMAN (CONTINUED)
+TRUMAN 
 If he was real. If he was here and we had him, trapped,
 and he got away ... where is Bob now?
-(CONTINUED)
 
-41.
 
-#2.009.5c
 
-42.
 
-27. CONTINUED:(2)
+.5c
+
+
+
+ (2)
 They look at each other. No one has the answer.
 DISSOLVE TO:
 
-28. EXT. WOODS - NIGHT
+ EXT. WOODS - NIGHT
 
 The wind blows fiercely. We move through the woods, slowly at first, then gathering speed.
 We stop in a clearing. the wind stops, abruptly. We hear something moving through the
 underbrush.
 SMASH CUT TO:
-29. AN OWL
+ AN OWL
 Flying, into frame, full face, screeching in an unearthly high pitch.
 CUT TO BLACK:
 THE END
 
-
+

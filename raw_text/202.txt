@@ -1,11 +1,6 @@
-TWIN PEAKS
-#2.002
-
-1.
-#2.002
 ACT ONE
 FADE IN:
-1.
+
 
 INT. GREAT NORTHERN DINING ROOM - DAY
 Morning. CAMERA MOVES slowly through the dining room, a walking POV. AGENT
@@ -14,7 +9,7 @@ ANOTHER ANGLE reveals this to be the POV of the ASIAN MAN. He continues,
 allows a waitress to seat him.
 CUT TO:
 
-2.
+
 
 INT. GREAT NORTHERN CORRIDOR - NIGHT
 Cooper and Albert sit at the table arrayed with breakfast foods. Griddlecakes, orange
@@ -45,13 +40,13 @@ COOPER
 Ronette Pulaski has come out of her coma.
 ALBERT
 And?
-(CONTINUED)
 
-#2.002
-2.
-2.
 
-CONTINUED:
+
+
+
+
+
 COOPER
 I'm thinking Ronette has quite a story to tell, once she
 regains her ability to speak.
@@ -61,7 +56,7 @@ COOPER
 Wakened, but silent. Probably shock.
 Cooper pulls two police sketches out of his briefcase. Leo Johnson. And Bob, the longhaired man.
 COOPER
-(continued)
+
 I intend to show her these.
 (re appropriate sketch)
 Leo Johnson. And Bob - the man Sarah Palmer saw in her
@@ -89,11 +84,11 @@ The killer snuffed the fat with a pillow. He was
 Wearing gloves. Tape used to bind his wrists was stolen
 from hospital supply closet. That's all. If Jacques has any
 secrets he'll be taking them underground.
-(CONTINUED)
 
-#2.002
-3.
-CONTINUED:(2)
+
+
+
+(2)
 COOPER
 The mill?
 ALBERT
@@ -126,13 +121,13 @@ night in question. No surprise there. Senor Drool Cup
 has, shall we say, a mind that wanders. He The waitress interrupts, delivers a check. Cooper holds out a hand, signals he'll pay for it.
 As Cooper signs his name and room:
 
-(CONTINUED)
 
-#2.002
-4.
-2.
 
-CONTINUED:(3)
+
+
+
+
+(3)
 COOPER
 I appreciate your coming, Albert. We need the very best.
 ALBERT
@@ -160,22 +155,22 @@ That's not good ...
 HOLD ON Cooper for a beat.
 CUT TO:
 
-3.
+
 
 INT. GREAT NORTHERN DINING ROOM - DAY
 Across the room, someone is watching. It is the Asian Man. He looks long at Agent
 Cooper.
 CUT TO:
 
-4.
+
 
 EXT. HOSPITAL - DAY
 Establish.
 CUT TO:
 
-#2.002
-5.
-4.
+
+
+
 
 INT. RONETTE PULASKI'S HOSPITAL ROOM - DAY
 RONETTE PULASKI gazes at the ceiling with blank expression. ANOTHER ANGLE
@@ -207,11 +202,11 @@ A long beat. Ronette proceeds slowly, as though underwater. Finally she nods. Ye
 COOPER
 Is this the man that hurt you?
 Another beat. Then, finally ... she shakes her head. No.
-(CONTINUED)
 
-#2.002
-6.
-CONTINUED:
+
+
+
+
 TRUMAN
 (confirming)
 No.
@@ -247,8 +242,8 @@ HOLD ON this tableau. Ronette upon the hospital bed. Cooper, Truman, and the nur
 hovering about her.
 CUT TO:
 
-#2.002
-7.
+
+
 6:
 
 EXT. ONE-EYED JACK'S - DAY
@@ -286,13 +281,13 @@ AUDREY
 We worked Spokane together. Shriners and stuff.
 NANCY
 Ronette.
-(CONTINUED)
 
-#2.002
-8.
-7.
 
-CONTINUED:
+
+
+
+
+
 AUDREY
 (alert)
 You know her?
@@ -313,7 +308,7 @@ Anything you say, 'Miss Horne.'
 Busted. Nancy turns her gaze toward Battis by the door.
 CUT TO:
 
-8.
+
 
 EXT. APARTMENT HOUSE - DAY
 DONNA HAYWARD stands at the door, carrying a covered meal tray. She checks a piece
@@ -326,20 +321,20 @@ Enter.
 Donna hesitates, tries the door. It's open. She hefts the tray, steps inside.
 CUT TO:
 
-9.
+
 
 INT. TREMOND APARTMENT - DAY
 A shadowy interior. Pill bottles of every size and description on litter the room. An old
 woman, MRS. TREMOND, reclines in bed. A SMALL BOY stands before her. He wears
 a dark suit. The boy's hands move gracefully through the air, perform a magic card trick.
-(more)
-(CONTINUED)
 
-#2.002
-9.
-9.
 
-CONTINUED:
+
+
+
+
+
+
 The old woman expectorates quietly into a handkerchief. She mutters.
 TREMOND
 Again.
@@ -373,14 +368,14 @@ Laura Palmer brought them to me. She's dead.
 DONNA
 I'm taking over Laura's route.
 The little boy cuts a piece of chicken, holds it toward the old woman. She takes the food in
-(more)
-(CONTINUED)
 
-#2.002
-10.
-9.
 
-CONTINUED:(2)
+
+
+
+
+
+(2)
 her mouth, chews slowly. Donna stands mute, ignored for the moment.
 DONNA
 Did you know her well?
@@ -402,22 +397,22 @@ The little boy steps to Donna's side. He produces a red rose, sleight of hand, a
 her. Donna smiles.
 CUT TO:
 
-10. EXT. APARTMENT HOUSE - DAY
+ EXT. APARTMENT HOUSE - DAY
 Donna stands before apartment number 3, knocks. But no one answers. She scribbles a note,
 slides it under the door.
 Donna steps back to her car. Behind her, hands gently part pale curtains. Someone watches
 her leaving.
 CUT TO:
-11. INT. BEN HORNE'S OFFICE - DAY
+ INT. BEN HORNE'S OFFICE - DAY
 BEN HORNE sits at his desk, a mill ledger spread out before him. JERRY HORNE
 bounds about, nibbling on a block of cheese. Flames leap in the office fireplace.
 Ben barks an order into the phone.
 BEN
 Tell Mrs. Horne I'm in a meeting.
-(CONTINUED)
 
-#2.002
-CONTINUED:
+
+
+
 Jerry pauses in front of Ben's desk. Gestures. As if to make a formal presentation.
 JERRY
 Ben, I'm struggling for understanding. Evidence to be
@@ -451,11 +446,11 @@ JERRY
 So you promised Catherine the moon. Catherine eats
 cheese instead.
 Jerry offers Ben a bite from the block he's holding. Ben shakes it off, replies:
-(CONTINUED)
 
-#2.002
-12.
-CONTINUED: (2)
+
+
+
+ (2)
 BEN
 Josie is a more than pliable business partner.
 JERRY
@@ -489,11 +484,11 @@ JERRY
 Bad news for us then.
 BEN
 If it went public.
-(CONTINUED)
 
-#2.002
-13.
-CONTINUED:(3)
+
+
+
+(3)
 JERRY
 Let's keep it private.
 BEN
@@ -510,8 +505,8 @@ I told you I'm in a meeting!
 
 The secretary interrupts, holds out a note for his perusal.
 
-14.
-11. CONTINUED:(4)
+
+ (4)
 BEN
 (re note)
 Mrs. Horne?
@@ -523,14 +518,14 @@ No. Audrey appears to be missing.
 FADE TO BLACK
 END ACT ONE
 
-#2.002
-15.
+
+
 ACT TWO
 FADE IN:
-12. EXT. BLUE PINE LODGE - DAY
+ EXT. BLUE PINE LODGE - DAY
 Establish. A Sheriff's cruiser parked out front.
 CUT TO:
-13. INT. BLUE PINE LODGE - DAY
+ INT. BLUE PINE LODGE - DAY
 Cooper, Truman, and Albert gather about PETE MARTELL at the dining room table.
 Pete's dazed, a little singed around the edges.
 PETE
@@ -563,11 +558,11 @@ Feets don't fail me now.
 Pete? Let's make a heroic attempt to keep our minds, and
 what's left of yours, trained on the night in question. The
 night the mill burned down.
-(CONTINUED)
 
-#2.002
-16.
-13. CONTINUED:
+
+
+
+ 
 Pete looks up, seems to see Albert for the first time.
 PETE
 I don't like you.
@@ -602,11 +597,11 @@ with a baleful stare. A beat. Then, in a whisper:
 PETE
 Catherine's dead.
 Pete sighs. Then stands, offers.
-(CONTINUED)
 
-#2.002
-17.
-13. CONTINUED:(2)
+
+
+
+ (2)
 PETE
 Let me get you boys some coffee.
 Pete shuffles off toward the kitchen. Cooper and Albert trade conclusions. Truman watches
@@ -628,7 +623,7 @@ COOPER
 I want Shelly Johnson. She can put Leo at the scene.
 Catherine too.
 INTERCUT WITH:
-14. INT. BLUE PINE LODGE KITCHEN - DAY
+ INT. BLUE PINE LODGE KITCHEN - DAY
 Pete prepares coffee. Wipes a fugitive tear from his eye. The phone rings. He answers it.
 PETE
 Hello?
@@ -641,9 +636,9 @@ man I don't like. I can (beat)
 All right, Josie. I won't tell a soul.
 CUT TO:
 
-#2.002
-18.
-15. INT. BLUE PINE LODGE - DAY
+
+
+ INT. BLUE PINE LODGE - DAY
 Meanwhile, Cooper and Albert continue. Truman spectates as before.
 ALBERT
 We need a look at Catherine Martell's will.
@@ -679,11 +674,11 @@ Until he started talking rude to me. Like I wasn't even
 there. Rodney Pocquet hurt my feelings. He embarrassed
 me in front of my friends. That made me mad.
 Pete pauses, sets down the coffee pot. Albert wonders.
-(CONTINUED)
 
-#2.002
+
+
 18A.
-CONTINUED:
+
 ALBERT
 (with a sigh)
 Is there a point to this insensate ramble?
@@ -696,7 +691,7 @@ ALBERT
 Not again.
 They nod. And Pete floors Albert with a slow right cross to the jaw.
 CUT TO:
-16. INT. THE DOUBLE R DINER - DAY
+ INT. THE DOUBLE R DINER - DAY
 OPEN ON a police flyer. The official sketch of the long-haired man named Bob. And a
 headline. HAVE YOU SEEN THIS MAN?
 ANOTHER ANGLE reveals DEPUTY ANDY BRENNAN as he carefully attaches the
@@ -704,11 +699,11 @@ flyer to the inside of the Double R Diner doors. Andy's using scotch tape to aff
 flyer. He's managed to get a piece caught in his tufted hair. LELAND PALMER and
 MADDY FERGUSON enter past Andy and move to a booth. Leland is resplendent in
 sharp suit, bright white hair, and a whole new attitude. He nearly beams.
-(CONTINUED)
 
-#2.002
-19.
-16. CONTINUED:
+
+
+
+ 
 LELAND
 Best chocolate malteds this side of the Mississippi.
 MADDY
@@ -716,7 +711,7 @@ I haven't tried a malt here yet.
 LELAND
 Then I insist, dear. Simple pleasures. Life is too short.
 NORMA JENNINGS approaches.
-LELAND (CONTINUED)
+LELAND 
 Norma, two chocolate malteds, with a dollop of
 whipped cream on the top.
 NORMA
@@ -724,7 +719,7 @@ You're looking well, Mr. Palmer.
 LELAND
 I'm feeling well, thank you.
 Norma moves back to the counter. Leland recounts a happy memory.
-LELAND (CONTINUED)
+LELAND 
 Laura's favorite was a drink we used to call a Brown Cow.
 It's like a root beer float only made with a cola drink
 and vanilla ice cream. She had her first, with me, in that
@@ -735,20 +730,20 @@ LELAND
 A man must take care of his family. And I still have a
 family to take care of.
 He reaches over, takes her hands. With pride.
-LELAND (CONTINUED)
+LELAND 
 I'm coming through the pain, Maddy. I'm coming
 through alive.
 CUT TO:
-17. INT. DINER - DAY
+ INT. DINER - DAY
 Behind the counter, Norma makes chocolate shakes. HANK JENNINGS enters the diner,
 moves behind the counter with a winning smile. Norma can't help but return it.
 NORMA
 What are you grinning about?
-(CONTINUED)
 
-#2.002
-20.
-17. CONTINUED:
+
+
+
+ 
 HANK
 You.
 NORMA
@@ -785,19 +780,19 @@ HANK
 It's the car you always wanted, Norma. The car I said
 I'd get you one day. Remember?
 (beat)
-(more)
-(CONTINUED)
 
-#2.002
-CONTINUED:(2)
-HANK (CONTINUED)
+
+
+
+(2)
+HANK 
 Tell me you remember, Norma.
 Norma looks him right in the eyes, gently, but determined to resist him just the same.
 NORMA
 I remember.
 With that she picks up the malteds and moves to Leland's booth.
 CUT TO:
-18. INT. THE DOUBLE R DINER - DAY
+ INT. THE DOUBLE R DINER - DAY
 Norma sets down the malteds.
 LELAND
 Thank you, Norma. Now, Maddy, a little piece of
@@ -825,11 +820,11 @@ Okay.
 LELAND
 You've said you don't really have that much to go back to
 in Missoula. You've also said how much you like it here.
-(CONTINUED)
 
-#2.002
-22.
-18. CONTINUED:
+
+
+
+ 
 MADDY
 It's true.
 LELAND
@@ -845,7 +840,7 @@ You shouldn't say anything until you eat that malted.
 She smiles. They dig in.
 CUT TO:
 (19 & 20 ommited)
-21. INT. THE DOUBLE R DINER - DAY
+ INT. THE DOUBLE R DINER - DAY
 MAJOR BRIGGS enters and sits at the counter, enjoys a cup of coffee, a little
 contemplation. The LOG LADY appears, sits beside him. Holding, patting her log. She
 eyes the medals arrayed on the Major's uniform.
@@ -866,11 +861,11 @@ MAJOR BRIGGS
 I don't believe we've been introduced.
 LOG LADY
 My log requires no introduction. Can you hear it?
-(CONTINUED)
 
-#2.002
-23.
-21. CONTINUEDMAJOR BRIGGS
+
+
+
+ MAJOR BRIGGS
 No, ma'am. I cannot.
 LOG LADY
 I will translate.
@@ -880,10 +875,10 @@ Major Briggs peers at the Log Lady with the usual impenetrable resolve. Then, a 
 MAJOR BRIGGS
 Yes. As a matter of fact, I do.
 CUT TO:
-22. EXT. SHERIFF'S STATION - DAY
+ EXT. SHERIFF'S STATION - DAY
 Establish.
 CUT TO:
-23. INT. SHERIFF'S STATION - DAY
+ INT. SHERIFF'S STATION - DAY
 Deputy Andy marches up to reception, LUCY MORAN behind the sliding glass. He pulls
 it open with a forceful tug. But Lucy glares ...
 LUCY
@@ -903,15 +898,15 @@ Lucy looks up at Andy, her lips quivering slightly. Then she reaches forward, as
 him. Andy reacts, leans closer ... and Lucy TEARS the scotch tape from his head, closes the
 glass door one last time.
 CUT TO:
-24. INT. SHERIFF TRUMAN'S OFFICE - DAY
+ INT. SHERIFF TRUMAN'S OFFICE - DAY
 Hank Jennings stands and stares at the stag's head mounted on the wall behind Sheriff
 Truman's desk. There's a placard beneath it that reads: THE BUCK STOPPED HERE.
 Suddenly, a voice behind him:
-(CONTINUED)
 
-#2.002
-24.
-24. CONTINUEDTRUMAN'S VOICE
+
+
+
+ TRUMAN'S VOICE
 Hello, Hank.
 Hank turns to find Sheriff Truman and Agent Cooper enter the office.
 TRUMAN
@@ -946,11 +941,11 @@ Audrey Horne is missing.
 FADE TO BLACK
 END ACT TWO
 
-#2.002
-25.
+
+
 ACT THREE
 FADE IN:
-25. INT. SHERIFF'S STATION - DAY
+ INT. SHERIFF'S STATION - DAY
 Harry escorts Ben out of his office.
 BEN
 I'd appreciate it if you would keep this quiet, Harry.
@@ -966,7 +961,7 @@ TRUMAN
 I understand, Ben. We'll be in touch.
 Ben exits. Harry turns to find Cooper in the office doorway, watching with evident concern.
 CUT TO:
-26. INT. HOSPITAL ROOM - DAY
+ INT. HOSPITAL ROOM - DAY
 LEO JOHNSON stares at the ceiling. At the future, at the past, at nothing at all. His eyes
 are blank and fathomless.
 SHELLY JOHNSON stands with DOC HAYWARD at his bedside. She is dressed in
@@ -982,11 +977,11 @@ I'm afraid tile resulting oxygen deprivation starved his
 brain, induced the coma you see here.
 SHELLY
 He's a vegetable?
-(CONTINUED)
 
-#2.002
-26.
-26. CONTINUED:
+
+
+
+ 
 HAYWARD
 (with a sigh)
 He is not in pain. Beyond that, it's hard to tell.
@@ -1009,15 +1004,15 @@ HAYWARD
 Yes he is.
 She starts to cry, softly. Doc puts a comforting arm around her.
 CUT TO:
-(CONTINUED)
 
-#2.002
-27.
-27. INT. GREAT NORTHERN HOTEL LOBBY - DAY
+
+
+
+ INT. GREAT NORTHERN HOTEL LOBBY - DAY
 Leland Palmer steps through the lobby. Full of life, new purpose, he nearly skips. A
 receptionist sees him pass by, doubletakes.
 CUT TO:
-28. INT. BEN HORNE'S OFFICE - DAY
+ INT. BEN HORNE'S OFFICE - DAY
 Ben sits behind his desk. Jerry enters, tosses a document upon it.
 JERRY
 One life insurance policy. Unsigned.
@@ -1047,11 +1042,11 @@ we must insure that the moment, our moment, does not
 pass. I would recommend a quick and cordialfollow-up
 phonecall to Iceland, a little gentle handling, just to let
 Einer know we're on top of it.
-(CONTINUED)
 
-#2.002
-28.
-28. CONTINUED:
+
+
+
+ 
 JERRY
 (deadpan)
 We can handle that.
@@ -1061,7 +1056,7 @@ Ben Home for Einer Thorson - Einer! (Icelandic phrase)
 What's that? You heard about it how? Mr. Palmer called
 you to tell you about the fire?
 Leland gives a big "ok" sign to Ben. Jerry rolls his eyes.
-BEN (CONTINUED)
+BEN 
 No, I wouldn't call it a disaster at all. It was just one of
 those things. An unfortunate development but I assure you
 it in no way affects our developmcnt plans.
@@ -1080,8 +1075,8 @@ Leland, here's an idea, let's take you off damage control
 and have you concentrate on something you can handle,
 like my tax return -
 
-#2.002
-29.
+
+
 But Leland's not listening. He stares at Ben's desk, the police flyer upon it. Bob the longhaired man. HAVE YOU SEEN ...?
 LELAND
 I know him.
@@ -1098,10 +1093,10 @@ BEN
 I would like, I deserve, a little fun in my day. Nothing
 complicated. No big deal. just a little fun.
 CUT TO:
-29. EXT. ONE-EYED JACK'S - NIGHT
+ EXT. ONE-EYED JACK'S - NIGHT
 Establish.
 CUT TO:
-30. INT. ONE-EYED JACK'S CORRIDOR - NIGHT
+ INT. ONE-EYED JACK'S CORRIDOR - NIGHT
 An attractive Fifty-Two PICKUP carries a bucket of ice down the hall. Audrey lingers
 outside a closed door, wonders.
 AUDREY
@@ -1110,9 +1105,9 @@ The Pickup shrugs, offers the bucket. And her free hand to 'tag.' Audrey slaps h
 carries the ice inside.
 CUT TO:
 
-#2.002
-30.
-31. INT. ONE-EYED JACKS ROOM - NIGHT
+
+
+ INT. ONE-EYED JACKS ROOM - NIGHT
 Emory Battis sits in a comfortable armchair, feet up. He wears an Oriental robe, a Santa's
 cap, and a silk scarf tied around his eyes. His toenails have been painted bright red, cotton
 balls between them as they dry.
@@ -1147,11 +1142,11 @@ girl was tougher than she looked. She kicked the crap out
 of the bad old wolf, and told her father all about it.
 After that she told the police. And the bad old wolf
 went to prison for a thousand years.
-(CONTINUED)
 
-#2.002
-31.
-31. CONTINUED:
+
+
+
+ 
 As she speaks, Audrey twists the scarf tighter and tighter. Now she releases it. Battis gasps
 for breath. At last:
 BATTIS
@@ -1186,11 +1181,11 @@ One weekend. She was using drugs, we threw her out. I
 never saw her again. I swear.
 AUDREY
 Did my father know she was here?
-(CONTINUED)
 
-#2.002
-32.
-31. CONTINUED:(2)
+
+
+
+ (2)
 BATTIS
 Yes. Yes he did. Mr. Home makes it his business to
 entertain all the girls.
@@ -1212,7 +1207,7 @@ FADE TO BLACK
 
 END ACT THREE
 
-33.
+
 ACT FOUR
 FADE IN:
 32
@@ -1252,11 +1247,11 @@ who is standing there.
 JAMES
 (confused)
 Donna, what's going on?
-(CONTINUED)
 
-#2.002
-34.
-33. CONTINUED:
+
+
+
+ 
 DONNA
 (whispered)
 I'm trembling, James. You made me.
@@ -1265,7 +1260,7 @@ HAYWARD'S VOICE
 Donna. It's for you. Harold Smith?
 Donna reacts. Steps away.
 CUT TO:
-34. INT. HAYWARD HOUSE - NIGHT
+ INT. HAYWARD HOUSE - NIGHT
 Donna moves to the phone, answers.
 DONNA
 Hello? Mr. Smith?
@@ -1293,9 +1288,9 @@ He hangs up. Donna holds the phone for a beat. Now sees James standing in a door
 wondering who she's talking to.
 CUT TO:
 
-#2.002
-35.
-35. INT. HAYWARD LIVING ROOM - NIGHT
+
+
+ INT. HAYWARD LIVING ROOM - NIGHT
 Maddy sits alone. She feels a chill, looks to her right.
 ANGLE ON DINING ROOM (Maddy's vision)
 BOB, the long-haired man, sits-quietly at the dining, room table. Now he turns to face her,
@@ -1312,10 +1307,10 @@ Are you all right?
 Maddy turns back toward the dining room, afraid of what she might see. But the long
 haired man is gone.
 CUT TO:
-36. EXT. LEO JOHNSON'S HOUSE - NIGHT
+ EXT. LEO JOHNSON'S HOUSE - NIGHT
 Establish.
 CUT TO:
-37. INT. LEO JOHNSON'S HOUSE - NIGHT
+ INT. LEO JOHNSON'S HOUSE - NIGHT
 BOBBY BRIGGS and Shelly sit entwined upon a couch.
 SHELLY
 It's so weird. It's like his eyes are empty but he's looking
@@ -1326,11 +1321,11 @@ SHELLY
 I don't want to be afraid of Leo anymore.
 BOBBY
 Bobby's here, baby. You don't have to be afraid.
-(CONTINUED)
 
-#2.002
-36.
-37. CONTINUED:
+
+
+
+ 
 SHELLY
 Did you find out about the insurance?
 BOBBY
@@ -1369,12 +1364,12 @@ here.
 SHELLY
 (she knows the answer)
 Together?
-(CONTINUED)
 
-#2.002
+
+
 37-38
 
-37. CONTINUED:
+ 
 BOBBY
 What do you think?
 Bobby lifts Shelly's hand to his mouth, kisses it. He gently sucks on a finger. Shelly sighs.
@@ -1390,18 +1385,18 @@ SHELLY
 Just watch me.
 Bobby and Shelly sink down upon the couch to make love.
 CUT TO:
-38. OMITTED
-39. INT. AGENT COOPER'S HOTEL ROOM - NIGHT
+ OMITTED
+ INT. AGENT COOPER'S HOTEL ROOM - NIGHT
 START CLOSE on Audrey's note to Agent Cooper, still hidden on the floor beneath his bed.
 A trilling musical scale is HEARD from above.
 CAMERA REVEALS Cooper on his bed, shoes off, holding his handmade wooden flute.
 He pauses to glance at the television glowing in a corner. Then en activates the microrecorder positioned on a bedside table.
 
-(CONTINUED)
 
-#2.002
-39.
-39. CONTINUED:
+
+
+
+ 
 COOPER
 Diane, I received bad news today. Windom Earle has
 vanished. Audrey Home is missing. There is of course no
@@ -1427,11 +1422,11 @@ Cooper flicks off the recorder. Sets it on his bedside table. just then: a knock
 COOPER
 Just a minute.
 
-(CONTINUED)
 
-#2.002
-40.
-39. CONTINUED (2)
+
+
+
+  (2)
 Cooper rises with a wince - his wounds still give pain - and steps to the door. The last
 time he opened it, Cooper received three slugs in the chest. This time he finds Major Briggs
 standing there.
@@ -1469,11 +1464,11 @@ night. Saturday morning, to be exact.
 COOPER
 (to self)
 When I was shot.
-(CONTINUED)
 
-#2.002
-41.
-39. CONTINUED: (3)
+
+
+
+  (3)
 BRIGGS
 The readout took us by surprise.
 Briggs holds out another paper readout, the usual jumbled numbers and letters. And a
@@ -1505,11 +1500,11 @@ Helping you. just like I said.
 COOPER
 This is not the time or place for schoolgirl games. I want
 you to come home.
-(CONTINUED)
 
-#2.002
-42.
-39B.CONTINUED:
+
+
+
+39B.
 AUDREY
 (with affection)
 Keep your shirt on. I'll be back before you know it.
@@ -1524,7 +1519,7 @@ With that she hangs up.
 COOPER
 Audrey? Audrey?
 CUT TO:
-40. INT. ONE-EYED JACKS - NIGHT
+ INT. ONE-EYED JACKS - NIGHT
 Audrey sets down the receiver. She turns, reacts. BLACKIE and Emory Battis stand before
 her.
 BLACKIE
@@ -1535,4 +1530,4 @@ FADE TO BLACK
 
 THE END
 
-
+

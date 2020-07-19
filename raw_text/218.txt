@@ -1,14 +1,6 @@
-TWIN PEAKS #25
-(Episode 2.018)
-
-#2.018
-
-Revised 1-21-91, PINK
-1.
-
 ACT ONE
 FADE IN:
-1.
+
 
 INT. BOOKHOUSE - NIGHT
 Truman in a cot turns restlessly in his drunken sleep. He rolls over. A naked woman snuggles
@@ -31,7 +23,7 @@ him. But at the same time Jones pulls the magnesium wire tighter. Truman fights 
 and free her hands from the garotte.
 ANOTHER ANGLE
 
-2.
+
 
 Truman manages to stand. Jones wraps her legs around him. Truman tears at her trying to get a
 grip. Carrying her to a wall, Truman pounds her again and again against it. Jones is nearly
@@ -50,16 +42,16 @@ WHEELER
 The door opens. Wheeler remains completely absorbed in what he is doing. Not noticing
 that it is AUDREY HORNE who brings in his breakfast. Without looking up he retrieves a
 money clip to give her a tip. Then notices it is Audrey. Surprised and pleased.
-(CONTINUED)
 
-#2.018
-2.
 
-CONTINUED:
+
+
+
+
 Audrey.
 
-Revised 1-21-91, PINK
-2.
+
+
 
 WHEELER
 
@@ -97,15 +89,15 @@ AUDREY
 I'm not the only one who flirts.
 WHEELER (beat, he smiles)
 You're right. I stand corrected.
-(CONTINUED)
 
-#2.018
-2.
 
-CONTINUED:(2)
 
-Revised 1-21-91, PINK
-3.
+
+
+(2)
+
+
+
 
 AUDREY
 This could get confusing.
@@ -138,7 +130,7 @@ If you're busy I'll understand...
 AUDREY
 Yes. I mean yes I'm busy. And yes I'll go.
 They kiss.
-3.
+
 
 INT. SHERIFFS STATION, INTERROGATION ROOM DAY
 
@@ -153,14 +145,14 @@ TRUMAN
 Not a word. Wants to speak to the South African
 counsulate.
 
-(CONTINUED)
 
-#2.018
-3.
 
-4.
 
-CONTINUED:
+
+
+
+
+
 COOPER
 My guess would be there's a half-dozen countries
 looking to extradite her.
@@ -199,13 +191,13 @@ Truman rushes into the bathroom. Cooper, having acheived the desired stomach-pum
 gives a thumbs-up.
 CUT TO:
 
-#2.018
-4.
+
+
 
 INT. TRUMAN'S OFFICE - DAY
 
-Revised 1-23-91, YELLOW
-5.
+
+
 
 Cooper enters to find DOC HAYWARD admiring a BONSAI TREE that sits on Truman's
 desk. A bow is wrapped around the base of the plant.
@@ -230,7 +222,7 @@ TRUMAN
 Windom Earle was?
 DOC
 He left this with Donna.
-Truman takes out a chess piece that is tagged with a chess move. It reads "Kn to KB3."
+Truman takes out a chess piece that is tagged with a chess move. It reads "Kn to KB"
 Another note reads "Trying for a Stalemate?"
 TRUMAN
 What do we do?
@@ -241,18 +233,18 @@ DALE COOPER, A SIGHT FOR SORE EYES IF EVER
 THERE WAS ONE. GIMME THE GLAD HAND.
 Gordon Cole moves into the room.
 
-(CONTINUED)
 
-#2.018
 
-Revised 1-23-91, YELLOW
-6.
 
-4.
 
-CONTINUED:
 
-5.
+
+
+
+
+
+
+
 
 He hands Cooper a large folder. As Cole continues we MOVE IN on the Bonsai plant.
 Closer and closer till an ELECTRONIC BUG is visible.
@@ -290,19 +282,19 @@ COOPER
 "Project Blue Book." How could he have been working on that..?
 COLE
 WE LOANED HIM OUT TO THE AIR FORCE
-IN '65. REPORTS ON HIS TWO-YEAR HITCH
+IN ' REPORTS ON HIS TWO-YEAR HITCH
 ARE BLACKED OUT. NATIONAL SECURITY.
 TRUMAN (picking up on Cooper's concern)
 Wait a minute, Earle was investigating UFO's?
-(CONTINUED)
 
-#2.018
-5.
 
-CONTINUED:
 
-Revised 1-23-91, YELLOW
-7.
+
+
+
+
+
+
 
 Another worry for the group.
 COOPER
@@ -332,7 +324,7 @@ WE NEED YOU BACK ON THE TEAM.
 (Cooper looks at the gun)
 BRAND NEW ISSUE. MORE ACCURATE AND
 EFFICIENT. SMITH AND WESSON, TEN
-MILLIMETER. MOD 1076. ALL STAINLESS
+MILLIMETER. MOD 10 ALL STAINLESS
 STEEL. IT'S QUITE A BEAUTIFUL WEAPON.
 COOPER
 (takes out his badge, studies it)
@@ -344,11 +336,11 @@ INCARCERATE.
 Cooper peers at Cole for a beat. Then, quite serious, gives him the Bureau thumb's up.
 CUT TO:
 
-#2.018
-6.
 
-Revised 1-24-91, CHERRY
-8.
+
+
+
+
 
 INT. EARLE'S CABIN - DAY
 Earle shuffles a deck of cards in front of Leo, then spreads them before him.
@@ -377,13 +369,13 @@ Flips them all over on their faces. They are all JOKERS.
 FADE OUT:
 END ACT ONE
 
-#2.018
 
-9.
+
+
 
 ACT TWO
 FADE IN:
-7.
+
 
 EXT. GREAT NORTHERN - DAY
 The parking lot. A van pulls up. A ramp lowers. EILEEN HAYWARD wheels herself away
@@ -391,7 +383,7 @@ from the van.
 Some distance away, Donna watches from the driver's seat of a car. She gets out and follows
 her mother.
 
-8.
+
 
 INT. GREAT NORTHERN LOBBY/CORRIDOR - DAY
 
@@ -401,7 +393,7 @@ Eileen wheels through the lobby and down the tile corridor. Donna follows at a d
 and moves out of sight when she sees BEN HORNE greet her at the far end of the corridor.
 He helps move her around the corner out of sight.
 Donna wonders.
-9.
+
 
 INT. GREAT NORTHERN LOBBY - DAY
 
@@ -426,14 +418,14 @@ Hi.
 
 NADINE
 DONNA
-(CONTINUED)
 
-#2.018
-9.
 
-10.
 
-CONTINUED:
+
+
+
+
+
 Mike picks up his empty suitcase, he and Nadine stroll off towards the exit, arm in arm.
 Donna watches this curious exit, when Audrey appears in front of her.
 Donna?
@@ -474,14 +466,14 @@ DONNA
 I think they're in his office together. Why?
 CUT TO:
 
-#2.018
 
-Revised 1-21-91, PINK
-11.
+
+
+
 
 10: OMITTED
 
-11. DONNA'S POV
+ DONNA'S POV
 Eileen and Ben Horne are in the middle of a heated discussion. She's trying to give him a
 small packet.
 BEN
@@ -510,18 +502,18 @@ BEN
 Have you told her?
 EILEEN
 God no. No and I never will. You must promise me the
-(more)
-(CONTINUED)
 
-#2.018
 
-Revised 1-21-91, PINK
-12.
 
-11. CONTINUED:
+
+
+
+
+
+ 
 same.
 
-EILEEN (continued)
+EILEEN 
 
 (pause, more pleading)
 I'll never ask anything of you again.
@@ -531,7 +523,7 @@ EILEEN
 (handing the letters again)
 Take them. Please.
 Pause. He does.
-EILEEN (CONTINUED)
+EILEEN 
 You mustn't call. You mustn't come to the house again.
 BEN
 I understand.
@@ -542,7 +534,7 @@ Goodbye.
 BEN
 
 Eileen wheels herself towards the door. Ben moves to help her. They move out of sight.
-12. INT. AUDREY'S PEEPHOLE
+ INT. AUDREY'S PEEPHOLE
 
 CUT TO:
 
@@ -552,18 +544,18 @@ AUDREY
 What the hell was that all about?
 DONNA
 I don't know. But I'm going to find out.
-13. EXT. DOUBLE R DINER - DAY
+ EXT. DOUBLE R DINER - DAY
 
 CUT TO:
 
 Establish.
 CUT TO:
 
-#2.018
-14. INT. DOUBLER DINER - DAY
 
-Revised 1-23-91, YELLOW
-13.
+ INT. DOUBLER DINER - DAY
+
+
+
 
 Truman, Cooper and Cole enter, Cole in mid-shout.
 COLE
@@ -601,16 +593,16 @@ COLE
 THE NAME WAS MILO BUT THAT'S BESIDE
 THE POINT. THAT'S THE KIND OF GIRL
 THAT MAKES YOU WISH YOU
-(more)
 
-(CONTINUED)
 
-#2.018
 
-14.
 
-14. CONTINUED:
-COLE (CONTINUED)
+
+
+
+
+ 
+COLE 
 KNEW A LITTLE FRENCH.
 (slides out of the booth)
 EXCUSE ME, WHILE I TRY MY HAND AT A
@@ -648,15 +640,15 @@ COLE
 (excited)
 YOU DON'T UNDERSTAND She shusses him, amused.
 
-(CONTINUED)
 
-#2.018
-14. CONTINUED:(2)
 
-Revised 1-23-91, YELLOW
-15.
 
-COLE (CONTINUED)
+ (2)
+
+
+
+
+COLE 
 - you don't understand, Miss Johnson, do you see these?
 
 He points to his hearing aids.
@@ -690,19 +682,19 @@ COLE
 Massive. Massive quantities. And a glass of water,
 sweetheart, my socks are on fire.
 COLE sits there with an absolute grin.
-15. COOPER AND TRUMAN
+ COOPER AND TRUMAN
 
 CUT TO:
 
 ANNIE BLACKBURNE moves to the booth to take their order. They're staring out the
 window. Annie does as well.
-(CONTINUED)
 
-#2.018
-15. CONTINUED:
 
-Revised 1-23-91, YELLOW
-16.
+
+ 
+
+
+
 
 COOPER
 (identifying)
@@ -740,15 +732,15 @@ ANNIE
 I'm fine. Actually, I'm weird. I'm disoriented. I'm
 not sure where I am exactly. I mean I know but it feels
 odd, being here. I'm okay.
-(CONTINUED)
 
-#2.018
-15. CONTINUED:(2)
+
+
+ (2)
 
 Good.
 
-Revised 1-23-91, YELLOW
-17.
+
+
 
 COOPER
 (uncertain)
@@ -787,16 +779,16 @@ COOPER
 Turkey sandwhich. Whole wheat. Lettuce. A hair of
 mayonaise. And I've got a joke for you: a couple of
 penguins are walking across an iceberg and the first one
-(more)
-(CONTINUED)
 
-#2.018
-15. CONTINUED:(3)
 
-Revised 1-23-91, YELLOW
-18.
 
-COOPER (continued)
+
+ (3)
+
+
+
+
+COOPER 
 says to the second, "You look like you're wearing a
 tuxedo."
 Annie?
@@ -840,18 +832,18 @@ where Cooper's been doodling.
 ANNIE
 What are you drawing?
 
-(CONTINUED)
 
-#2.018
 
-Revised 1-23-91, YELLOW
-19.
 
-15. CONTINUED:(4)
+
+
+
+
+ (4)
 Cooper looks down at his napkin.
 CUT TO:
 
-16. NAPKIN
+ NAPKIN
 He's doodling the tattos on the Log Lady and Major Briggs.
 RESUME SCENE
 COOPER
@@ -877,13 +869,13 @@ They exchange a smile. Move in on the napkin.
 FADE OUT:
 END ACT TWO
 
-#2.018
 
-20.
+
+
 
 ACT THREE
 FADE IN:
-17. INT. HAYWARD HOUSE - DAY
+ INT. HAYWARD HOUSE - DAY
 Donna steps through the living room, leafing through a handful of afternoon mail. She stops
 suddenly, stares at a postcard, SAN FRANCISCO emblazoned across a rendering of the
 Golden Gate bridge. Donna turns the card over, reads. We HEAR:
@@ -917,12 +909,12 @@ HAYWARD
 (compounding the lie)
 Your mother works with the local charities. I'm sure
 even Ben contributes once in a while.
-(CONTINUED)
 
-#2.018
-17. CONTINUED:
 
-21.
+
+ 
+
+
 
 DONNA
 She drove to the Great Northern this morning. And she
@@ -950,7 +942,7 @@ When Donna returns, she holds a bouquet of flowers in her arms.
 DONNA
 They're for Mom. No card.
 HOLD ON Donna for a beat. A blossom for every lie her father told her.
-18. INT. TWIN PEAKS CITY LIBRARY - DAY
+ INT. TWIN PEAKS CITY LIBRARY - DAY
 
 CUT TO:
 
@@ -963,13 +955,13 @@ STRANGER
 Sorry. My fault.
 AUDREY
 It's okay. I didn't hear you coming...
-(CONTINUED)
 
-#2.018
 
-22.
 
-18. CONTINUED:
+
+
+
+ 
 STRANGER
 One should never allow both mind and foot to wander at
 the same time. Edward Perkins. Again, my apologies.
@@ -1008,13 +1000,13 @@ And the moonbeams kiss the sea...
 EARLE (interjecting)
 What is this sweet work worth
 If thou kiss not me?
-(CONTINUED)
 
-#2.018
 
-23.
 
-18. CONTINUED:(2)
+
+
+
+ (2)
 AUDREY
 Yes ... you know it.
 EARLE
@@ -1036,7 +1028,7 @@ EARLE
 (simply)
 Perhaps we'll meet again someday.
 Earle watches Audrey carry her book into the shadows.
-19. INT. SHERIFF'S STATION - DAY
+ INT. SHERIFF'S STATION - DAY
 
 CUT TO:
 
@@ -1056,13 +1048,13 @@ LUCY
 I want to thank you for helping out during the Weasel
 Riot yesterday which is more than I can say for a certain
 Dick we both know.
-(CONTINUED)
 
-#2.018
 
-24.
 
-19. CONTINUED:
+
+
+
+ 
 ANDY
 (proud)
 Keeping the peace is part of my job.
@@ -1091,7 +1083,7 @@ ANDY
 (never more manly)
 I'll be careful, Lucy. You have my word.
 HOLD ON them for a beat. Love rekindled, or nearly so.
-20. INT. SHERIFF TRUMAN'S OFFICE - DAY
+ INT. SHERIFF TRUMAN'S OFFICE - DAY
 
 CUT TO:
 
@@ -1104,12 +1096,12 @@ Truman hands a piece of paper to Cooper. Cooper reads it, steps to the board, mo
 appropriate piece. He considers the resulting formation.
 COOPER
 We expose a pawn to his bishop.
-(CONTINUED)
 
-#2.018
-20. CONTINUED:
 
-25.
+
+ 
+
+
 
 TRUMAN
 Want me to hold off?
@@ -1123,9 +1115,9 @@ Then a descent into a cool, subteranean cave may be just
 what the doctor ordered.
 
 Cooper tosses the helmet to Truman. He catches it cleanly.
-21. EXT. DOUBLE R DINER - DAY
+ EXT. DOUBLE R DINER - DAY
 Establish.
-22. INT. DOUBLER DINER - DAY
+ INT. DOUBLER DINER - DAY
 
 CUT TO:
 
@@ -1153,13 +1145,13 @@ had newspapers. We even had cable TV. Every time I
 tell someone where I've been they act like I'm out on
 parole.
 
-(CONTINUED)
 
-#2.018
-22. CONTINUED:
+
+
+ 
 Sorry.
 
-26.
+
 
 SHELLY
 
@@ -1199,20 +1191,20 @@ today, I'd say you have a major opporunity.
 ANNIE
 Who said anything about that?
 Shelly walks away, with a knowing smile.
-(CONTINUED)
 
-#2.018
-22. CONTINUED:(2)
 
-Revised 1-22-91, GREEN
-27.
 
-ANNIE (CONTINUED)
+ (2)
+
+
+
+
+ANNIE 
 Sorry, you've got it wrong, I'm not even remotely
 interested.
-23. EXT. GREAT NORTHERN HOTEL - DAY
+ EXT. GREAT NORTHERN HOTEL - DAY
 Establish.
-24. INT. BEN HORNE'S OFFICE - DAY
+ INT. BEN HORNE'S OFFICE - DAY
 
 CUT TO:
 
@@ -1249,16 +1241,16 @@ Well. When I was little, maybe... I...
 Audrey shrugs. Ben lived a life devoid of any and all goodness.
 BEN
 Exactly. But I've changed. And I'm determined to do
-(more)
 
-(CONTINUED)
 
-#2.018
-24. CONTINUED:
 
-28.
 
-BEN (continued)
+
+ 
+
+
+
+BEN 
 better. To be the kind of father you'll respect some day.
 I think about Laura. I think about the mistakes I've
 made...
@@ -1299,16 +1291,16 @@ I'm not sure I can leave on such short ...
 BEN
 (not listening, handing her a file)
 Here are the particulars. Time, place, and so on. Bring
-(more)
 
-(CONTINUED)
 
-#2.018
 
-29.
 
-24. CONTINUED:(2)
-BEN (continued)
+
+
+
+
+ (2)
+BEN 
 us back some good news.
 AUDREY
 (inspecting file, heart sinking)
@@ -1344,13 +1336,13 @@ to be good too?
 WHEELER
 I don't see why not. Keep an eye on your heart. Always
 tell the truth.
-(CONTINUED)
 
-#2.018
 
-30.
 
-24. CONTINUED:(3)
+
+
+
+ (3)
 BEN
 (the concept is wondrous)
 Always tell the truth.
@@ -1386,19 +1378,19 @@ carrot. Wheeler accepts.
 FADE TO BLACK.
 END ACT THREE
 
-#2.018
+
 ACT FOUR
 
-Revised 1-24-91, CHERRY
-31.
+
+
 
 FADE IN:
-25. EXT. OWL CAVE - NIGHT
+ EXT. OWL CAVE - NIGHT
 Two police vehicles parked in the dark, their lights shining brightly upon the rock formations
 that enclose Owl Cave.
 CUT TO:
 
-26. INT. OWL CAVE - NIGHT
+ INT. OWL CAVE - NIGHT
 
 START CLOSE on a pair of gloved hands desperately seeking purchase on a rocky wall.
 Flashlight beams illuminate the scene. Encouraging voices are HEARD:
@@ -1428,12 +1420,12 @@ Truman kicks something in the dark, picks it up. A beer can.
 TRUMAN
 (deadpan)
 Beer drinkers, by the look of it.
-(CONTINUED)
 
-#2.018
-26. CONTINUED:
 
-32.
+
+ 
+
+
 
 COOPER
 (fascinated by every detail)
@@ -1476,14 +1468,14 @@ TRUMAN
 
 All rush to his side, claw through the rocks and detritus. Andy lays beneath, bruised, stunned,
 but essentially unharmed.
-(CONTINUED)
 
-#2.018
 
-Revised 1-21-91, PINK
-33-34.
 
-26. CONTINUED:(2)
+
+
+33-
+
+ (2)
 ANDY
 What was that?
 COOPER
@@ -1515,16 +1507,16 @@ be a place both wonderful and strange.
 Cooper reaches out to touch the mysterious design. HOLD ON the cave painting for a beat.
 The rocky formation that once hid it from view.
 CUT TO:
-27. OMITTED
+ OMITTED
 
-#2.018
 
-Revised 1-21-91, PINK
-35.
 
-27. CONTINUED:(2)
 
-28. EXT. THE GREAT NORTHERN - NIGHT
+
+
+ (2)
+
+ EXT. THE GREAT NORTHERN - NIGHT
 Establish. Piano music is heard.
 CUT TO:
 28A. INT. CORRIDOR NEAR DINING ROOM
@@ -1537,18 +1529,18 @@ accurately. It all began with a pair of matching
 tattoos...
 Cooper stops, looks off. He sees someone familiar in the dining room/bar.
 CUT TO:
-29. INT. GREAT NORTHERN BAR - NIGHT
+ INT. GREAT NORTHERN BAR - NIGHT
 Annie Blackburne enters and sits alone at the bar, curious, uncertain. Will she ever be a part of
 this world? Annie raises an arm, tentative, to flag the bartender. Her actions are not those of
 someone timid or shy. But rather the first halting steps of a stranger new to a strange land.
 
-(CONTINUED)
 
-#2.018
 
-36.
 
-29. CONTINUED:
+
+
+
+ 
 ANNIE
 Excuse me?
 (off his look)
@@ -1590,13 +1582,13 @@ You're doing fine. You're here, on your own. And you
 have rum and tonic.
 Cooper speaks with quiet humor and affection. Just the support Annie needs. She smiles
 appreciatively, lifts the glass to her lips, takes a drink. Reacts curiously. Not unpleasant.
-(CONTINUED)
 
-#2.018
 
-37.
 
-29. CONTINUED:(2)
+
+
+
+ (2)
 Cooper watches her gazing at the room, the wonder and doubt in her eyes. Annie senses him
 watching her, Cooper wonders:
 COOPER
@@ -1639,14 +1631,14 @@ ANNIE
 COOPER
 Show you the world. Will you let me?
 
-(CONTINUED)
 
-#2.018
 
-Revised 1-21-91, PINK
-38.
 
-29. CONTINUED:(3)
+
+
+
+
+ (3)
 ANNIE
 (after a beat)
 I'm stubborn. Extremely willful.
@@ -1667,7 +1659,7 @@ Then I accept your kind and generous offer.
 Cooper smiles in kind, reaches out to touch Annie's hand and hold it, just below the scars. He's
 wanted to touch her from the first moment they met.
 CUT TO:
-30. INT. OWL CAVE - NIGHT
+ INT. OWL CAVE - NIGHT
 SUDDENLY - CAMERA follows a flashlight beam as it pierces the darkness inside Owl
 Cave. The beam splashes light upon the cave's rocky walls, then, finally, holds on the landslide
 aftermath, the symbol's fragment, the cave painting revealed beneath.
@@ -1679,4 +1671,4 @@ My, my, my. What have we here?
 FADE TO BLACK.
 THE END
 
-
+
